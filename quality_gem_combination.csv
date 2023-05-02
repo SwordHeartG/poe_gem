@@ -1,0 +1,3565 @@
+gem_name,gem_type,vaal_gem,type_origin,type_target
+Absolution,skill,no,Superior,Anomalous
+Absolution,skill,no,Superior,Divergent
+Absolution,skill,no,Anomalous,Superior
+Absolution,skill,no,Anomalous,Divergent
+Absolution,skill,no,Divergent,Superior
+Absolution,skill,no,Divergent,Anomalous
+Added Chaos Damage Support,support,no,Superior,Anomalous
+Added Chaos Damage Support,support,no,Superior,Divergent
+Added Chaos Damage Support,support,no,Anomalous,Superior
+Added Chaos Damage Support,support,no,Anomalous,Divergent
+Added Chaos Damage Support,support,no,Divergent,Superior
+Added Chaos Damage Support,support,no,Divergent,Anomalous
+Added Cold Damage Support,support,no,Superior,Anomalous
+Added Cold Damage Support,support,no,Superior,Divergent
+Added Cold Damage Support,support,no,Anomalous,Superior
+Added Cold Damage Support,support,no,Anomalous,Divergent
+Added Cold Damage Support,support,no,Divergent,Superior
+Added Cold Damage Support,support,no,Divergent,Anomalous
+Added Fire Damage Support,support,no,Superior,Anomalous
+Added Fire Damage Support,support,no,Superior,Divergent
+Added Fire Damage Support,support,no,Anomalous,Superior
+Added Fire Damage Support,support,no,Anomalous,Divergent
+Added Fire Damage Support,support,no,Divergent,Superior
+Added Fire Damage Support,support,no,Divergent,Anomalous
+Added Lightning Damage Support,support,no,Superior,Anomalous
+Added Lightning Damage Support,support,no,Superior,Divergent
+Added Lightning Damage Support,support,no,Anomalous,Superior
+Added Lightning Damage Support,support,no,Anomalous,Divergent
+Added Lightning Damage Support,support,no,Divergent,Superior
+Added Lightning Damage Support,support,no,Divergent,Anomalous
+Additional Accuracy Support,support,no,Superior,Anomalous
+Additional Accuracy Support,support,no,Superior,Divergent
+Additional Accuracy Support,support,no,Anomalous,Superior
+Additional Accuracy Support,support,no,Anomalous,Divergent
+Additional Accuracy Support,support,no,Divergent,Superior
+Additional Accuracy Support,support,no,Divergent,Anomalous
+Advanced Traps Support,support,no,Superior,Anomalous
+Advanced Traps Support,support,no,Superior,Divergent
+Advanced Traps Support,support,no,Anomalous,Superior
+Advanced Traps Support,support,no,Anomalous,Divergent
+Advanced Traps Support,support,no,Divergent,Superior
+Advanced Traps Support,support,no,Divergent,Anomalous
+Alchemist's Mark,skill,no,Superior,Anomalous
+Alchemist's Mark,skill,no,Superior,Divergent
+Alchemist's Mark,skill,no,Anomalous,Superior
+Alchemist's Mark,skill,no,Anomalous,Divergent
+Alchemist's Mark,skill,no,Divergent,Superior
+Alchemist's Mark,skill,no,Divergent,Anomalous
+Ambush,skill,no,Superior,Anomalous
+Ambush,skill,no,Superior,Divergent
+Ambush,skill,no,Anomalous,Superior
+Ambush,skill,no,Anomalous,Divergent
+Ambush,skill,no,Divergent,Superior
+Ambush,skill,no,Divergent,Anomalous
+Ancestral Call Support,support,no,Superior,Anomalous
+Ancestral Call Support,support,no,Superior,Divergent
+Ancestral Call Support,support,no,Anomalous,Superior
+Ancestral Call Support,support,no,Anomalous,Divergent
+Ancestral Call Support,support,no,Divergent,Superior
+Ancestral Call Support,support,no,Divergent,Anomalous
+Ancestral Cry,skill,no,Superior,Anomalous
+Ancestral Cry,skill,no,Superior,Divergent
+Ancestral Cry,skill,no,Anomalous,Superior
+Ancestral Cry,skill,no,Anomalous,Divergent
+Ancestral Cry,skill,no,Divergent,Superior
+Ancestral Cry,skill,no,Divergent,Anomalous
+Ancestral Protector,skill,no,Superior,Anomalous
+Ancestral Protector,skill,no,Superior,Divergent
+Ancestral Protector,skill,no,Superior,Phantasmal
+Ancestral Protector,skill,no,Anomalous,Superior
+Ancestral Protector,skill,no,Anomalous,Divergent
+Ancestral Protector,skill,no,Anomalous,Phantasmal
+Ancestral Protector,skill,no,Divergent,Superior
+Ancestral Protector,skill,no,Divergent,Anomalous
+Ancestral Protector,skill,no,Divergent,Phantasmal
+Ancestral Protector,skill,no,Phantasmal,Superior
+Ancestral Protector,skill,no,Phantasmal,Anomalous
+Ancestral Protector,skill,no,Phantasmal,Divergent
+Ancestral Warchief,skill,no,Superior,Anomalous
+Ancestral Warchief,skill,no,Superior,Divergent
+Ancestral Warchief,skill,no,Superior,Phantasmal
+Ancestral Warchief,skill,no,Anomalous,Superior
+Ancestral Warchief,skill,no,Anomalous,Divergent
+Ancestral Warchief,skill,no,Anomalous,Phantasmal
+Ancestral Warchief,skill,no,Divergent,Superior
+Ancestral Warchief,skill,no,Divergent,Anomalous
+Ancestral Warchief,skill,no,Divergent,Phantasmal
+Ancestral Warchief,skill,no,Phantasmal,Superior
+Ancestral Warchief,skill,no,Phantasmal,Anomalous
+Ancestral Warchief,skill,no,Phantasmal,Divergent
+Anger,skill,no,Superior,Anomalous
+Anger,skill,no,Superior,Divergent
+Anger,skill,no,Anomalous,Superior
+Anger,skill,no,Anomalous,Divergent
+Anger,skill,no,Divergent,Superior
+Anger,skill,no,Divergent,Anomalous
+Animate Guardian,skill,no,Superior,Anomalous
+Animate Guardian,skill,no,Superior,Divergent
+Animate Guardian,skill,no,Anomalous,Superior
+Animate Guardian,skill,no,Anomalous,Divergent
+Animate Guardian,skill,no,Divergent,Superior
+Animate Guardian,skill,no,Divergent,Anomalous
+Animate Weapon,skill,no,Superior,Anomalous
+Animate Weapon,skill,no,Superior,Divergent
+Animate Weapon,skill,no,Superior,Phantasmal
+Animate Weapon,skill,no,Anomalous,Superior
+Animate Weapon,skill,no,Anomalous,Divergent
+Animate Weapon,skill,no,Anomalous,Phantasmal
+Animate Weapon,skill,no,Divergent,Superior
+Animate Weapon,skill,no,Divergent,Anomalous
+Animate Weapon,skill,no,Divergent,Phantasmal
+Animate Weapon,skill,no,Phantasmal,Superior
+Animate Weapon,skill,no,Phantasmal,Anomalous
+Animate Weapon,skill,no,Phantasmal,Divergent
+Arc,skill,no,Superior,Anomalous
+Arc,skill,no,Superior,Divergent
+Arc,skill,no,Superior,Phantasmal
+Arc,skill,no,Anomalous,Superior
+Arc,skill,no,Anomalous,Divergent
+Arc,skill,no,Anomalous,Phantasmal
+Arc,skill,no,Divergent,Superior
+Arc,skill,no,Divergent,Anomalous
+Arc,skill,no,Divergent,Phantasmal
+Arc,skill,no,Phantasmal,Superior
+Arc,skill,no,Phantasmal,Anomalous
+Arc,skill,no,Phantasmal,Divergent
+Arcane Cloak,skill,no,Superior,Anomalous
+Arcane Cloak,skill,no,Superior,Divergent
+Arcane Cloak,skill,no,Anomalous,Superior
+Arcane Cloak,skill,no,Anomalous,Divergent
+Arcane Cloak,skill,no,Divergent,Superior
+Arcane Cloak,skill,no,Divergent,Anomalous
+Arcane Surge Support,support,no,Superior,Anomalous
+Arcane Surge Support,support,no,Superior,Divergent
+Arcane Surge Support,support,no,Anomalous,Superior
+Arcane Surge Support,support,no,Anomalous,Divergent
+Arcane Surge Support,support,no,Divergent,Superior
+Arcane Surge Support,support,no,Divergent,Anomalous
+Arcanist Brand,skill,no,Superior,Anomalous
+Arcanist Brand,skill,no,Superior,Divergent
+Arcanist Brand,skill,no,Superior,Phantasmal
+Arcanist Brand,skill,no,Anomalous,Superior
+Arcanist Brand,skill,no,Anomalous,Divergent
+Arcanist Brand,skill,no,Anomalous,Phantasmal
+Arcanist Brand,skill,no,Divergent,Superior
+Arcanist Brand,skill,no,Divergent,Anomalous
+Arcanist Brand,skill,no,Divergent,Phantasmal
+Arcanist Brand,skill,no,Phantasmal,Superior
+Arcanist Brand,skill,no,Phantasmal,Anomalous
+Arcanist Brand,skill,no,Phantasmal,Divergent
+Archmage Support,support,no,Superior,Anomalous
+Archmage Support,support,no,Superior,Divergent
+Archmage Support,support,no,Anomalous,Superior
+Archmage Support,support,no,Anomalous,Divergent
+Archmage Support,support,no,Divergent,Superior
+Archmage Support,support,no,Divergent,Anomalous
+Arctic Armour,skill,no,Superior,Anomalous
+Arctic Armour,skill,no,Superior,Divergent
+Arctic Armour,skill,no,Anomalous,Superior
+Arctic Armour,skill,no,Anomalous,Divergent
+Arctic Armour,skill,no,Divergent,Superior
+Arctic Armour,skill,no,Divergent,Anomalous
+Armageddon Brand,skill,no,Superior,Anomalous
+Armageddon Brand,skill,no,Superior,Divergent
+Armageddon Brand,skill,no,Anomalous,Superior
+Armageddon Brand,skill,no,Anomalous,Divergent
+Armageddon Brand,skill,no,Divergent,Superior
+Armageddon Brand,skill,no,Divergent,Anomalous
+Arrogance Support,support,no,Superior,Anomalous
+Arrogance Support,support,no,Superior,Divergent
+Arrogance Support,support,no,Anomalous,Superior
+Arrogance Support,support,no,Anomalous,Divergent
+Arrogance Support,support,no,Divergent,Superior
+Arrogance Support,support,no,Divergent,Anomalous
+Arrow Nova Support,support,no,Superior,Anomalous
+Arrow Nova Support,support,no,Superior,Divergent
+Arrow Nova Support,support,no,Anomalous,Superior
+Arrow Nova Support,support,no,Anomalous,Divergent
+Arrow Nova Support,support,no,Divergent,Superior
+Arrow Nova Support,support,no,Divergent,Anomalous
+Artillery Ballista,skill,no,Superior,Anomalous
+Artillery Ballista,skill,no,Superior,Divergent
+Artillery Ballista,skill,no,Anomalous,Superior
+Artillery Ballista,skill,no,Anomalous,Divergent
+Artillery Ballista,skill,no,Divergent,Superior
+Artillery Ballista,skill,no,Divergent,Anomalous
+Assassin's Mark,skill,no,Superior,Anomalous
+Assassin's Mark,skill,no,Superior,Divergent
+Assassin's Mark,skill,no,Anomalous,Superior
+Assassin's Mark,skill,no,Anomalous,Divergent
+Assassin's Mark,skill,no,Divergent,Superior
+Assassin's Mark,skill,no,Divergent,Anomalous
+Ball Lightning,skill,no,Superior,Anomalous
+Ball Lightning,skill,no,Superior,Divergent
+Ball Lightning,skill,no,Anomalous,Superior
+Ball Lightning,skill,no,Anomalous,Divergent
+Ball Lightning,skill,no,Divergent,Superior
+Ball Lightning,skill,no,Divergent,Anomalous
+Ballista Totem Support,support,no,Superior,Anomalous
+Ballista Totem Support,support,no,Superior,Divergent
+Ballista Totem Support,support,no,Superior,Phantasmal
+Ballista Totem Support,support,no,Anomalous,Superior
+Ballista Totem Support,support,no,Anomalous,Divergent
+Ballista Totem Support,support,no,Anomalous,Phantasmal
+Ballista Totem Support,support,no,Divergent,Superior
+Ballista Totem Support,support,no,Divergent,Anomalous
+Ballista Totem Support,support,no,Divergent,Phantasmal
+Ballista Totem Support,support,no,Phantasmal,Superior
+Ballista Totem Support,support,no,Phantasmal,Anomalous
+Ballista Totem Support,support,no,Phantasmal,Divergent
+Bane,skill,no,Superior,Anomalous
+Bane,skill,no,Superior,Divergent
+Bane,skill,no,Anomalous,Superior
+Bane,skill,no,Anomalous,Divergent
+Bane,skill,no,Divergent,Superior
+Bane,skill,no,Divergent,Anomalous
+Barrage,skill,no,Superior,Anomalous
+Barrage,skill,no,Superior,Divergent
+Barrage,skill,no,Superior,Phantasmal
+Barrage,skill,no,Anomalous,Superior
+Barrage,skill,no,Anomalous,Divergent
+Barrage,skill,no,Anomalous,Phantasmal
+Barrage,skill,no,Divergent,Superior
+Barrage,skill,no,Divergent,Anomalous
+Barrage,skill,no,Divergent,Phantasmal
+Barrage,skill,no,Phantasmal,Superior
+Barrage,skill,no,Phantasmal,Anomalous
+Barrage,skill,no,Phantasmal,Divergent
+Barrage Support,support,no,Superior,Anomalous
+Barrage Support,support,no,Superior,Divergent
+Barrage Support,support,no,Anomalous,Superior
+Barrage Support,support,no,Anomalous,Divergent
+Barrage Support,support,no,Divergent,Superior
+Barrage Support,support,no,Divergent,Anomalous
+Battlemage's Cry,skill,no,Superior,Anomalous
+Battlemage's Cry,skill,no,Superior,Divergent
+Battlemage's Cry,skill,no,Anomalous,Superior
+Battlemage's Cry,skill,no,Anomalous,Divergent
+Battlemage's Cry,skill,no,Divergent,Superior
+Battlemage's Cry,skill,no,Divergent,Anomalous
+Bear Trap,skill,no,Superior,Anomalous
+Bear Trap,skill,no,Superior,Divergent
+Bear Trap,skill,no,Superior,Phantasmal
+Bear Trap,skill,no,Anomalous,Superior
+Bear Trap,skill,no,Anomalous,Divergent
+Bear Trap,skill,no,Anomalous,Phantasmal
+Bear Trap,skill,no,Divergent,Superior
+Bear Trap,skill,no,Divergent,Anomalous
+Bear Trap,skill,no,Divergent,Phantasmal
+Bear Trap,skill,no,Phantasmal,Superior
+Bear Trap,skill,no,Phantasmal,Anomalous
+Bear Trap,skill,no,Phantasmal,Divergent
+Behead Support,support,no,Superior,Anomalous
+Behead Support,support,no,Superior,Divergent
+Behead Support,support,no,Anomalous,Superior
+Behead Support,support,no,Anomalous,Divergent
+Behead Support,support,no,Divergent,Superior
+Behead Support,support,no,Divergent,Anomalous
+Berserk,skill,no,Superior,Anomalous
+Berserk,skill,no,Superior,Divergent
+Berserk,skill,no,Anomalous,Superior
+Berserk,skill,no,Anomalous,Divergent
+Berserk,skill,no,Divergent,Superior
+Berserk,skill,no,Divergent,Anomalous
+Blade Blast,skill,no,Superior,Anomalous
+Blade Blast,skill,no,Superior,Divergent
+Blade Blast,skill,no,Superior,Phantasmal
+Blade Blast,skill,no,Anomalous,Superior
+Blade Blast,skill,no,Anomalous,Divergent
+Blade Blast,skill,no,Anomalous,Phantasmal
+Blade Blast,skill,no,Divergent,Superior
+Blade Blast,skill,no,Divergent,Anomalous
+Blade Blast,skill,no,Divergent,Phantasmal
+Blade Blast,skill,no,Phantasmal,Superior
+Blade Blast,skill,no,Phantasmal,Anomalous
+Blade Blast,skill,no,Phantasmal,Divergent
+Blade Flurry,skill,no,Superior,Anomalous
+Blade Flurry,skill,no,Superior,Divergent
+Blade Flurry,skill,no,Anomalous,Superior
+Blade Flurry,skill,no,Anomalous,Divergent
+Blade Flurry,skill,no,Divergent,Superior
+Blade Flurry,skill,no,Divergent,Anomalous
+Blade Trap,skill,no,Superior,Anomalous
+Blade Trap,skill,no,Superior,Divergent
+Blade Trap,skill,no,Anomalous,Superior
+Blade Trap,skill,no,Anomalous,Divergent
+Blade Trap,skill,no,Divergent,Superior
+Blade Trap,skill,no,Divergent,Anomalous
+Blade Vortex,skill,no,Superior,Anomalous
+Blade Vortex,skill,no,Superior,Divergent
+Blade Vortex,skill,no,Superior,Phantasmal
+Blade Vortex,skill,no,Anomalous,Superior
+Blade Vortex,skill,no,Anomalous,Divergent
+Blade Vortex,skill,no,Anomalous,Phantasmal
+Blade Vortex,skill,no,Divergent,Superior
+Blade Vortex,skill,no,Divergent,Anomalous
+Blade Vortex,skill,no,Divergent,Phantasmal
+Blade Vortex,skill,no,Phantasmal,Superior
+Blade Vortex,skill,no,Phantasmal,Anomalous
+Blade Vortex,skill,no,Phantasmal,Divergent
+Bladefall,skill,no,Superior,Anomalous
+Bladefall,skill,no,Superior,Divergent
+Bladefall,skill,no,Anomalous,Superior
+Bladefall,skill,no,Anomalous,Divergent
+Bladefall,skill,no,Divergent,Superior
+Bladefall,skill,no,Divergent,Anomalous
+Bladestorm,skill,no,Superior,Anomalous
+Bladestorm,skill,no,Superior,Divergent
+Bladestorm,skill,no,Superior,Phantasmal
+Bladestorm,skill,no,Anomalous,Superior
+Bladestorm,skill,no,Anomalous,Divergent
+Bladestorm,skill,no,Anomalous,Phantasmal
+Bladestorm,skill,no,Divergent,Superior
+Bladestorm,skill,no,Divergent,Anomalous
+Bladestorm,skill,no,Divergent,Phantasmal
+Bladestorm,skill,no,Phantasmal,Superior
+Bladestorm,skill,no,Phantasmal,Anomalous
+Bladestorm,skill,no,Phantasmal,Divergent
+Blasphemy Support,support,no,Superior,Anomalous
+Blasphemy Support,support,no,Superior,Divergent
+Blasphemy Support,support,no,Anomalous,Superior
+Blasphemy Support,support,no,Anomalous,Divergent
+Blasphemy Support,support,no,Divergent,Superior
+Blasphemy Support,support,no,Divergent,Anomalous
+Blast Rain,skill,no,Superior,Anomalous
+Blast Rain,skill,no,Superior,Divergent
+Blast Rain,skill,no,Superior,Phantasmal
+Blast Rain,skill,no,Anomalous,Superior
+Blast Rain,skill,no,Anomalous,Divergent
+Blast Rain,skill,no,Anomalous,Phantasmal
+Blast Rain,skill,no,Divergent,Superior
+Blast Rain,skill,no,Divergent,Anomalous
+Blast Rain,skill,no,Divergent,Phantasmal
+Blast Rain,skill,no,Phantasmal,Superior
+Blast Rain,skill,no,Phantasmal,Anomalous
+Blast Rain,skill,no,Phantasmal,Divergent
+Blastchain Mine Support,support,no,Superior,Anomalous
+Blastchain Mine Support,support,no,Superior,Divergent
+Blastchain Mine Support,support,no,Anomalous,Superior
+Blastchain Mine Support,support,no,Anomalous,Divergent
+Blastchain Mine Support,support,no,Divergent,Superior
+Blastchain Mine Support,support,no,Divergent,Anomalous
+Blazing Salvo,skill,no,Superior,Anomalous
+Blazing Salvo,skill,no,Superior,Divergent
+Blazing Salvo,skill,no,Anomalous,Superior
+Blazing Salvo,skill,no,Anomalous,Divergent
+Blazing Salvo,skill,no,Divergent,Superior
+Blazing Salvo,skill,no,Divergent,Anomalous
+Blight,skill,no,Superior,Anomalous
+Blight,skill,no,Superior,Divergent
+Blight,skill,no,Anomalous,Superior
+Blight,skill,no,Anomalous,Divergent
+Blight,skill,no,Divergent,Superior
+Blight,skill,no,Divergent,Anomalous
+Blind Support,support,no,Superior,Anomalous
+Blind Support,support,no,Superior,Divergent
+Blind Support,support,no,Anomalous,Superior
+Blind Support,support,no,Anomalous,Divergent
+Blind Support,support,no,Divergent,Superior
+Blind Support,support,no,Divergent,Anomalous
+Blink Arrow,skill,no,Superior,Anomalous
+Blink Arrow,skill,no,Superior,Divergent
+Blink Arrow,skill,no,Superior,Phantasmal
+Blink Arrow,skill,no,Anomalous,Superior
+Blink Arrow,skill,no,Anomalous,Divergent
+Blink Arrow,skill,no,Anomalous,Phantasmal
+Blink Arrow,skill,no,Divergent,Superior
+Blink Arrow,skill,no,Divergent,Anomalous
+Blink Arrow,skill,no,Divergent,Phantasmal
+Blink Arrow,skill,no,Phantasmal,Superior
+Blink Arrow,skill,no,Phantasmal,Anomalous
+Blink Arrow,skill,no,Phantasmal,Divergent
+Block Chance Reduction Support,support,no,Superior,Anomalous
+Block Chance Reduction Support,support,no,Anomalous,Superior
+Blood Rage,skill,no,Superior,Anomalous
+Blood Rage,skill,no,Superior,Divergent
+Blood Rage,skill,no,Anomalous,Superior
+Blood Rage,skill,no,Anomalous,Divergent
+Blood Rage,skill,no,Divergent,Superior
+Blood Rage,skill,no,Divergent,Anomalous
+Blood and Sand,skill,no,Superior,Anomalous
+Blood and Sand,skill,no,Superior,Divergent
+Blood and Sand,skill,no,Anomalous,Superior
+Blood and Sand,skill,no,Anomalous,Divergent
+Blood and Sand,skill,no,Divergent,Superior
+Blood and Sand,skill,no,Divergent,Anomalous
+Bloodlust Support,support,no,Superior,Anomalous
+Bloodlust Support,support,no,Superior,Divergent
+Bloodlust Support,support,no,Anomalous,Superior
+Bloodlust Support,support,no,Anomalous,Divergent
+Bloodlust Support,support,no,Divergent,Superior
+Bloodlust Support,support,no,Divergent,Anomalous
+Bloodthirst Support,support,no,Superior,Anomalous
+Bloodthirst Support,support,no,Superior,Divergent
+Bloodthirst Support,support,no,Anomalous,Superior
+Bloodthirst Support,support,no,Anomalous,Divergent
+Bloodthirst Support,support,no,Divergent,Superior
+Bloodthirst Support,support,no,Divergent,Anomalous
+Bodyswap,skill,no,Superior,Anomalous
+Bodyswap,skill,no,Superior,Divergent
+Bodyswap,skill,no,Superior,Phantasmal
+Bodyswap,skill,no,Anomalous,Superior
+Bodyswap,skill,no,Anomalous,Divergent
+Bodyswap,skill,no,Anomalous,Phantasmal
+Bodyswap,skill,no,Divergent,Superior
+Bodyswap,skill,no,Divergent,Anomalous
+Bodyswap,skill,no,Divergent,Phantasmal
+Bodyswap,skill,no,Phantasmal,Superior
+Bodyswap,skill,no,Phantasmal,Anomalous
+Bodyswap,skill,no,Phantasmal,Divergent
+Bone Offering,skill,no,Superior,Anomalous
+Bone Offering,skill,no,Superior,Divergent
+Bone Offering,skill,no,Anomalous,Superior
+Bone Offering,skill,no,Anomalous,Divergent
+Bone Offering,skill,no,Divergent,Superior
+Bone Offering,skill,no,Divergent,Anomalous
+Bonechill Support,support,no,Superior,Anomalous
+Bonechill Support,support,no,Superior,Divergent
+Bonechill Support,support,no,Anomalous,Superior
+Bonechill Support,support,no,Anomalous,Divergent
+Bonechill Support,support,no,Divergent,Superior
+Bonechill Support,support,no,Divergent,Anomalous
+Boneshatter,skill,no,Superior,Anomalous
+Boneshatter,skill,no,Superior,Divergent
+Boneshatter,skill,no,Anomalous,Superior
+Boneshatter,skill,no,Anomalous,Divergent
+Boneshatter,skill,no,Divergent,Superior
+Boneshatter,skill,no,Divergent,Anomalous
+Brand Recall,skill,no,Superior,Anomalous
+Brand Recall,skill,no,Anomalous,Superior
+Brutality Support,support,no,Superior,Anomalous
+Brutality Support,support,no,Superior,Divergent
+Brutality Support,support,no,Anomalous,Superior
+Brutality Support,support,no,Anomalous,Divergent
+Brutality Support,support,no,Divergent,Superior
+Brutality Support,support,no,Divergent,Anomalous
+Burning Arrow,skill,no,Superior,Anomalous
+Burning Arrow,skill,no,Superior,Divergent
+Burning Arrow,skill,no,Anomalous,Superior
+Burning Arrow,skill,no,Anomalous,Divergent
+Burning Arrow,skill,no,Divergent,Superior
+Burning Arrow,skill,no,Divergent,Anomalous
+Burning Damage Support,support,no,Superior,Anomalous
+Burning Damage Support,support,no,Superior,Divergent
+Burning Damage Support,support,no,Anomalous,Superior
+Burning Damage Support,support,no,Anomalous,Divergent
+Burning Damage Support,support,no,Divergent,Superior
+Burning Damage Support,support,no,Divergent,Anomalous
+Cast On Critical Strike Support,support,no,Superior,Anomalous
+Cast On Critical Strike Support,support,no,Superior,Divergent
+Cast On Critical Strike Support,support,no,Anomalous,Superior
+Cast On Critical Strike Support,support,no,Anomalous,Divergent
+Cast On Critical Strike Support,support,no,Divergent,Superior
+Cast On Critical Strike Support,support,no,Divergent,Anomalous
+Cast on Death Support,support,no,Superior,Anomalous
+Cast on Death Support,support,no,Superior,Divergent
+Cast on Death Support,support,no,Anomalous,Superior
+Cast on Death Support,support,no,Anomalous,Divergent
+Cast on Death Support,support,no,Divergent,Superior
+Cast on Death Support,support,no,Divergent,Anomalous
+Cast on Melee Kill Support,support,no,Superior,Anomalous
+Cast on Melee Kill Support,support,no,Superior,Divergent
+Cast on Melee Kill Support,support,no,Anomalous,Superior
+Cast on Melee Kill Support,support,no,Anomalous,Divergent
+Cast on Melee Kill Support,support,no,Divergent,Superior
+Cast on Melee Kill Support,support,no,Divergent,Anomalous
+Cast when Damage Taken Support,support,no,Superior,Anomalous
+Cast when Damage Taken Support,support,no,Superior,Divergent
+Cast when Damage Taken Support,support,no,Anomalous,Superior
+Cast when Damage Taken Support,support,no,Anomalous,Divergent
+Cast when Damage Taken Support,support,no,Divergent,Superior
+Cast when Damage Taken Support,support,no,Divergent,Anomalous
+Cast when Stunned Support,support,no,Superior,Anomalous
+Cast when Stunned Support,support,no,Superior,Divergent
+Cast when Stunned Support,support,no,Anomalous,Superior
+Cast when Stunned Support,support,no,Anomalous,Divergent
+Cast when Stunned Support,support,no,Divergent,Superior
+Cast when Stunned Support,support,no,Divergent,Anomalous
+Cast while Channelling Support,support,no,Superior,Anomalous
+Cast while Channelling Support,support,no,Superior,Divergent
+Cast while Channelling Support,support,no,Anomalous,Superior
+Cast while Channelling Support,support,no,Anomalous,Divergent
+Cast while Channelling Support,support,no,Divergent,Superior
+Cast while Channelling Support,support,no,Divergent,Anomalous
+Caustic Arrow,skill,no,Superior,Anomalous
+Caustic Arrow,skill,no,Superior,Divergent
+Caustic Arrow,skill,no,Anomalous,Superior
+Caustic Arrow,skill,no,Anomalous,Divergent
+Caustic Arrow,skill,no,Divergent,Superior
+Caustic Arrow,skill,no,Divergent,Anomalous
+Chain Hook,skill,no,Superior,Anomalous
+Chain Hook,skill,no,Superior,Divergent
+Chain Hook,skill,no,Anomalous,Superior
+Chain Hook,skill,no,Anomalous,Divergent
+Chain Hook,skill,no,Divergent,Superior
+Chain Hook,skill,no,Divergent,Anomalous
+Chain Support,support,no,Superior,Anomalous
+Chain Support,support,no,Superior,Divergent
+Chain Support,support,no,Anomalous,Superior
+Chain Support,support,no,Anomalous,Divergent
+Chain Support,support,no,Divergent,Superior
+Chain Support,support,no,Divergent,Anomalous
+Chance to Bleed Support,support,no,Superior,Anomalous
+Chance to Bleed Support,support,no,Superior,Divergent
+Chance to Bleed Support,support,no,Anomalous,Superior
+Chance to Bleed Support,support,no,Anomalous,Divergent
+Chance to Bleed Support,support,no,Divergent,Superior
+Chance to Bleed Support,support,no,Divergent,Anomalous
+Chance to Poison Support,support,no,Superior,Anomalous
+Chance to Poison Support,support,no,Superior,Divergent
+Chance to Poison Support,support,no,Anomalous,Superior
+Chance to Poison Support,support,no,Anomalous,Divergent
+Chance to Poison Support,support,no,Divergent,Superior
+Chance to Poison Support,support,no,Divergent,Anomalous
+Charged Dash,skill,no,Superior,Anomalous
+Charged Dash,skill,no,Superior,Divergent
+Charged Dash,skill,no,Anomalous,Superior
+Charged Dash,skill,no,Anomalous,Divergent
+Charged Dash,skill,no,Divergent,Superior
+Charged Dash,skill,no,Divergent,Anomalous
+Charged Mines Support,support,no,Superior,Anomalous
+Charged Mines Support,support,no,Superior,Divergent
+Charged Mines Support,support,no,Anomalous,Superior
+Charged Mines Support,support,no,Anomalous,Divergent
+Charged Mines Support,support,no,Divergent,Superior
+Charged Mines Support,support,no,Divergent,Anomalous
+Charged Traps Support,support,no,Superior,Anomalous
+Charged Traps Support,support,no,Superior,Divergent
+Charged Traps Support,support,no,Anomalous,Superior
+Charged Traps Support,support,no,Anomalous,Divergent
+Charged Traps Support,support,no,Divergent,Superior
+Charged Traps Support,support,no,Divergent,Anomalous
+Clarity,skill,no,Superior,Anomalous
+Clarity,skill,no,Superior,Divergent
+Clarity,skill,no,Anomalous,Superior
+Clarity,skill,no,Anomalous,Divergent
+Clarity,skill,no,Divergent,Superior
+Clarity,skill,no,Divergent,Anomalous
+Cleave,skill,no,Superior,Anomalous
+Cleave,skill,no,Superior,Divergent
+Cleave,skill,no,Superior,Phantasmal
+Cleave,skill,no,Anomalous,Superior
+Cleave,skill,no,Anomalous,Divergent
+Cleave,skill,no,Anomalous,Phantasmal
+Cleave,skill,no,Divergent,Superior
+Cleave,skill,no,Divergent,Anomalous
+Cleave,skill,no,Divergent,Phantasmal
+Cleave,skill,no,Phantasmal,Superior
+Cleave,skill,no,Phantasmal,Anomalous
+Cleave,skill,no,Phantasmal,Divergent
+Close Combat Support,support,no,Superior,Anomalous
+Close Combat Support,support,no,Superior,Divergent
+Close Combat Support,support,no,Anomalous,Superior
+Close Combat Support,support,no,Anomalous,Divergent
+Close Combat Support,support,no,Divergent,Superior
+Close Combat Support,support,no,Divergent,Anomalous
+Cluster Traps Support,support,no,Superior,Anomalous
+Cluster Traps Support,support,no,Superior,Divergent
+Cluster Traps Support,support,no,Anomalous,Superior
+Cluster Traps Support,support,no,Anomalous,Divergent
+Cluster Traps Support,support,no,Divergent,Superior
+Cluster Traps Support,support,no,Divergent,Anomalous
+Cobra Lash,skill,no,Superior,Anomalous
+Cobra Lash,skill,no,Superior,Divergent
+Cobra Lash,skill,no,Anomalous,Superior
+Cobra Lash,skill,no,Anomalous,Divergent
+Cobra Lash,skill,no,Divergent,Superior
+Cobra Lash,skill,no,Divergent,Anomalous
+Cold Penetration Support,support,no,Superior,Anomalous
+Cold Penetration Support,support,no,Superior,Divergent
+Cold Penetration Support,support,no,Anomalous,Superior
+Cold Penetration Support,support,no,Anomalous,Divergent
+Cold Penetration Support,support,no,Divergent,Superior
+Cold Penetration Support,support,no,Divergent,Anomalous
+Cold Snap,skill,no,Superior,Anomalous
+Cold Snap,skill,no,Superior,Divergent
+Cold Snap,skill,no,Anomalous,Superior
+Cold Snap,skill,no,Anomalous,Divergent
+Cold Snap,skill,no,Divergent,Superior
+Cold Snap,skill,no,Divergent,Anomalous
+Cold to Fire Support,support,no,Superior,Anomalous
+Cold to Fire Support,support,no,Superior,Divergent
+Cold to Fire Support,support,no,Anomalous,Superior
+Cold to Fire Support,support,no,Anomalous,Divergent
+Cold to Fire Support,support,no,Divergent,Superior
+Cold to Fire Support,support,no,Divergent,Anomalous
+Combustion Support,support,no,Superior,Anomalous
+Combustion Support,support,no,Superior,Divergent
+Combustion Support,support,no,Anomalous,Superior
+Combustion Support,support,no,Anomalous,Divergent
+Combustion Support,support,no,Divergent,Superior
+Combustion Support,support,no,Divergent,Anomalous
+Concentrated Effect Support,support,no,Superior,Anomalous
+Concentrated Effect Support,support,no,Superior,Divergent
+Concentrated Effect Support,support,no,Anomalous,Superior
+Concentrated Effect Support,support,no,Anomalous,Divergent
+Concentrated Effect Support,support,no,Divergent,Superior
+Concentrated Effect Support,support,no,Divergent,Anomalous
+Conductivity,skill,no,Superior,Anomalous
+Conductivity,skill,no,Superior,Divergent
+Conductivity,skill,no,Anomalous,Superior
+Conductivity,skill,no,Anomalous,Divergent
+Conductivity,skill,no,Divergent,Superior
+Conductivity,skill,no,Divergent,Anomalous
+Consecrated Path,skill,no,Superior,Anomalous
+Consecrated Path,skill,no,Superior,Divergent
+Consecrated Path,skill,no,Superior,Phantasmal
+Consecrated Path,skill,no,Anomalous,Superior
+Consecrated Path,skill,no,Anomalous,Divergent
+Consecrated Path,skill,no,Anomalous,Phantasmal
+Consecrated Path,skill,no,Divergent,Superior
+Consecrated Path,skill,no,Divergent,Anomalous
+Consecrated Path,skill,no,Divergent,Phantasmal
+Consecrated Path,skill,no,Phantasmal,Superior
+Consecrated Path,skill,no,Phantasmal,Anomalous
+Consecrated Path,skill,no,Phantasmal,Divergent
+Contagion,skill,no,Superior,Anomalous
+Contagion,skill,no,Superior,Divergent
+Contagion,skill,no,Anomalous,Superior
+Contagion,skill,no,Anomalous,Divergent
+Contagion,skill,no,Divergent,Superior
+Contagion,skill,no,Divergent,Anomalous
+Controlled Destruction Support,support,no,Superior,Anomalous
+Controlled Destruction Support,support,no,Superior,Divergent
+Controlled Destruction Support,support,no,Anomalous,Superior
+Controlled Destruction Support,support,no,Anomalous,Divergent
+Controlled Destruction Support,support,no,Divergent,Superior
+Controlled Destruction Support,support,no,Divergent,Anomalous
+Conversion Trap,skill,no,Superior,Anomalous
+Conversion Trap,skill,no,Superior,Divergent
+Conversion Trap,skill,no,Anomalous,Superior
+Conversion Trap,skill,no,Anomalous,Divergent
+Conversion Trap,skill,no,Divergent,Superior
+Conversion Trap,skill,no,Divergent,Anomalous
+Convocation,skill,no,Superior,Anomalous
+Convocation,skill,no,Superior,Divergent
+Convocation,skill,no,Anomalous,Superior
+Convocation,skill,no,Anomalous,Divergent
+Convocation,skill,no,Divergent,Superior
+Convocation,skill,no,Divergent,Anomalous
+Corrupting Fever,skill,no,Superior,Anomalous
+Corrupting Fever,skill,no,Superior,Divergent
+Corrupting Fever,skill,no,Anomalous,Superior
+Corrupting Fever,skill,no,Anomalous,Divergent
+Corrupting Fever,skill,no,Divergent,Superior
+Corrupting Fever,skill,no,Divergent,Anomalous
+Crackling Lance,skill,no,Superior,Anomalous
+Crackling Lance,skill,no,Superior,Divergent
+Crackling Lance,skill,no,Superior,Phantasmal
+Crackling Lance,skill,no,Anomalous,Superior
+Crackling Lance,skill,no,Anomalous,Divergent
+Crackling Lance,skill,no,Anomalous,Phantasmal
+Crackling Lance,skill,no,Divergent,Superior
+Crackling Lance,skill,no,Divergent,Anomalous
+Crackling Lance,skill,no,Divergent,Phantasmal
+Crackling Lance,skill,no,Phantasmal,Superior
+Crackling Lance,skill,no,Phantasmal,Anomalous
+Crackling Lance,skill,no,Phantasmal,Divergent
+Creeping Frost,skill,no,Superior,Anomalous
+Creeping Frost,skill,no,Superior,Divergent
+Creeping Frost,skill,no,Superior,Phantasmal
+Creeping Frost,skill,no,Anomalous,Superior
+Creeping Frost,skill,no,Anomalous,Divergent
+Creeping Frost,skill,no,Anomalous,Phantasmal
+Creeping Frost,skill,no,Divergent,Superior
+Creeping Frost,skill,no,Divergent,Anomalous
+Creeping Frost,skill,no,Divergent,Phantasmal
+Creeping Frost,skill,no,Phantasmal,Superior
+Creeping Frost,skill,no,Phantasmal,Anomalous
+Creeping Frost,skill,no,Phantasmal,Divergent
+Cremation,skill,no,Superior,Anomalous
+Cremation,skill,no,Superior,Divergent
+Cremation,skill,no,Superior,Phantasmal
+Cremation,skill,no,Anomalous,Superior
+Cremation,skill,no,Anomalous,Divergent
+Cremation,skill,no,Anomalous,Phantasmal
+Cremation,skill,no,Divergent,Superior
+Cremation,skill,no,Divergent,Anomalous
+Cremation,skill,no,Divergent,Phantasmal
+Cremation,skill,no,Phantasmal,Superior
+Cremation,skill,no,Phantasmal,Anomalous
+Cremation,skill,no,Phantasmal,Divergent
+Critical Strike Affliction Support,support,no,Superior,Anomalous
+Critical Strike Affliction Support,support,no,Superior,Divergent
+Critical Strike Affliction Support,support,no,Anomalous,Superior
+Critical Strike Affliction Support,support,no,Anomalous,Divergent
+Critical Strike Affliction Support,support,no,Divergent,Superior
+Critical Strike Affliction Support,support,no,Divergent,Anomalous
+Cruelty Support,support,no,Superior,Anomalous
+Cruelty Support,support,no,Superior,Divergent
+Cruelty Support,support,no,Anomalous,Superior
+Cruelty Support,support,no,Anomalous,Divergent
+Cruelty Support,support,no,Divergent,Superior
+Cruelty Support,support,no,Divergent,Anomalous
+Culling Strike Support,support,no,Superior,Anomalous
+Culling Strike Support,support,no,Superior,Divergent
+Culling Strike Support,support,no,Anomalous,Superior
+Culling Strike Support,support,no,Anomalous,Divergent
+Culling Strike Support,support,no,Divergent,Superior
+Culling Strike Support,support,no,Divergent,Anomalous
+Cursed Ground Support,support,no,Superior,Anomalous
+Cursed Ground Support,support,no,Superior,Divergent
+Cursed Ground Support,support,no,Anomalous,Superior
+Cursed Ground Support,support,no,Anomalous,Divergent
+Cursed Ground Support,support,no,Divergent,Superior
+Cursed Ground Support,support,no,Divergent,Anomalous
+Cyclone,skill,no,Superior,Anomalous
+Cyclone,skill,no,Superior,Divergent
+Cyclone,skill,no,Superior,Phantasmal
+Cyclone,skill,no,Anomalous,Superior
+Cyclone,skill,no,Anomalous,Divergent
+Cyclone,skill,no,Anomalous,Phantasmal
+Cyclone,skill,no,Divergent,Superior
+Cyclone,skill,no,Divergent,Anomalous
+Cyclone,skill,no,Divergent,Phantasmal
+Cyclone,skill,no,Phantasmal,Superior
+Cyclone,skill,no,Phantasmal,Anomalous
+Cyclone,skill,no,Phantasmal,Divergent
+Damage on Full Life Support,support,no,Superior,Anomalous
+Damage on Full Life Support,support,no,Superior,Divergent
+Damage on Full Life Support,support,no,Anomalous,Superior
+Damage on Full Life Support,support,no,Anomalous,Divergent
+Damage on Full Life Support,support,no,Divergent,Superior
+Damage on Full Life Support,support,no,Divergent,Anomalous
+Dark Pact,skill,no,Superior,Anomalous
+Dark Pact,skill,no,Superior,Divergent
+Dark Pact,skill,no,Anomalous,Superior
+Dark Pact,skill,no,Anomalous,Divergent
+Dark Pact,skill,no,Divergent,Superior
+Dark Pact,skill,no,Divergent,Anomalous
+Dash,skill,no,Superior,Anomalous
+Dash,skill,no,Superior,Divergent
+Dash,skill,no,Anomalous,Superior
+Dash,skill,no,Anomalous,Divergent
+Dash,skill,no,Divergent,Superior
+Dash,skill,no,Divergent,Anomalous
+Deadly Ailments Support,support,no,Superior,Anomalous
+Deadly Ailments Support,support,no,Superior,Divergent
+Deadly Ailments Support,support,no,Anomalous,Superior
+Deadly Ailments Support,support,no,Anomalous,Divergent
+Deadly Ailments Support,support,no,Divergent,Superior
+Deadly Ailments Support,support,no,Divergent,Anomalous
+Decay Support,support,no,Superior,Anomalous
+Decay Support,support,no,Superior,Divergent
+Decay Support,support,no,Anomalous,Superior
+Decay Support,support,no,Anomalous,Divergent
+Decay Support,support,no,Divergent,Superior
+Decay Support,support,no,Divergent,Anomalous
+Decoy Totem,skill,no,Superior,Anomalous
+Decoy Totem,skill,no,Superior,Divergent
+Decoy Totem,skill,no,Superior,Phantasmal
+Decoy Totem,skill,no,Anomalous,Superior
+Decoy Totem,skill,no,Anomalous,Divergent
+Decoy Totem,skill,no,Anomalous,Phantasmal
+Decoy Totem,skill,no,Divergent,Superior
+Decoy Totem,skill,no,Divergent,Anomalous
+Decoy Totem,skill,no,Divergent,Phantasmal
+Decoy Totem,skill,no,Phantasmal,Superior
+Decoy Totem,skill,no,Phantasmal,Anomalous
+Decoy Totem,skill,no,Phantasmal,Divergent
+Defiance Banner,skill,no,Superior,Anomalous
+Defiance Banner,skill,no,Superior,Divergent
+Defiance Banner,skill,no,Anomalous,Superior
+Defiance Banner,skill,no,Anomalous,Divergent
+Defiance Banner,skill,no,Divergent,Superior
+Defiance Banner,skill,no,Divergent,Anomalous
+Desecrate,skill,no,Superior,Anomalous
+Desecrate,skill,no,Superior,Divergent
+Desecrate,skill,no,Superior,Phantasmal
+Desecrate,skill,no,Anomalous,Superior
+Desecrate,skill,no,Anomalous,Divergent
+Desecrate,skill,no,Anomalous,Phantasmal
+Desecrate,skill,no,Divergent,Superior
+Desecrate,skill,no,Divergent,Anomalous
+Desecrate,skill,no,Divergent,Phantasmal
+Desecrate,skill,no,Phantasmal,Superior
+Desecrate,skill,no,Phantasmal,Anomalous
+Desecrate,skill,no,Phantasmal,Divergent
+Despair,skill,no,Superior,Anomalous
+Despair,skill,no,Superior,Divergent
+Despair,skill,no,Anomalous,Superior
+Despair,skill,no,Anomalous,Divergent
+Despair,skill,no,Divergent,Superior
+Despair,skill,no,Divergent,Anomalous
+Destructive Link,skill,no,Superior,Anomalous
+Destructive Link,skill,no,Superior,Divergent
+Destructive Link,skill,no,Anomalous,Superior
+Destructive Link,skill,no,Anomalous,Divergent
+Destructive Link,skill,no,Divergent,Superior
+Destructive Link,skill,no,Divergent,Anomalous
+Determination,skill,no,Superior,Anomalous
+Determination,skill,no,Superior,Divergent
+Determination,skill,no,Anomalous,Superior
+Determination,skill,no,Anomalous,Divergent
+Determination,skill,no,Divergent,Superior
+Determination,skill,no,Divergent,Anomalous
+Detonate Dead,skill,no,Superior,Anomalous
+Detonate Dead,skill,no,Superior,Divergent
+Detonate Dead,skill,no,Anomalous,Superior
+Detonate Dead,skill,no,Anomalous,Divergent
+Detonate Dead,skill,no,Divergent,Superior
+Detonate Dead,skill,no,Divergent,Anomalous
+Devouring Totem,skill,no,Superior,Anomalous
+Devouring Totem,skill,no,Superior,Divergent
+Devouring Totem,skill,no,Anomalous,Superior
+Devouring Totem,skill,no,Anomalous,Divergent
+Devouring Totem,skill,no,Divergent,Superior
+Devouring Totem,skill,no,Divergent,Anomalous
+Discharge,skill,no,Superior,Anomalous
+Discharge,skill,no,Superior,Divergent
+Discharge,skill,no,Superior,Phantasmal
+Discharge,skill,no,Anomalous,Superior
+Discharge,skill,no,Anomalous,Divergent
+Discharge,skill,no,Anomalous,Phantasmal
+Discharge,skill,no,Divergent,Superior
+Discharge,skill,no,Divergent,Anomalous
+Discharge,skill,no,Divergent,Phantasmal
+Discharge,skill,no,Phantasmal,Superior
+Discharge,skill,no,Phantasmal,Anomalous
+Discharge,skill,no,Phantasmal,Divergent
+Discipline,skill,no,Superior,Anomalous
+Discipline,skill,no,Superior,Divergent
+Discipline,skill,no,Anomalous,Superior
+Discipline,skill,no,Anomalous,Divergent
+Discipline,skill,no,Divergent,Superior
+Discipline,skill,no,Divergent,Anomalous
+Divine Blessing Support,support,no,Superior,Anomalous
+Divine Blessing Support,support,no,Superior,Divergent
+Divine Blessing Support,support,no,Anomalous,Superior
+Divine Blessing Support,support,no,Anomalous,Divergent
+Divine Blessing Support,support,no,Divergent,Superior
+Divine Blessing Support,support,no,Divergent,Anomalous
+Divine Ire,skill,no,Superior,Anomalous
+Divine Ire,skill,no,Superior,Divergent
+Divine Ire,skill,no,Anomalous,Superior
+Divine Ire,skill,no,Anomalous,Divergent
+Divine Ire,skill,no,Divergent,Superior
+Divine Ire,skill,no,Divergent,Anomalous
+Dominating Blow,skill,no,Superior,Anomalous
+Dominating Blow,skill,no,Superior,Divergent
+Dominating Blow,skill,no,Superior,Phantasmal
+Dominating Blow,skill,no,Anomalous,Superior
+Dominating Blow,skill,no,Anomalous,Divergent
+Dominating Blow,skill,no,Anomalous,Phantasmal
+Dominating Blow,skill,no,Divergent,Superior
+Dominating Blow,skill,no,Divergent,Anomalous
+Dominating Blow,skill,no,Divergent,Phantasmal
+Dominating Blow,skill,no,Phantasmal,Superior
+Dominating Blow,skill,no,Phantasmal,Anomalous
+Dominating Blow,skill,no,Phantasmal,Divergent
+Double Strike,skill,no,Superior,Anomalous
+Double Strike,skill,no,Superior,Divergent
+Double Strike,skill,no,Anomalous,Superior
+Double Strike,skill,no,Anomalous,Divergent
+Double Strike,skill,no,Divergent,Superior
+Double Strike,skill,no,Divergent,Anomalous
+Dread Banner,skill,no,Superior,Anomalous
+Dread Banner,skill,no,Superior,Divergent
+Dread Banner,skill,no,Anomalous,Superior
+Dread Banner,skill,no,Anomalous,Divergent
+Dread Banner,skill,no,Divergent,Superior
+Dread Banner,skill,no,Divergent,Anomalous
+Dual Strike,skill,no,Superior,Anomalous
+Dual Strike,skill,no,Superior,Divergent
+Dual Strike,skill,no,Superior,Phantasmal
+Dual Strike,skill,no,Anomalous,Superior
+Dual Strike,skill,no,Anomalous,Divergent
+Dual Strike,skill,no,Anomalous,Phantasmal
+Dual Strike,skill,no,Divergent,Superior
+Dual Strike,skill,no,Divergent,Anomalous
+Dual Strike,skill,no,Divergent,Phantasmal
+Dual Strike,skill,no,Phantasmal,Superior
+Dual Strike,skill,no,Phantasmal,Anomalous
+Dual Strike,skill,no,Phantasmal,Divergent
+Earthbreaker Support,support,no,Superior,Anomalous
+Earthbreaker Support,support,no,Superior,Divergent
+Earthbreaker Support,support,no,Anomalous,Superior
+Earthbreaker Support,support,no,Anomalous,Divergent
+Earthbreaker Support,support,no,Divergent,Superior
+Earthbreaker Support,support,no,Divergent,Anomalous
+Earthquake,skill,no,Superior,Anomalous
+Earthquake,skill,no,Superior,Divergent
+Earthquake,skill,no,Superior,Phantasmal
+Earthquake,skill,no,Anomalous,Superior
+Earthquake,skill,no,Anomalous,Divergent
+Earthquake,skill,no,Anomalous,Phantasmal
+Earthquake,skill,no,Divergent,Superior
+Earthquake,skill,no,Divergent,Anomalous
+Earthquake,skill,no,Divergent,Phantasmal
+Earthquake,skill,no,Phantasmal,Superior
+Earthquake,skill,no,Phantasmal,Anomalous
+Earthquake,skill,no,Phantasmal,Divergent
+Earthshatter,skill,no,Superior,Anomalous
+Earthshatter,skill,no,Superior,Divergent
+Earthshatter,skill,no,Superior,Phantasmal
+Earthshatter,skill,no,Anomalous,Superior
+Earthshatter,skill,no,Anomalous,Divergent
+Earthshatter,skill,no,Anomalous,Phantasmal
+Earthshatter,skill,no,Divergent,Superior
+Earthshatter,skill,no,Divergent,Anomalous
+Earthshatter,skill,no,Divergent,Phantasmal
+Earthshatter,skill,no,Phantasmal,Superior
+Earthshatter,skill,no,Phantasmal,Anomalous
+Earthshatter,skill,no,Phantasmal,Divergent
+Efficacy Support,support,no,Superior,Anomalous
+Efficacy Support,support,no,Superior,Divergent
+Efficacy Support,support,no,Anomalous,Superior
+Efficacy Support,support,no,Anomalous,Divergent
+Efficacy Support,support,no,Divergent,Superior
+Efficacy Support,support,no,Divergent,Anomalous
+Elemental Army Support,support,no,Superior,Anomalous
+Elemental Army Support,support,no,Superior,Divergent
+Elemental Army Support,support,no,Anomalous,Superior
+Elemental Army Support,support,no,Anomalous,Divergent
+Elemental Army Support,support,no,Divergent,Superior
+Elemental Army Support,support,no,Divergent,Anomalous
+Elemental Damage with Attacks Support,support,no,Superior,Anomalous
+Elemental Damage with Attacks Support,support,no,Superior,Divergent
+Elemental Damage with Attacks Support,support,no,Anomalous,Superior
+Elemental Damage with Attacks Support,support,no,Anomalous,Divergent
+Elemental Damage with Attacks Support,support,no,Divergent,Superior
+Elemental Damage with Attacks Support,support,no,Divergent,Anomalous
+Elemental Focus Support,support,no,Superior,Anomalous
+Elemental Focus Support,support,no,Superior,Divergent
+Elemental Focus Support,support,no,Anomalous,Superior
+Elemental Focus Support,support,no,Anomalous,Divergent
+Elemental Focus Support,support,no,Divergent,Superior
+Elemental Focus Support,support,no,Divergent,Anomalous
+Elemental Hit,skill,no,Superior,Anomalous
+Elemental Hit,skill,no,Superior,Divergent
+Elemental Hit,skill,no,Anomalous,Superior
+Elemental Hit,skill,no,Anomalous,Divergent
+Elemental Hit,skill,no,Divergent,Superior
+Elemental Hit,skill,no,Divergent,Anomalous
+Elemental Penetration Support,support,no,Superior,Anomalous
+Elemental Penetration Support,support,no,Anomalous,Superior
+Elemental Proliferation Support,support,no,Superior,Anomalous
+Elemental Proliferation Support,support,no,Superior,Divergent
+Elemental Proliferation Support,support,no,Anomalous,Superior
+Elemental Proliferation Support,support,no,Anomalous,Divergent
+Elemental Proliferation Support,support,no,Divergent,Superior
+Elemental Proliferation Support,support,no,Divergent,Anomalous
+Elemental Weakness,skill,no,Superior,Anomalous
+Elemental Weakness,skill,no,Superior,Divergent
+Elemental Weakness,skill,no,Anomalous,Superior
+Elemental Weakness,skill,no,Anomalous,Divergent
+Elemental Weakness,skill,no,Divergent,Superior
+Elemental Weakness,skill,no,Divergent,Anomalous
+Empower Support,support,no,Superior,Anomalous
+Empower Support,support,no,Anomalous,Superior
+Endurance Charge on Melee Stun Support,support,no,Superior,Anomalous
+Endurance Charge on Melee Stun Support,support,no,Superior,Divergent
+Endurance Charge on Melee Stun Support,support,no,Anomalous,Superior
+Endurance Charge on Melee Stun Support,support,no,Anomalous,Divergent
+Endurance Charge on Melee Stun Support,support,no,Divergent,Superior
+Endurance Charge on Melee Stun Support,support,no,Divergent,Anomalous
+Enduring Cry,skill,no,Superior,Anomalous
+Enduring Cry,skill,no,Superior,Divergent
+Enduring Cry,skill,no,Anomalous,Superior
+Enduring Cry,skill,no,Anomalous,Divergent
+Enduring Cry,skill,no,Divergent,Superior
+Enduring Cry,skill,no,Divergent,Anomalous
+Energy Blade,skill,no,Superior,Anomalous
+Energy Blade,skill,no,Superior,Divergent
+Energy Blade,skill,no,Anomalous,Superior
+Energy Blade,skill,no,Anomalous,Divergent
+Energy Blade,skill,no,Divergent,Superior
+Energy Blade,skill,no,Divergent,Anomalous
+Energy Leech Support,support,no,Superior,Anomalous
+Energy Leech Support,support,no,Superior,Divergent
+Energy Leech Support,support,no,Anomalous,Superior
+Energy Leech Support,support,no,Anomalous,Divergent
+Energy Leech Support,support,no,Divergent,Superior
+Energy Leech Support,support,no,Divergent,Anomalous
+Enfeeble,skill,no,Superior,Anomalous
+Enfeeble,skill,no,Superior,Divergent
+Enfeeble,skill,no,Anomalous,Superior
+Enfeeble,skill,no,Anomalous,Divergent
+Enfeeble,skill,no,Divergent,Superior
+Enfeeble,skill,no,Divergent,Anomalous
+Enhance Support,support,no,Superior,Anomalous
+Enhance Support,support,no,Anomalous,Superior
+Enlighten Support,support,no,Superior,Anomalous
+Enlighten Support,support,no,Anomalous,Superior
+Ensnaring Arrow,skill,no,Superior,Anomalous
+Ensnaring Arrow,skill,no,Superior,Divergent
+Ensnaring Arrow,skill,no,Anomalous,Superior
+Ensnaring Arrow,skill,no,Anomalous,Divergent
+Ensnaring Arrow,skill,no,Divergent,Superior
+Ensnaring Arrow,skill,no,Divergent,Anomalous
+Essence Drain,skill,no,Superior,Anomalous
+Essence Drain,skill,no,Superior,Divergent
+Essence Drain,skill,no,Anomalous,Superior
+Essence Drain,skill,no,Anomalous,Divergent
+Essence Drain,skill,no,Divergent,Superior
+Essence Drain,skill,no,Divergent,Anomalous
+Eternal Blessing Support,support,no,Superior,Anomalous
+Eternal Blessing Support,support,no,Superior,Divergent
+Eternal Blessing Support,support,no,Anomalous,Superior
+Eternal Blessing Support,support,no,Anomalous,Divergent
+Eternal Blessing Support,support,no,Divergent,Superior
+Eternal Blessing Support,support,no,Divergent,Anomalous
+Ethereal Knives,skill,no,Superior,Anomalous
+Ethereal Knives,skill,no,Superior,Divergent
+Ethereal Knives,skill,no,Anomalous,Superior
+Ethereal Knives,skill,no,Anomalous,Divergent
+Ethereal Knives,skill,no,Divergent,Superior
+Ethereal Knives,skill,no,Divergent,Anomalous
+Explosive Arrow,skill,no,Superior,Anomalous
+Explosive Arrow,skill,no,Superior,Divergent
+Explosive Arrow,skill,no,Anomalous,Superior
+Explosive Arrow,skill,no,Anomalous,Divergent
+Explosive Arrow,skill,no,Divergent,Superior
+Explosive Arrow,skill,no,Divergent,Anomalous
+Explosive Concoction,skill,no,Superior,Anomalous
+Explosive Concoction,skill,no,Superior,Divergent
+Explosive Concoction,skill,no,Anomalous,Superior
+Explosive Concoction,skill,no,Anomalous,Divergent
+Explosive Concoction,skill,no,Divergent,Superior
+Explosive Concoction,skill,no,Divergent,Anomalous
+Explosive Trap,skill,no,Superior,Anomalous
+Explosive Trap,skill,no,Superior,Divergent
+Explosive Trap,skill,no,Anomalous,Superior
+Explosive Trap,skill,no,Anomalous,Divergent
+Explosive Trap,skill,no,Divergent,Superior
+Explosive Trap,skill,no,Divergent,Anomalous
+Exsanguinate,skill,no,Superior,Anomalous
+Exsanguinate,skill,no,Superior,Divergent
+Exsanguinate,skill,no,Anomalous,Superior
+Exsanguinate,skill,no,Anomalous,Divergent
+Exsanguinate,skill,no,Divergent,Superior
+Exsanguinate,skill,no,Divergent,Anomalous
+Eye of Winter,skill,no,Superior,Anomalous
+Eye of Winter,skill,no,Superior,Divergent
+Eye of Winter,skill,no,Anomalous,Superior
+Eye of Winter,skill,no,Anomalous,Divergent
+Eye of Winter,skill,no,Divergent,Superior
+Eye of Winter,skill,no,Divergent,Anomalous
+Faster Attacks Support,support,no,Superior,Anomalous
+Faster Attacks Support,support,no,Superior,Divergent
+Faster Attacks Support,support,no,Anomalous,Superior
+Faster Attacks Support,support,no,Anomalous,Divergent
+Faster Attacks Support,support,no,Divergent,Superior
+Faster Attacks Support,support,no,Divergent,Anomalous
+Faster Casting Support,support,no,Superior,Anomalous
+Faster Casting Support,support,no,Superior,Divergent
+Faster Casting Support,support,no,Anomalous,Superior
+Faster Casting Support,support,no,Anomalous,Divergent
+Faster Casting Support,support,no,Divergent,Superior
+Faster Casting Support,support,no,Divergent,Anomalous
+Faster Projectiles Support,support,no,Superior,Anomalous
+Faster Projectiles Support,support,no,Superior,Divergent
+Faster Projectiles Support,support,no,Anomalous,Superior
+Faster Projectiles Support,support,no,Anomalous,Divergent
+Faster Projectiles Support,support,no,Divergent,Superior
+Faster Projectiles Support,support,no,Divergent,Anomalous
+Feeding Frenzy Support,support,no,Superior,Anomalous
+Feeding Frenzy Support,support,no,Superior,Divergent
+Feeding Frenzy Support,support,no,Anomalous,Superior
+Feeding Frenzy Support,support,no,Anomalous,Divergent
+Feeding Frenzy Support,support,no,Divergent,Superior
+Feeding Frenzy Support,support,no,Divergent,Anomalous
+Fire Penetration Support,support,no,Superior,Anomalous
+Fire Penetration Support,support,no,Superior,Divergent
+Fire Penetration Support,support,no,Anomalous,Superior
+Fire Penetration Support,support,no,Anomalous,Divergent
+Fire Penetration Support,support,no,Divergent,Superior
+Fire Penetration Support,support,no,Divergent,Anomalous
+Fire Trap,skill,no,Superior,Anomalous
+Fire Trap,skill,no,Superior,Divergent
+Fire Trap,skill,no,Anomalous,Superior
+Fire Trap,skill,no,Anomalous,Divergent
+Fire Trap,skill,no,Divergent,Superior
+Fire Trap,skill,no,Divergent,Anomalous
+Fireball,skill,no,Superior,Anomalous
+Fireball,skill,no,Superior,Divergent
+Fireball,skill,no,Superior,Phantasmal
+Fireball,skill,no,Anomalous,Superior
+Fireball,skill,no,Anomalous,Divergent
+Fireball,skill,no,Anomalous,Phantasmal
+Fireball,skill,no,Divergent,Superior
+Fireball,skill,no,Divergent,Anomalous
+Fireball,skill,no,Divergent,Phantasmal
+Fireball,skill,no,Phantasmal,Superior
+Fireball,skill,no,Phantasmal,Anomalous
+Fireball,skill,no,Phantasmal,Divergent
+Firestorm,skill,no,Superior,Anomalous
+Firestorm,skill,no,Superior,Divergent
+Firestorm,skill,no,Anomalous,Superior
+Firestorm,skill,no,Anomalous,Divergent
+Firestorm,skill,no,Divergent,Superior
+Firestorm,skill,no,Divergent,Anomalous
+Fist of War Support,support,no,Superior,Anomalous
+Fist of War Support,support,no,Superior,Divergent
+Fist of War Support,support,no,Anomalous,Superior
+Fist of War Support,support,no,Anomalous,Divergent
+Fist of War Support,support,no,Divergent,Superior
+Fist of War Support,support,no,Divergent,Anomalous
+Flame Dash,skill,no,Superior,Anomalous
+Flame Dash,skill,no,Superior,Divergent
+Flame Dash,skill,no,Anomalous,Superior
+Flame Dash,skill,no,Anomalous,Divergent
+Flame Dash,skill,no,Divergent,Superior
+Flame Dash,skill,no,Divergent,Anomalous
+Flame Link,skill,no,Superior,Anomalous
+Flame Link,skill,no,Superior,Divergent
+Flame Link,skill,no,Anomalous,Superior
+Flame Link,skill,no,Anomalous,Divergent
+Flame Link,skill,no,Divergent,Superior
+Flame Link,skill,no,Divergent,Anomalous
+Flame Surge,skill,no,Superior,Anomalous
+Flame Surge,skill,no,Superior,Divergent
+Flame Surge,skill,no,Anomalous,Superior
+Flame Surge,skill,no,Anomalous,Divergent
+Flame Surge,skill,no,Divergent,Superior
+Flame Surge,skill,no,Divergent,Anomalous
+Flame Wall,skill,no,Superior,Anomalous
+Flame Wall,skill,no,Superior,Divergent
+Flame Wall,skill,no,Superior,Phantasmal
+Flame Wall,skill,no,Anomalous,Superior
+Flame Wall,skill,no,Anomalous,Divergent
+Flame Wall,skill,no,Anomalous,Phantasmal
+Flame Wall,skill,no,Divergent,Superior
+Flame Wall,skill,no,Divergent,Anomalous
+Flame Wall,skill,no,Divergent,Phantasmal
+Flame Wall,skill,no,Phantasmal,Superior
+Flame Wall,skill,no,Phantasmal,Anomalous
+Flame Wall,skill,no,Phantasmal,Divergent
+Flameblast,skill,no,Superior,Anomalous
+Flameblast,skill,no,Superior,Divergent
+Flameblast,skill,no,Superior,Phantasmal
+Flameblast,skill,no,Anomalous,Superior
+Flameblast,skill,no,Anomalous,Divergent
+Flameblast,skill,no,Anomalous,Phantasmal
+Flameblast,skill,no,Divergent,Superior
+Flameblast,skill,no,Divergent,Anomalous
+Flameblast,skill,no,Divergent,Phantasmal
+Flameblast,skill,no,Phantasmal,Superior
+Flameblast,skill,no,Phantasmal,Anomalous
+Flameblast,skill,no,Phantasmal,Divergent
+Flamethrower Trap,skill,no,Superior,Anomalous
+Flamethrower Trap,skill,no,Superior,Divergent
+Flamethrower Trap,skill,no,Anomalous,Superior
+Flamethrower Trap,skill,no,Anomalous,Divergent
+Flamethrower Trap,skill,no,Divergent,Superior
+Flamethrower Trap,skill,no,Divergent,Anomalous
+Flammability,skill,no,Superior,Anomalous
+Flammability,skill,no,Superior,Divergent
+Flammability,skill,no,Anomalous,Superior
+Flammability,skill,no,Anomalous,Divergent
+Flammability,skill,no,Divergent,Superior
+Flammability,skill,no,Divergent,Anomalous
+Flesh Offering,skill,no,Superior,Anomalous
+Flesh Offering,skill,no,Superior,Divergent
+Flesh Offering,skill,no,Anomalous,Superior
+Flesh Offering,skill,no,Anomalous,Divergent
+Flesh Offering,skill,no,Divergent,Superior
+Flesh Offering,skill,no,Divergent,Anomalous
+Flesh and Stone,skill,no,Superior,Anomalous
+Flesh and Stone,skill,no,Superior,Divergent
+Flesh and Stone,skill,no,Anomalous,Superior
+Flesh and Stone,skill,no,Anomalous,Divergent
+Flesh and Stone,skill,no,Divergent,Superior
+Flesh and Stone,skill,no,Divergent,Anomalous
+Flicker Strike,skill,no,Superior,Anomalous
+Flicker Strike,skill,no,Superior,Divergent
+Flicker Strike,skill,no,Anomalous,Superior
+Flicker Strike,skill,no,Anomalous,Divergent
+Flicker Strike,skill,no,Divergent,Superior
+Flicker Strike,skill,no,Divergent,Anomalous
+Focused Ballista Support,support,no,Superior,Anomalous
+Focused Ballista Support,support,no,Superior,Divergent
+Focused Ballista Support,support,no,Anomalous,Superior
+Focused Ballista Support,support,no,Anomalous,Divergent
+Focused Ballista Support,support,no,Divergent,Superior
+Focused Ballista Support,support,no,Divergent,Anomalous
+Forbidden Rite,skill,no,Superior,Anomalous
+Forbidden Rite,skill,no,Superior,Divergent
+Forbidden Rite,skill,no,Anomalous,Superior
+Forbidden Rite,skill,no,Anomalous,Divergent
+Forbidden Rite,skill,no,Divergent,Superior
+Forbidden Rite,skill,no,Divergent,Anomalous
+Fork Support,support,no,Superior,Anomalous
+Fork Support,support,no,Superior,Divergent
+Fork Support,support,no,Anomalous,Superior
+Fork Support,support,no,Anomalous,Divergent
+Fork Support,support,no,Divergent,Superior
+Fork Support,support,no,Divergent,Anomalous
+Fortify Support,support,no,Superior,Anomalous
+Fortify Support,support,no,Superior,Divergent
+Fortify Support,support,no,Anomalous,Superior
+Fortify Support,support,no,Anomalous,Divergent
+Fortify Support,support,no,Divergent,Superior
+Fortify Support,support,no,Divergent,Anomalous
+Freezing Pulse,skill,no,Superior,Anomalous
+Freezing Pulse,skill,no,Superior,Divergent
+Freezing Pulse,skill,no,Anomalous,Superior
+Freezing Pulse,skill,no,Anomalous,Divergent
+Freezing Pulse,skill,no,Divergent,Superior
+Freezing Pulse,skill,no,Divergent,Anomalous
+Frenzy,skill,no,Superior,Anomalous
+Frenzy,skill,no,Superior,Divergent
+Frenzy,skill,no,Superior,Phantasmal
+Frenzy,skill,no,Anomalous,Superior
+Frenzy,skill,no,Anomalous,Divergent
+Frenzy,skill,no,Anomalous,Phantasmal
+Frenzy,skill,no,Divergent,Superior
+Frenzy,skill,no,Divergent,Anomalous
+Frenzy,skill,no,Divergent,Phantasmal
+Frenzy,skill,no,Phantasmal,Superior
+Frenzy,skill,no,Phantasmal,Anomalous
+Frenzy,skill,no,Phantasmal,Divergent
+Frost Blades,skill,no,Superior,Anomalous
+Frost Blades,skill,no,Superior,Divergent
+Frost Blades,skill,no,Anomalous,Superior
+Frost Blades,skill,no,Anomalous,Divergent
+Frost Blades,skill,no,Divergent,Superior
+Frost Blades,skill,no,Divergent,Anomalous
+Frost Bomb,skill,no,Superior,Anomalous
+Frost Bomb,skill,no,Superior,Divergent
+Frost Bomb,skill,no,Superior,Phantasmal
+Frost Bomb,skill,no,Anomalous,Superior
+Frost Bomb,skill,no,Anomalous,Divergent
+Frost Bomb,skill,no,Anomalous,Phantasmal
+Frost Bomb,skill,no,Divergent,Superior
+Frost Bomb,skill,no,Divergent,Anomalous
+Frost Bomb,skill,no,Divergent,Phantasmal
+Frost Bomb,skill,no,Phantasmal,Superior
+Frost Bomb,skill,no,Phantasmal,Anomalous
+Frost Bomb,skill,no,Phantasmal,Divergent
+Frost Shield,skill,no,Superior,Anomalous
+Frost Shield,skill,no,Superior,Divergent
+Frost Shield,skill,no,Superior,Phantasmal
+Frost Shield,skill,no,Anomalous,Superior
+Frost Shield,skill,no,Anomalous,Divergent
+Frost Shield,skill,no,Anomalous,Phantasmal
+Frost Shield,skill,no,Divergent,Superior
+Frost Shield,skill,no,Divergent,Anomalous
+Frost Shield,skill,no,Divergent,Phantasmal
+Frost Shield,skill,no,Phantasmal,Superior
+Frost Shield,skill,no,Phantasmal,Anomalous
+Frost Shield,skill,no,Phantasmal,Divergent
+Frost Wall,skill,no,Superior,Anomalous
+Frost Wall,skill,no,Superior,Divergent
+Frost Wall,skill,no,Anomalous,Superior
+Frost Wall,skill,no,Anomalous,Divergent
+Frost Wall,skill,no,Divergent,Superior
+Frost Wall,skill,no,Divergent,Anomalous
+Frostbite,skill,no,Superior,Anomalous
+Frostbite,skill,no,Superior,Divergent
+Frostbite,skill,no,Anomalous,Superior
+Frostbite,skill,no,Anomalous,Divergent
+Frostbite,skill,no,Divergent,Superior
+Frostbite,skill,no,Divergent,Anomalous
+Frostblink,skill,no,Superior,Anomalous
+Frostblink,skill,no,Superior,Divergent
+Frostblink,skill,no,Anomalous,Superior
+Frostblink,skill,no,Anomalous,Divergent
+Frostblink,skill,no,Divergent,Superior
+Frostblink,skill,no,Divergent,Anomalous
+Frostbolt,skill,no,Superior,Anomalous
+Frostbolt,skill,no,Superior,Divergent
+Frostbolt,skill,no,Superior,Phantasmal
+Frostbolt,skill,no,Anomalous,Superior
+Frostbolt,skill,no,Anomalous,Divergent
+Frostbolt,skill,no,Anomalous,Phantasmal
+Frostbolt,skill,no,Divergent,Superior
+Frostbolt,skill,no,Divergent,Anomalous
+Frostbolt,skill,no,Divergent,Phantasmal
+Frostbolt,skill,no,Phantasmal,Superior
+Frostbolt,skill,no,Phantasmal,Anomalous
+Frostbolt,skill,no,Phantasmal,Divergent
+Frozen Legion,skill,no,Anomalous,Divergent
+Frozen Legion,skill,no,Anomalous,Superior
+Frozen Legion,skill,no,Divergent,Anomalous
+Frozen Legion,skill,no,Divergent,Superior
+Frozen Legion,skill,no,Superior,Anomalous
+Frozen Legion,skill,no,Superior,Divergent
+Galvanic Arrow,skill,no,Superior,Anomalous
+Galvanic Arrow,skill,no,Superior,Divergent
+Galvanic Arrow,skill,no,Anomalous,Superior
+Galvanic Arrow,skill,no,Anomalous,Divergent
+Galvanic Arrow,skill,no,Divergent,Superior
+Galvanic Arrow,skill,no,Divergent,Anomalous
+Galvanic Field,skill,no,Superior,Anomalous
+Galvanic Field,skill,no,Superior,Divergent
+Galvanic Field,skill,no,Superior,Phantasmal
+Galvanic Field,skill,no,Anomalous,Superior
+Galvanic Field,skill,no,Anomalous,Divergent
+Galvanic Field,skill,no,Anomalous,Phantasmal
+Galvanic Field,skill,no,Divergent,Superior
+Galvanic Field,skill,no,Divergent,Anomalous
+Galvanic Field,skill,no,Divergent,Phantasmal
+Galvanic Field,skill,no,Phantasmal,Superior
+Galvanic Field,skill,no,Phantasmal,Anomalous
+Galvanic Field,skill,no,Phantasmal,Divergent
+General's Cry,skill,no,Superior,Anomalous
+General's Cry,skill,no,Superior,Divergent
+General's Cry,skill,no,Anomalous,Superior
+General's Cry,skill,no,Anomalous,Divergent
+General's Cry,skill,no,Divergent,Superior
+General's Cry,skill,no,Divergent,Anomalous
+Generosity Support,support,no,Superior,Anomalous
+Generosity Support,support,no,Superior,Divergent
+Generosity Support,support,no,Anomalous,Superior
+Generosity Support,support,no,Anomalous,Divergent
+Generosity Support,support,no,Divergent,Superior
+Generosity Support,support,no,Divergent,Anomalous
+Glacial Cascade,skill,no,Superior,Anomalous
+Glacial Cascade,skill,no,Superior,Divergent
+Glacial Cascade,skill,no,Anomalous,Superior
+Glacial Cascade,skill,no,Anomalous,Divergent
+Glacial Cascade,skill,no,Divergent,Superior
+Glacial Cascade,skill,no,Divergent,Anomalous
+Glacial Hammer,skill,no,Superior,Anomalous
+Glacial Hammer,skill,no,Superior,Divergent
+Glacial Hammer,skill,no,Anomalous,Superior
+Glacial Hammer,skill,no,Anomalous,Divergent
+Glacial Hammer,skill,no,Divergent,Superior
+Glacial Hammer,skill,no,Divergent,Anomalous
+Grace,skill,no,Superior,Anomalous
+Grace,skill,no,Superior,Divergent
+Grace,skill,no,Anomalous,Superior
+Grace,skill,no,Anomalous,Divergent
+Grace,skill,no,Divergent,Superior
+Grace,skill,no,Divergent,Anomalous
+Greater Multiple Projectiles Support,support,no,Superior,Anomalous
+Greater Multiple Projectiles Support,support,no,Superior,Divergent
+Greater Multiple Projectiles Support,support,no,Anomalous,Superior
+Greater Multiple Projectiles Support,support,no,Anomalous,Divergent
+Greater Multiple Projectiles Support,support,no,Divergent,Superior
+Greater Multiple Projectiles Support,support,no,Divergent,Anomalous
+Greater Volley Support,support,no,Superior,Anomalous
+Greater Volley Support,support,no,Superior,Divergent
+Greater Volley Support,support,no,Anomalous,Superior
+Greater Volley Support,support,no,Anomalous,Divergent
+Greater Volley Support,support,no,Divergent,Superior
+Greater Volley Support,support,no,Divergent,Anomalous
+Ground Slam,skill,no,Superior,Anomalous
+Ground Slam,skill,no,Superior,Divergent
+Ground Slam,skill,no,Anomalous,Superior
+Ground Slam,skill,no,Anomalous,Divergent
+Ground Slam,skill,no,Divergent,Superior
+Ground Slam,skill,no,Divergent,Anomalous
+Haste,skill,no,Superior,Anomalous
+Haste,skill,no,Superior,Divergent
+Haste,skill,no,Superior,Phantasmal
+Haste,skill,no,Anomalous,Superior
+Haste,skill,no,Anomalous,Divergent
+Haste,skill,no,Anomalous,Phantasmal
+Haste,skill,no,Divergent,Superior
+Haste,skill,no,Divergent,Anomalous
+Haste,skill,no,Divergent,Phantasmal
+Haste,skill,no,Phantasmal,Superior
+Haste,skill,no,Phantasmal,Anomalous
+Haste,skill,no,Phantasmal,Divergent
+Hatred,skill,no,Superior,Anomalous
+Hatred,skill,no,Superior,Divergent
+Hatred,skill,no,Anomalous,Superior
+Hatred,skill,no,Anomalous,Divergent
+Hatred,skill,no,Divergent,Superior
+Hatred,skill,no,Divergent,Anomalous
+Heavy Strike,skill,no,Superior,Anomalous
+Heavy Strike,skill,no,Superior,Divergent
+Heavy Strike,skill,no,Anomalous,Superior
+Heavy Strike,skill,no,Anomalous,Divergent
+Heavy Strike,skill,no,Divergent,Superior
+Heavy Strike,skill,no,Divergent,Anomalous
+Herald of Agony,skill,no,Superior,Anomalous
+Herald of Agony,skill,no,Superior,Divergent
+Herald of Agony,skill,no,Anomalous,Superior
+Herald of Agony,skill,no,Anomalous,Divergent
+Herald of Agony,skill,no,Divergent,Superior
+Herald of Agony,skill,no,Divergent,Anomalous
+Herald of Ash,skill,no,Superior,Anomalous
+Herald of Ash,skill,no,Superior,Divergent
+Herald of Ash,skill,no,Anomalous,Superior
+Herald of Ash,skill,no,Anomalous,Divergent
+Herald of Ash,skill,no,Divergent,Superior
+Herald of Ash,skill,no,Divergent,Anomalous
+Herald of Ice,skill,no,Superior,Anomalous
+Herald of Ice,skill,no,Superior,Divergent
+Herald of Ice,skill,no,Anomalous,Superior
+Herald of Ice,skill,no,Anomalous,Divergent
+Herald of Ice,skill,no,Divergent,Superior
+Herald of Ice,skill,no,Divergent,Anomalous
+Herald of Purity,skill,no,Superior,Anomalous
+Herald of Purity,skill,no,Superior,Divergent
+Herald of Purity,skill,no,Anomalous,Superior
+Herald of Purity,skill,no,Anomalous,Divergent
+Herald of Purity,skill,no,Divergent,Superior
+Herald of Purity,skill,no,Divergent,Anomalous
+Herald of Thunder,skill,no,Superior,Anomalous
+Herald of Thunder,skill,no,Superior,Divergent
+Herald of Thunder,skill,no,Anomalous,Superior
+Herald of Thunder,skill,no,Anomalous,Divergent
+Herald of Thunder,skill,no,Divergent,Superior
+Herald of Thunder,skill,no,Divergent,Anomalous
+Hex Bloom Support,support,no,Superior,Anomalous
+Hex Bloom Support,support,no,Superior,Divergent
+Hex Bloom Support,support,no,Anomalous,Superior
+Hex Bloom Support,support,no,Anomalous,Divergent
+Hex Bloom Support,support,no,Divergent,Superior
+Hex Bloom Support,support,no,Divergent,Anomalous
+Hexblast,skill,no,Superior,Anomalous
+Hexblast,skill,no,Superior,Divergent
+Hexblast,skill,no,Superior,Phantasmal
+Hexblast,skill,no,Anomalous,Superior
+Hexblast,skill,no,Anomalous,Divergent
+Hexblast,skill,no,Anomalous,Phantasmal
+Hexblast,skill,no,Divergent,Superior
+Hexblast,skill,no,Divergent,Anomalous
+Hexblast,skill,no,Divergent,Phantasmal
+Hexblast,skill,no,Phantasmal,Superior
+Hexblast,skill,no,Phantasmal,Anomalous
+Hexblast,skill,no,Phantasmal,Divergent
+Hextouch Support,support,no,Anomalous,Superior
+Hextouch Support,support,no,Anomalous,Divergent
+Hextouch Support,support,no,Superior,Anomalous
+Hextouch Support,support,no,Superior,Divergent
+Hextouch Support,support,no,Divergent,Anomalous
+Hextouch Support,support,no,Divergent,Superior
+High-Impact Mine Support,support,no,Superior,Anomalous
+High-Impact Mine Support,support,no,Superior,Divergent
+High-Impact Mine Support,support,no,Anomalous,Superior
+High-Impact Mine Support,support,no,Anomalous,Divergent
+High-Impact Mine Support,support,no,Divergent,Superior
+High-Impact Mine Support,support,no,Divergent,Anomalous
+Holy Flame Totem,skill,no,Superior,Anomalous
+Holy Flame Totem,skill,no,Superior,Divergent
+Holy Flame Totem,skill,no,Superior,Phantasmal
+Holy Flame Totem,skill,no,Anomalous,Superior
+Holy Flame Totem,skill,no,Anomalous,Divergent
+Holy Flame Totem,skill,no,Anomalous,Phantasmal
+Holy Flame Totem,skill,no,Divergent,Superior
+Holy Flame Totem,skill,no,Divergent,Anomalous
+Holy Flame Totem,skill,no,Divergent,Phantasmal
+Holy Flame Totem,skill,no,Phantasmal,Superior
+Holy Flame Totem,skill,no,Phantasmal,Anomalous
+Holy Flame Totem,skill,no,Phantasmal,Divergent
+Hydrosphere,skill,no,Superior,Anomalous
+Hydrosphere,skill,no,Superior,Divergent
+Hydrosphere,skill,no,Anomalous,Superior
+Hydrosphere,skill,no,Anomalous,Divergent
+Hydrosphere,skill,no,Divergent,Superior
+Hydrosphere,skill,no,Divergent,Anomalous
+Hypothermia Support,support,no,Superior,Anomalous
+Hypothermia Support,support,no,Superior,Divergent
+Hypothermia Support,support,no,Anomalous,Superior
+Hypothermia Support,support,no,Anomalous,Divergent
+Hypothermia Support,support,no,Divergent,Superior
+Hypothermia Support,support,no,Divergent,Anomalous
+Ice Bite Support,support,no,Superior,Anomalous
+Ice Bite Support,support,no,Superior,Divergent
+Ice Bite Support,support,no,Anomalous,Superior
+Ice Bite Support,support,no,Anomalous,Divergent
+Ice Bite Support,support,no,Divergent,Superior
+Ice Bite Support,support,no,Divergent,Anomalous
+Ice Crash,skill,no,Superior,Anomalous
+Ice Crash,skill,no,Superior,Divergent
+Ice Crash,skill,no,Superior,Phantasmal
+Ice Crash,skill,no,Anomalous,Superior
+Ice Crash,skill,no,Anomalous,Divergent
+Ice Crash,skill,no,Anomalous,Phantasmal
+Ice Crash,skill,no,Divergent,Superior
+Ice Crash,skill,no,Divergent,Anomalous
+Ice Crash,skill,no,Divergent,Phantasmal
+Ice Crash,skill,no,Phantasmal,Superior
+Ice Crash,skill,no,Phantasmal,Anomalous
+Ice Crash,skill,no,Phantasmal,Divergent
+Ice Nova,skill,no,Superior,Anomalous
+Ice Nova,skill,no,Superior,Divergent
+Ice Nova,skill,no,Superior,Phantasmal
+Ice Nova,skill,no,Anomalous,Superior
+Ice Nova,skill,no,Anomalous,Divergent
+Ice Nova,skill,no,Anomalous,Phantasmal
+Ice Nova,skill,no,Divergent,Superior
+Ice Nova,skill,no,Divergent,Anomalous
+Ice Nova,skill,no,Divergent,Phantasmal
+Ice Nova,skill,no,Phantasmal,Superior
+Ice Nova,skill,no,Phantasmal,Anomalous
+Ice Nova,skill,no,Phantasmal,Divergent
+Ice Shot,skill,no,Superior,Anomalous
+Ice Shot,skill,no,Superior,Divergent
+Ice Shot,skill,no,Anomalous,Superior
+Ice Shot,skill,no,Anomalous,Divergent
+Ice Shot,skill,no,Divergent,Superior
+Ice Shot,skill,no,Divergent,Anomalous
+Ice Spear,skill,no,Superior,Anomalous
+Ice Spear,skill,no,Superior,Divergent
+Ice Spear,skill,no,Superior,Phantasmal
+Ice Spear,skill,no,Anomalous,Superior
+Ice Spear,skill,no,Anomalous,Divergent
+Ice Spear,skill,no,Anomalous,Phantasmal
+Ice Spear,skill,no,Divergent,Superior
+Ice Spear,skill,no,Divergent,Anomalous
+Ice Spear,skill,no,Divergent,Phantasmal
+Ice Spear,skill,no,Phantasmal,Superior
+Ice Spear,skill,no,Phantasmal,Anomalous
+Ice Spear,skill,no,Phantasmal,Divergent
+Ice Trap,skill,no,Superior,Anomalous
+Ice Trap,skill,no,Superior,Divergent
+Ice Trap,skill,no,Anomalous,Superior
+Ice Trap,skill,no,Anomalous,Divergent
+Ice Trap,skill,no,Divergent,Superior
+Ice Trap,skill,no,Divergent,Anomalous
+Icicle Mine,skill,no,Superior,Anomalous
+Icicle Mine,skill,no,Superior,Divergent
+Icicle Mine,skill,no,Anomalous,Superior
+Icicle Mine,skill,no,Anomalous,Divergent
+Icicle Mine,skill,no,Divergent,Superior
+Icicle Mine,skill,no,Divergent,Anomalous
+Ignite Proliferation Support,support,no,Superior,Anomalous
+Ignite Proliferation Support,support,no,Superior,Divergent
+Ignite Proliferation Support,support,no,Anomalous,Superior
+Ignite Proliferation Support,support,no,Anomalous,Divergent
+Ignite Proliferation Support,support,no,Divergent,Superior
+Ignite Proliferation Support,support,no,Divergent,Anomalous
+Immolate Support,support,no,Superior,Anomalous
+Immolate Support,support,no,Superior,Divergent
+Immolate Support,support,no,Anomalous,Superior
+Immolate Support,support,no,Anomalous,Divergent
+Immolate Support,support,no,Divergent,Superior
+Immolate Support,support,no,Divergent,Anomalous
+Immortal Call,skill,no,Superior,Anomalous
+Immortal Call,skill,no,Superior,Divergent
+Immortal Call,skill,no,Anomalous,Superior
+Immortal Call,skill,no,Anomalous,Divergent
+Immortal Call,skill,no,Divergent,Superior
+Immortal Call,skill,no,Divergent,Anomalous
+Impale Support,support,no,Superior,Anomalous
+Impale Support,support,no,Superior,Divergent
+Impale Support,support,no,Anomalous,Superior
+Impale Support,support,no,Anomalous,Divergent
+Impale Support,support,no,Divergent,Superior
+Impale Support,support,no,Divergent,Anomalous
+Impending Doom Support,support,no,Anomalous,Superior
+Impending Doom Support,support,no,Anomalous,Divergent
+Impending Doom Support,support,no,Superior,Anomalous
+Impending Doom Support,support,no,Superior,Divergent
+Impending Doom Support,support,no,Divergent,Anomalous
+Impending Doom Support,support,no,Divergent,Superior
+Incinerate,skill,no,Superior,Anomalous
+Incinerate,skill,no,Superior,Divergent
+Incinerate,skill,no,Anomalous,Superior
+Incinerate,skill,no,Anomalous,Divergent
+Incinerate,skill,no,Divergent,Superior
+Incinerate,skill,no,Divergent,Anomalous
+Increased Area of Effect Support,support,no,Superior,Anomalous
+Increased Area of Effect Support,support,no,Superior,Divergent
+Increased Area of Effect Support,support,no,Anomalous,Superior
+Increased Area of Effect Support,support,no,Anomalous,Divergent
+Increased Area of Effect Support,support,no,Divergent,Superior
+Increased Area of Effect Support,support,no,Divergent,Anomalous
+Increased Critical Damage Support,support,no,Superior,Anomalous
+Increased Critical Damage Support,support,no,Superior,Divergent
+Increased Critical Damage Support,support,no,Anomalous,Superior
+Increased Critical Damage Support,support,no,Anomalous,Divergent
+Increased Critical Damage Support,support,no,Divergent,Superior
+Increased Critical Damage Support,support,no,Divergent,Anomalous
+Increased Critical Strikes Support,support,no,Superior,Anomalous
+Increased Critical Strikes Support,support,no,Superior,Divergent
+Increased Critical Strikes Support,support,no,Anomalous,Superior
+Increased Critical Strikes Support,support,no,Anomalous,Divergent
+Increased Critical Strikes Support,support,no,Divergent,Superior
+Increased Critical Strikes Support,support,no,Divergent,Anomalous
+Increased Duration Support,support,no,Superior,Anomalous
+Increased Duration Support,support,no,Superior,Divergent
+Increased Duration Support,support,no,Anomalous,Superior
+Increased Duration Support,support,no,Anomalous,Divergent
+Increased Duration Support,support,no,Divergent,Superior
+Increased Duration Support,support,no,Divergent,Anomalous
+Infernal Blow,skill,no,Superior,Anomalous
+Infernal Blow,skill,no,Superior,Divergent
+Infernal Blow,skill,no,Superior,Phantasmal
+Infernal Blow,skill,no,Anomalous,Superior
+Infernal Blow,skill,no,Anomalous,Divergent
+Infernal Blow,skill,no,Anomalous,Phantasmal
+Infernal Blow,skill,no,Divergent,Superior
+Infernal Blow,skill,no,Divergent,Anomalous
+Infernal Blow,skill,no,Divergent,Phantasmal
+Infernal Blow,skill,no,Phantasmal,Superior
+Infernal Blow,skill,no,Phantasmal,Anomalous
+Infernal Blow,skill,no,Phantasmal,Divergent
+Infernal Cry,skill,no,Superior,Anomalous
+Infernal Cry,skill,no,Superior,Divergent
+Infernal Cry,skill,no,Superior,Phantasmal
+Infernal Cry,skill,no,Anomalous,Superior
+Infernal Cry,skill,no,Anomalous,Divergent
+Infernal Cry,skill,no,Anomalous,Phantasmal
+Infernal Cry,skill,no,Divergent,Superior
+Infernal Cry,skill,no,Divergent,Anomalous
+Infernal Cry,skill,no,Divergent,Phantasmal
+Infernal Cry,skill,no,Phantasmal,Superior
+Infernal Cry,skill,no,Phantasmal,Anomalous
+Infernal Cry,skill,no,Phantasmal,Divergent
+Infernal Legion Support,support,no,Superior,Anomalous
+Infernal Legion Support,support,no,Superior,Divergent
+Infernal Legion Support,support,no,Anomalous,Superior
+Infernal Legion Support,support,no,Anomalous,Divergent
+Infernal Legion Support,support,no,Divergent,Superior
+Infernal Legion Support,support,no,Divergent,Anomalous
+Infused Channelling Support,support,no,Superior,Anomalous
+Infused Channelling Support,support,no,Superior,Divergent
+Infused Channelling Support,support,no,Anomalous,Superior
+Infused Channelling Support,support,no,Anomalous,Divergent
+Infused Channelling Support,support,no,Divergent,Superior
+Infused Channelling Support,support,no,Divergent,Anomalous
+Innervate Support,support,no,Superior,Anomalous
+Innervate Support,support,no,Superior,Divergent
+Innervate Support,support,no,Anomalous,Superior
+Innervate Support,support,no,Anomalous,Divergent
+Innervate Support,support,no,Divergent,Superior
+Innervate Support,support,no,Divergent,Anomalous
+Inspiration Support,support,no,Superior,Anomalous
+Inspiration Support,support,no,Superior,Divergent
+Inspiration Support,support,no,Anomalous,Superior
+Inspiration Support,support,no,Anomalous,Divergent
+Inspiration Support,support,no,Divergent,Superior
+Inspiration Support,support,no,Divergent,Anomalous
+Intensify Support,support,no,Superior,Anomalous
+Intensify Support,support,no,Superior,Divergent
+Intensify Support,support,no,Superior,Phantasmal
+Intensify Support,support,no,Anomalous,Superior
+Intensify Support,support,no,Anomalous,Divergent
+Intensify Support,support,no,Anomalous,Phantasmal
+Intensify Support,support,no,Divergent,Superior
+Intensify Support,support,no,Divergent,Anomalous
+Intensify Support,support,no,Divergent,Phantasmal
+Intensify Support,support,no,Phantasmal,Superior
+Intensify Support,support,no,Phantasmal,Anomalous
+Intensify Support,support,no,Phantasmal,Divergent
+Intimidating Cry,skill,no,Superior,Anomalous
+Intimidating Cry,skill,no,Superior,Divergent
+Intimidating Cry,skill,no,Superior,Phantasmal
+Intimidating Cry,skill,no,Anomalous,Superior
+Intimidating Cry,skill,no,Anomalous,Divergent
+Intimidating Cry,skill,no,Anomalous,Phantasmal
+Intimidating Cry,skill,no,Divergent,Superior
+Intimidating Cry,skill,no,Divergent,Anomalous
+Intimidating Cry,skill,no,Divergent,Phantasmal
+Intimidating Cry,skill,no,Phantasmal,Superior
+Intimidating Cry,skill,no,Phantasmal,Anomalous
+Intimidating Cry,skill,no,Phantasmal,Divergent
+Intuitive Link,skill,no,Superior,Anomalous
+Intuitive Link,skill,no,Superior,Divergent
+Intuitive Link,skill,no,Anomalous,Superior
+Intuitive Link,skill,no,Anomalous,Divergent
+Intuitive Link,skill,no,Divergent,Superior
+Intuitive Link,skill,no,Divergent,Anomalous
+Iron Grip Support,support,no,Superior,Anomalous
+Iron Grip Support,support,no,Superior,Divergent
+Iron Grip Support,support,no,Anomalous,Superior
+Iron Grip Support,support,no,Anomalous,Divergent
+Iron Grip Support,support,no,Divergent,Superior
+Iron Grip Support,support,no,Divergent,Anomalous
+Iron Will Support,support,no,Superior,Anomalous
+Iron Will Support,support,no,Superior,Divergent
+Iron Will Support,support,no,Anomalous,Superior
+Iron Will Support,support,no,Anomalous,Divergent
+Iron Will Support,support,no,Divergent,Superior
+Iron Will Support,support,no,Divergent,Anomalous
+Kinetic Blast,skill,no,Superior,Anomalous
+Kinetic Blast,skill,no,Superior,Divergent
+Kinetic Blast,skill,no,Anomalous,Superior
+Kinetic Blast,skill,no,Anomalous,Divergent
+Kinetic Blast,skill,no,Divergent,Superior
+Kinetic Blast,skill,no,Divergent,Anomalous
+Kinetic Bolt,skill,no,Superior,Anomalous
+Kinetic Bolt,skill,no,Superior,Divergent
+Kinetic Bolt,skill,no,Anomalous,Superior
+Kinetic Bolt,skill,no,Anomalous,Divergent
+Kinetic Bolt,skill,no,Divergent,Superior
+Kinetic Bolt,skill,no,Divergent,Anomalous
+Knockback Support,support,no,Superior,Anomalous
+Knockback Support,support,no,Superior,Divergent
+Knockback Support,support,no,Anomalous,Superior
+Knockback Support,support,no,Anomalous,Divergent
+Knockback Support,support,no,Divergent,Superior
+Knockback Support,support,no,Divergent,Anomalous
+Lacerate,skill,no,Superior,Anomalous
+Lacerate,skill,no,Superior,Divergent
+Lacerate,skill,no,Anomalous,Superior
+Lacerate,skill,no,Anomalous,Divergent
+Lacerate,skill,no,Divergent,Superior
+Lacerate,skill,no,Divergent,Anomalous
+Lancing Steel,skill,no,Superior,Anomalous
+Lancing Steel,skill,no,Superior,Divergent
+Lancing Steel,skill,no,Superior,Phantasmal
+Lancing Steel,skill,no,Anomalous,Superior
+Lancing Steel,skill,no,Anomalous,Divergent
+Lancing Steel,skill,no,Anomalous,Phantasmal
+Lancing Steel,skill,no,Divergent,Superior
+Lancing Steel,skill,no,Divergent,Anomalous
+Lancing Steel,skill,no,Divergent,Phantasmal
+Lancing Steel,skill,no,Phantasmal,Superior
+Lancing Steel,skill,no,Phantasmal,Anomalous
+Lancing Steel,skill,no,Phantasmal,Divergent
+Leap Slam,skill,no,Superior,Anomalous
+Leap Slam,skill,no,Superior,Divergent
+Leap Slam,skill,no,Superior,Phantasmal
+Leap Slam,skill,no,Anomalous,Superior
+Leap Slam,skill,no,Anomalous,Divergent
+Leap Slam,skill,no,Anomalous,Phantasmal
+Leap Slam,skill,no,Divergent,Superior
+Leap Slam,skill,no,Divergent,Anomalous
+Leap Slam,skill,no,Divergent,Phantasmal
+Leap Slam,skill,no,Phantasmal,Superior
+Leap Slam,skill,no,Phantasmal,Anomalous
+Leap Slam,skill,no,Phantasmal,Divergent
+Less Duration Support,support,no,Superior,Anomalous
+Less Duration Support,support,no,Superior,Divergent
+Less Duration Support,support,no,Anomalous,Superior
+Less Duration Support,support,no,Anomalous,Divergent
+Less Duration Support,support,no,Divergent,Superior
+Less Duration Support,support,no,Divergent,Anomalous
+Lesser Multiple Projectiles Support,support,no,Superior,Anomalous
+Lesser Multiple Projectiles Support,support,no,Superior,Divergent
+Lesser Multiple Projectiles Support,support,no,Anomalous,Superior
+Lesser Multiple Projectiles Support,support,no,Anomalous,Divergent
+Lesser Multiple Projectiles Support,support,no,Divergent,Superior
+Lesser Multiple Projectiles Support,support,no,Divergent,Anomalous
+Life Gain on Hit Support,support,no,Superior,Anomalous
+Life Gain on Hit Support,support,no,Superior,Divergent
+Life Gain on Hit Support,support,no,Anomalous,Superior
+Life Gain on Hit Support,support,no,Anomalous,Divergent
+Life Gain on Hit Support,support,no,Divergent,Superior
+Life Gain on Hit Support,support,no,Divergent,Anomalous
+Life Leech Support,support,no,Superior,Anomalous
+Life Leech Support,support,no,Superior,Divergent
+Life Leech Support,support,no,Anomalous,Superior
+Life Leech Support,support,no,Anomalous,Divergent
+Life Leech Support,support,no,Divergent,Superior
+Life Leech Support,support,no,Divergent,Anomalous
+Lifetap Support,support,no,Superior,Anomalous
+Lifetap Support,support,no,Superior,Divergent
+Lifetap Support,support,no,Anomalous,Superior
+Lifetap Support,support,no,Anomalous,Divergent
+Lifetap Support,support,no,Divergent,Superior
+Lifetap Support,support,no,Divergent,Anomalous
+Lightning Arrow,skill,no,Superior,Anomalous
+Lightning Arrow,skill,no,Superior,Divergent
+Lightning Arrow,skill,no,Superior,Phantasmal
+Lightning Arrow,skill,no,Anomalous,Superior
+Lightning Arrow,skill,no,Anomalous,Divergent
+Lightning Arrow,skill,no,Anomalous,Phantasmal
+Lightning Arrow,skill,no,Divergent,Superior
+Lightning Arrow,skill,no,Divergent,Anomalous
+Lightning Arrow,skill,no,Divergent,Phantasmal
+Lightning Arrow,skill,no,Phantasmal,Superior
+Lightning Arrow,skill,no,Phantasmal,Anomalous
+Lightning Arrow,skill,no,Phantasmal,Divergent
+Lightning Conduit,skill,no,Superior,Anomalous
+Lightning Conduit,skill,no,Superior,Divergent
+Lightning Conduit,skill,no,Anomalous,Superior
+Lightning Conduit,skill,no,Anomalous,Divergent
+Lightning Conduit,skill,no,Divergent,Superior
+Lightning Conduit,skill,no,Divergent,Anomalous
+Lightning Penetration Support,support,no,Superior,Anomalous
+Lightning Penetration Support,support,no,Superior,Divergent
+Lightning Penetration Support,support,no,Anomalous,Superior
+Lightning Penetration Support,support,no,Anomalous,Divergent
+Lightning Penetration Support,support,no,Divergent,Superior
+Lightning Penetration Support,support,no,Divergent,Anomalous
+Lightning Spire Trap,skill,no,Superior,Anomalous
+Lightning Spire Trap,skill,no,Superior,Divergent
+Lightning Spire Trap,skill,no,Anomalous,Superior
+Lightning Spire Trap,skill,no,Anomalous,Divergent
+Lightning Spire Trap,skill,no,Divergent,Superior
+Lightning Spire Trap,skill,no,Divergent,Anomalous
+Lightning Strike,skill,no,Superior,Anomalous
+Lightning Strike,skill,no,Superior,Divergent
+Lightning Strike,skill,no,Superior,Phantasmal
+Lightning Strike,skill,no,Anomalous,Superior
+Lightning Strike,skill,no,Anomalous,Divergent
+Lightning Strike,skill,no,Anomalous,Phantasmal
+Lightning Strike,skill,no,Divergent,Superior
+Lightning Strike,skill,no,Divergent,Anomalous
+Lightning Strike,skill,no,Divergent,Phantasmal
+Lightning Strike,skill,no,Phantasmal,Superior
+Lightning Strike,skill,no,Phantasmal,Anomalous
+Lightning Strike,skill,no,Phantasmal,Divergent
+Lightning Tendrils,skill,no,Superior,Anomalous
+Lightning Tendrils,skill,no,Superior,Divergent
+Lightning Tendrils,skill,no,Superior,Phantasmal
+Lightning Tendrils,skill,no,Anomalous,Superior
+Lightning Tendrils,skill,no,Anomalous,Divergent
+Lightning Tendrils,skill,no,Anomalous,Phantasmal
+Lightning Tendrils,skill,no,Divergent,Superior
+Lightning Tendrils,skill,no,Divergent,Anomalous
+Lightning Tendrils,skill,no,Divergent,Phantasmal
+Lightning Tendrils,skill,no,Phantasmal,Superior
+Lightning Tendrils,skill,no,Phantasmal,Anomalous
+Lightning Tendrils,skill,no,Phantasmal,Divergent
+Lightning Trap,skill,no,Superior,Anomalous
+Lightning Trap,skill,no,Superior,Divergent
+Lightning Trap,skill,no,Anomalous,Superior
+Lightning Trap,skill,no,Anomalous,Divergent
+Lightning Trap,skill,no,Divergent,Superior
+Lightning Trap,skill,no,Divergent,Anomalous
+Lightning Warp,skill,no,Superior,Anomalous
+Lightning Warp,skill,no,Superior,Divergent
+Lightning Warp,skill,no,Superior,Phantasmal
+Lightning Warp,skill,no,Anomalous,Superior
+Lightning Warp,skill,no,Anomalous,Divergent
+Lightning Warp,skill,no,Anomalous,Phantasmal
+Lightning Warp,skill,no,Divergent,Superior
+Lightning Warp,skill,no,Divergent,Anomalous
+Lightning Warp,skill,no,Divergent,Phantasmal
+Lightning Warp,skill,no,Phantasmal,Superior
+Lightning Warp,skill,no,Phantasmal,Anomalous
+Lightning Warp,skill,no,Phantasmal,Divergent
+Maim Support,support,no,Superior,Anomalous
+Maim Support,support,no,Superior,Divergent
+Maim Support,support,no,Anomalous,Superior
+Maim Support,support,no,Anomalous,Divergent
+Maim Support,support,no,Divergent,Superior
+Maim Support,support,no,Divergent,Anomalous
+Malevolence,skill,no,Superior,Anomalous
+Malevolence,skill,no,Superior,Divergent
+Malevolence,skill,no,Anomalous,Superior
+Malevolence,skill,no,Anomalous,Divergent
+Malevolence,skill,no,Divergent,Superior
+Malevolence,skill,no,Divergent,Anomalous
+Mana Leech Support,support,no,Superior,Anomalous
+Mana Leech Support,support,no,Superior,Divergent
+Mana Leech Support,support,no,Anomalous,Superior
+Mana Leech Support,support,no,Anomalous,Divergent
+Mana Leech Support,support,no,Divergent,Superior
+Mana Leech Support,support,no,Divergent,Anomalous
+Manabond,skill,no,Superior,Anomalous
+Manabond,skill,no,Superior,Divergent
+Manabond,skill,no,Anomalous,Superior
+Manabond,skill,no,Anomalous,Divergent
+Manabond,skill,no,Divergent,Superior
+Manabond,skill,no,Divergent,Anomalous
+Manaforged Arrows Support,support,no,Superior,Anomalous
+Manaforged Arrows Support,support,no,Superior,Divergent
+Manaforged Arrows Support,support,no,Anomalous,Superior
+Manaforged Arrows Support,support,no,Anomalous,Divergent
+Manaforged Arrows Support,support,no,Divergent,Superior
+Manaforged Arrows Support,support,no,Divergent,Anomalous
+Mark On Hit Support,support,no,Superior,Anomalous
+Mark On Hit Support,support,no,Superior,Divergent
+Mark On Hit Support,support,no,Anomalous,Superior
+Mark On Hit Support,support,no,Anomalous,Divergent
+Mark On Hit Support,support,no,Divergent,Superior
+Mark On Hit Support,support,no,Divergent,Anomalous
+Meat Shield Support,support,no,Superior,Anomalous
+Meat Shield Support,support,no,Superior,Divergent
+Meat Shield Support,support,no,Anomalous,Superior
+Meat Shield Support,support,no,Anomalous,Divergent
+Meat Shield Support,support,no,Divergent,Superior
+Meat Shield Support,support,no,Divergent,Anomalous
+Melee Physical Damage Support,support,no,Superior,Anomalous
+Melee Physical Damage Support,support,no,Superior,Divergent
+Melee Physical Damage Support,support,no,Anomalous,Superior
+Melee Physical Damage Support,support,no,Anomalous,Divergent
+Melee Physical Damage Support,support,no,Divergent,Superior
+Melee Physical Damage Support,support,no,Divergent,Anomalous
+Melee Splash Support,support,no,Superior,Anomalous
+Melee Splash Support,support,no,Superior,Divergent
+Melee Splash Support,support,no,Anomalous,Superior
+Melee Splash Support,support,no,Anomalous,Divergent
+Melee Splash Support,support,no,Divergent,Superior
+Melee Splash Support,support,no,Divergent,Anomalous
+Minefield Support,support,no,Superior,Anomalous
+Minefield Support,support,no,Superior,Divergent
+Minefield Support,support,no,Anomalous,Superior
+Minefield Support,support,no,Anomalous,Divergent
+Minefield Support,support,no,Divergent,Superior
+Minefield Support,support,no,Divergent,Anomalous
+Minion Damage Support,support,no,Superior,Anomalous
+Minion Damage Support,support,no,Superior,Divergent
+Minion Damage Support,support,no,Anomalous,Superior
+Minion Damage Support,support,no,Anomalous,Divergent
+Minion Damage Support,support,no,Divergent,Superior
+Minion Damage Support,support,no,Divergent,Anomalous
+Minion Life Support,support,no,Superior,Anomalous
+Minion Life Support,support,no,Superior,Divergent
+Minion Life Support,support,no,Anomalous,Superior
+Minion Life Support,support,no,Anomalous,Divergent
+Minion Life Support,support,no,Divergent,Superior
+Minion Life Support,support,no,Divergent,Anomalous
+Minion Speed Support,support,no,Superior,Anomalous
+Minion Speed Support,support,no,Superior,Divergent
+Minion Speed Support,support,no,Anomalous,Superior
+Minion Speed Support,support,no,Anomalous,Divergent
+Minion Speed Support,support,no,Divergent,Superior
+Minion Speed Support,support,no,Divergent,Anomalous
+Mirage Archer Support,support,no,Superior,Anomalous
+Mirage Archer Support,support,no,Superior,Divergent
+Mirage Archer Support,support,no,Anomalous,Superior
+Mirage Archer Support,support,no,Anomalous,Divergent
+Mirage Archer Support,support,no,Divergent,Superior
+Mirage Archer Support,support,no,Divergent,Anomalous
+Mirror Arrow,skill,no,Superior,Anomalous
+Mirror Arrow,skill,no,Superior,Divergent
+Mirror Arrow,skill,no,Superior,Phantasmal
+Mirror Arrow,skill,no,Anomalous,Superior
+Mirror Arrow,skill,no,Anomalous,Divergent
+Mirror Arrow,skill,no,Anomalous,Phantasmal
+Mirror Arrow,skill,no,Divergent,Superior
+Mirror Arrow,skill,no,Divergent,Anomalous
+Mirror Arrow,skill,no,Divergent,Phantasmal
+Mirror Arrow,skill,no,Phantasmal,Superior
+Mirror Arrow,skill,no,Phantasmal,Anomalous
+Mirror Arrow,skill,no,Phantasmal,Divergent
+Molten Shell,skill,no,Superior,Anomalous
+Molten Shell,skill,no,Superior,Divergent
+Molten Shell,skill,no,Anomalous,Superior
+Molten Shell,skill,no,Anomalous,Divergent
+Molten Shell,skill,no,Divergent,Superior
+Molten Shell,skill,no,Divergent,Anomalous
+Molten Strike,skill,no,Superior,Anomalous
+Molten Strike,skill,no,Superior,Divergent
+Molten Strike,skill,no,Superior,Phantasmal
+Molten Strike,skill,no,Anomalous,Superior
+Molten Strike,skill,no,Anomalous,Divergent
+Molten Strike,skill,no,Anomalous,Phantasmal
+Molten Strike,skill,no,Divergent,Superior
+Molten Strike,skill,no,Divergent,Anomalous
+Molten Strike,skill,no,Divergent,Phantasmal
+Molten Strike,skill,no,Phantasmal,Superior
+Molten Strike,skill,no,Phantasmal,Anomalous
+Molten Strike,skill,no,Phantasmal,Divergent
+Momentum Support,support,no,Superior,Anomalous
+Momentum Support,support,no,Superior,Divergent
+Momentum Support,support,no,Anomalous,Superior
+Momentum Support,support,no,Anomalous,Divergent
+Momentum Support,support,no,Divergent,Superior
+Momentum Support,support,no,Divergent,Anomalous
+Multiple Totems Support,support,no,Superior,Anomalous
+Multiple Totems Support,support,no,Superior,Divergent
+Multiple Totems Support,support,no,Anomalous,Superior
+Multiple Totems Support,support,no,Anomalous,Divergent
+Multiple Totems Support,support,no,Divergent,Superior
+Multiple Totems Support,support,no,Divergent,Anomalous
+Multiple Traps Support,support,no,Superior,Anomalous
+Multiple Traps Support,support,no,Superior,Divergent
+Multiple Traps Support,support,no,Anomalous,Superior
+Multiple Traps Support,support,no,Anomalous,Divergent
+Multiple Traps Support,support,no,Divergent,Superior
+Multiple Traps Support,support,no,Divergent,Anomalous
+Multistrike Support,support,no,Superior,Anomalous
+Multistrike Support,support,no,Superior,Divergent
+Multistrike Support,support,no,Anomalous,Superior
+Multistrike Support,support,no,Anomalous,Divergent
+Multistrike Support,support,no,Divergent,Superior
+Multistrike Support,support,no,Divergent,Anomalous
+Nightblade Support,support,no,Superior,Anomalous
+Nightblade Support,support,no,Superior,Divergent
+Nightblade Support,support,no,Anomalous,Superior
+Nightblade Support,support,no,Anomalous,Divergent
+Nightblade Support,support,no,Divergent,Superior
+Nightblade Support,support,no,Divergent,Anomalous
+Orb of Storms,skill,no,Superior,Anomalous
+Orb of Storms,skill,no,Superior,Divergent
+Orb of Storms,skill,no,Anomalous,Superior
+Orb of Storms,skill,no,Anomalous,Divergent
+Orb of Storms,skill,no,Divergent,Superior
+Orb of Storms,skill,no,Divergent,Anomalous
+Overcharge Support,support,no,Superior,Anomalous
+Overcharge Support,support,no,Superior,Divergent
+Overcharge Support,support,no,Anomalous,Superior
+Overcharge Support,support,no,Anomalous,Divergent
+Overcharge Support,support,no,Divergent,Superior
+Overcharge Support,support,no,Divergent,Anomalous
+Penance Brand,skill,no,Superior,Anomalous
+Penance Brand,skill,no,Superior,Divergent
+Penance Brand,skill,no,Anomalous,Superior
+Penance Brand,skill,no,Anomalous,Divergent
+Penance Brand,skill,no,Divergent,Superior
+Penance Brand,skill,no,Divergent,Anomalous
+Perforate,skill,no,Superior,Anomalous
+Perforate,skill,no,Superior,Divergent
+Perforate,skill,no,Superior,Phantasmal
+Perforate,skill,no,Anomalous,Superior
+Perforate,skill,no,Anomalous,Divergent
+Perforate,skill,no,Anomalous,Phantasmal
+Perforate,skill,no,Divergent,Superior
+Perforate,skill,no,Divergent,Anomalous
+Perforate,skill,no,Divergent,Phantasmal
+Perforate,skill,no,Phantasmal,Superior
+Perforate,skill,no,Phantasmal,Anomalous
+Perforate,skill,no,Phantasmal,Divergent
+Pestilent Strike,skill,no,Superior,Anomalous
+Pestilent Strike,skill,no,Superior,Divergent
+Pestilent Strike,skill,no,Superior,Phantasmal
+Pestilent Strike,skill,no,Anomalous,Superior
+Pestilent Strike,skill,no,Anomalous,Divergent
+Pestilent Strike,skill,no,Anomalous,Phantasmal
+Pestilent Strike,skill,no,Divergent,Superior
+Pestilent Strike,skill,no,Divergent,Anomalous
+Pestilent Strike,skill,no,Divergent,Phantasmal
+Pestilent Strike,skill,no,Phantasmal,Superior
+Pestilent Strike,skill,no,Phantasmal,Anomalous
+Pestilent Strike,skill,no,Phantasmal,Divergent
+Petrified Blood,skill,no,Superior,Anomalous
+Petrified Blood,skill,no,Superior,Divergent
+Petrified Blood,skill,no,Anomalous,Superior
+Petrified Blood,skill,no,Anomalous,Divergent
+Petrified Blood,skill,no,Divergent,Superior
+Petrified Blood,skill,no,Divergent,Anomalous
+Phase Run,skill,no,Superior,Anomalous
+Phase Run,skill,no,Superior,Divergent
+Phase Run,skill,no,Anomalous,Superior
+Phase Run,skill,no,Anomalous,Divergent
+Phase Run,skill,no,Divergent,Superior
+Phase Run,skill,no,Divergent,Anomalous
+Physical to Lightning Support,support,no,Superior,Anomalous
+Physical to Lightning Support,support,no,Superior,Divergent
+Physical to Lightning Support,support,no,Anomalous,Superior
+Physical to Lightning Support,support,no,Anomalous,Divergent
+Physical to Lightning Support,support,no,Divergent,Superior
+Physical to Lightning Support,support,no,Divergent,Anomalous
+Pierce Support,support,no,Superior,Anomalous
+Pierce Support,support,no,Superior,Divergent
+Pierce Support,support,no,Anomalous,Superior
+Pierce Support,support,no,Anomalous,Divergent
+Pierce Support,support,no,Divergent,Superior
+Pierce Support,support,no,Divergent,Anomalous
+Pinpoint Support,support,no,Superior,Anomalous
+Pinpoint Support,support,no,Superior,Divergent
+Pinpoint Support,support,no,Anomalous,Superior
+Pinpoint Support,support,no,Anomalous,Divergent
+Pinpoint Support,support,no,Divergent,Superior
+Pinpoint Support,support,no,Divergent,Anomalous
+Plague Bearer,skill,no,Superior,Anomalous
+Plague Bearer,skill,no,Superior,Divergent
+Plague Bearer,skill,no,Anomalous,Superior
+Plague Bearer,skill,no,Anomalous,Divergent
+Plague Bearer,skill,no,Divergent,Superior
+Plague Bearer,skill,no,Divergent,Anomalous
+Poacher's Mark,skill,no,Superior,Anomalous
+Poacher's Mark,skill,no,Superior,Divergent
+Poacher's Mark,skill,no,Anomalous,Superior
+Poacher's Mark,skill,no,Anomalous,Divergent
+Poacher's Mark,skill,no,Divergent,Superior
+Poacher's Mark,skill,no,Divergent,Anomalous
+Point Blank Support,support,no,Superior,Anomalous
+Point Blank Support,support,no,Superior,Divergent
+Point Blank Support,support,no,Anomalous,Superior
+Point Blank Support,support,no,Anomalous,Divergent
+Point Blank Support,support,no,Divergent,Superior
+Point Blank Support,support,no,Divergent,Anomalous
+Poisonous Concoction,skill,no,Superior,Anomalous
+Poisonous Concoction,skill,no,Superior,Divergent
+Poisonous Concoction,skill,no,Anomalous,Superior
+Poisonous Concoction,skill,no,Anomalous,Divergent
+Poisonous Concoction,skill,no,Divergent,Superior
+Poisonous Concoction,skill,no,Divergent,Anomalous
+Power Charge On Critical Support,support,no,Superior,Anomalous
+Power Charge On Critical Support,support,no,Superior,Divergent
+Power Charge On Critical Support,support,no,Anomalous,Superior
+Power Charge On Critical Support,support,no,Anomalous,Divergent
+Power Charge On Critical Support,support,no,Divergent,Superior
+Power Charge On Critical Support,support,no,Divergent,Anomalous
+Power Siphon,skill,no,Superior,Anomalous
+Power Siphon,skill,no,Superior,Divergent
+Power Siphon,skill,no,Anomalous,Superior
+Power Siphon,skill,no,Anomalous,Divergent
+Power Siphon,skill,no,Divergent,Superior
+Power Siphon,skill,no,Divergent,Anomalous
+Precision,skill,no,Superior,Anomalous
+Precision,skill,no,Superior,Divergent
+Precision,skill,no,Anomalous,Superior
+Precision,skill,no,Anomalous,Divergent
+Precision,skill,no,Divergent,Superior
+Precision,skill,no,Divergent,Anomalous
+Predator Support,support,no,Superior,Divergent
+Predator Support,support,no,Superior,Anomalous
+Predator Support,support,no,Divergent,Superior
+Predator Support,support,no,Divergent,Anomalous
+Predator Support,support,no,Anomalous,Superior
+Predator Support,support,no,Anomalous,Divergent
+Pride,skill,no,Superior,Anomalous
+Pride,skill,no,Superior,Divergent
+Pride,skill,no,Anomalous,Superior
+Pride,skill,no,Anomalous,Divergent
+Pride,skill,no,Divergent,Superior
+Pride,skill,no,Divergent,Anomalous
+Prismatic Burst Support,support,no,Superior,Anomalous
+Prismatic Burst Support,support,no,Superior,Divergent
+Prismatic Burst Support,support,no,Superior,Phantasmal
+Prismatic Burst Support,support,no,Anomalous,Superior
+Prismatic Burst Support,support,no,Anomalous,Divergent
+Prismatic Burst Support,support,no,Anomalous,Phantasmal
+Prismatic Burst Support,support,no,Divergent,Superior
+Prismatic Burst Support,support,no,Divergent,Anomalous
+Prismatic Burst Support,support,no,Divergent,Phantasmal
+Prismatic Burst Support,support,no,Phantasmal,Superior
+Prismatic Burst Support,support,no,Phantasmal,Anomalous
+Prismatic Burst Support,support,no,Phantasmal,Divergent
+Protective Link,skill,no,Superior,Anomalous
+Protective Link,skill,no,Superior,Divergent
+Protective Link,skill,no,Anomalous,Superior
+Protective Link,skill,no,Anomalous,Divergent
+Protective Link,skill,no,Divergent,Superior
+Protective Link,skill,no,Divergent,Anomalous
+Pulverise Support,support,no,Superior,Anomalous
+Pulverise Support,support,no,Superior,Divergent
+Pulverise Support,support,no,Anomalous,Superior
+Pulverise Support,support,no,Anomalous,Divergent
+Pulverise Support,support,no,Divergent,Superior
+Pulverise Support,support,no,Divergent,Anomalous
+Puncture,skill,no,Superior,Anomalous
+Puncture,skill,no,Superior,Divergent
+Puncture,skill,no,Superior,Phantasmal
+Puncture,skill,no,Anomalous,Superior
+Puncture,skill,no,Anomalous,Divergent
+Puncture,skill,no,Anomalous,Phantasmal
+Puncture,skill,no,Divergent,Superior
+Puncture,skill,no,Divergent,Anomalous
+Puncture,skill,no,Divergent,Phantasmal
+Puncture,skill,no,Phantasmal,Superior
+Puncture,skill,no,Phantasmal,Anomalous
+Puncture,skill,no,Phantasmal,Divergent
+Punishment,skill,no,Superior,Anomalous
+Punishment,skill,no,Superior,Divergent
+Punishment,skill,no,Anomalous,Superior
+Punishment,skill,no,Anomalous,Divergent
+Punishment,skill,no,Divergent,Superior
+Punishment,skill,no,Divergent,Anomalous
+Purifying Flame,skill,no,Superior,Anomalous
+Purifying Flame,skill,no,Superior,Divergent
+Purifying Flame,skill,no,Superior,Phantasmal
+Purifying Flame,skill,no,Anomalous,Superior
+Purifying Flame,skill,no,Anomalous,Divergent
+Purifying Flame,skill,no,Anomalous,Phantasmal
+Purifying Flame,skill,no,Divergent,Superior
+Purifying Flame,skill,no,Divergent,Anomalous
+Purifying Flame,skill,no,Divergent,Phantasmal
+Purifying Flame,skill,no,Phantasmal,Superior
+Purifying Flame,skill,no,Phantasmal,Anomalous
+Purifying Flame,skill,no,Phantasmal,Divergent
+Purity of Elements,skill,no,Superior,Anomalous
+Purity of Elements,skill,no,Superior,Divergent
+Purity of Elements,skill,no,Anomalous,Superior
+Purity of Elements,skill,no,Anomalous,Divergent
+Purity of Elements,skill,no,Divergent,Superior
+Purity of Elements,skill,no,Divergent,Anomalous
+Purity of Fire,skill,no,Superior,Anomalous
+Purity of Fire,skill,no,Superior,Divergent
+Purity of Fire,skill,no,Anomalous,Superior
+Purity of Fire,skill,no,Anomalous,Divergent
+Purity of Fire,skill,no,Divergent,Superior
+Purity of Fire,skill,no,Divergent,Anomalous
+Purity of Ice,skill,no,Superior,Anomalous
+Purity of Ice,skill,no,Superior,Divergent
+Purity of Ice,skill,no,Anomalous,Superior
+Purity of Ice,skill,no,Anomalous,Divergent
+Purity of Ice,skill,no,Divergent,Superior
+Purity of Ice,skill,no,Divergent,Anomalous
+Purity of Lightning,skill,no,Superior,Anomalous
+Purity of Lightning,skill,no,Superior,Divergent
+Purity of Lightning,skill,no,Anomalous,Superior
+Purity of Lightning,skill,no,Anomalous,Divergent
+Purity of Lightning,skill,no,Divergent,Superior
+Purity of Lightning,skill,no,Divergent,Anomalous
+Pyroclast Mine,skill,no,Superior,Anomalous
+Pyroclast Mine,skill,no,Superior,Divergent
+Pyroclast Mine,skill,no,Superior,Phantasmal
+Pyroclast Mine,skill,no,Anomalous,Superior
+Pyroclast Mine,skill,no,Anomalous,Divergent
+Pyroclast Mine,skill,no,Anomalous,Phantasmal
+Pyroclast Mine,skill,no,Divergent,Superior
+Pyroclast Mine,skill,no,Divergent,Anomalous
+Pyroclast Mine,skill,no,Divergent,Phantasmal
+Pyroclast Mine,skill,no,Phantasmal,Superior
+Pyroclast Mine,skill,no,Phantasmal,Anomalous
+Pyroclast Mine,skill,no,Phantasmal,Divergent
+Rage Support,support,no,Superior,Anomalous
+Rage Support,support,no,Superior,Divergent
+Rage Support,support,no,Anomalous,Superior
+Rage Support,support,no,Anomalous,Divergent
+Rage Support,support,no,Divergent,Superior
+Rage Support,support,no,Divergent,Anomalous
+Rage Vortex,skill,no,Superior,Anomalous
+Rage Vortex,skill,no,Superior,Divergent
+Rage Vortex,skill,no,Anomalous,Superior
+Rage Vortex,skill,no,Anomalous,Divergent
+Rage Vortex,skill,no,Divergent,Superior
+Rage Vortex,skill,no,Divergent,Anomalous
+Rain of Arrows,skill,no,Superior,Anomalous
+Rain of Arrows,skill,no,Superior,Divergent
+Rain of Arrows,skill,no,Superior,Phantasmal
+Rain of Arrows,skill,no,Anomalous,Superior
+Rain of Arrows,skill,no,Anomalous,Divergent
+Rain of Arrows,skill,no,Anomalous,Phantasmal
+Rain of Arrows,skill,no,Divergent,Superior
+Rain of Arrows,skill,no,Divergent,Anomalous
+Rain of Arrows,skill,no,Divergent,Phantasmal
+Rain of Arrows,skill,no,Phantasmal,Superior
+Rain of Arrows,skill,no,Phantasmal,Anomalous
+Rain of Arrows,skill,no,Phantasmal,Divergent
+Raise Spectre,skill,no,Superior,Anomalous
+Raise Spectre,skill,no,Superior,Divergent
+Raise Spectre,skill,no,Superior,Phantasmal
+Raise Spectre,skill,no,Anomalous,Superior
+Raise Spectre,skill,no,Anomalous,Divergent
+Raise Spectre,skill,no,Anomalous,Phantasmal
+Raise Spectre,skill,no,Divergent,Superior
+Raise Spectre,skill,no,Divergent,Anomalous
+Raise Spectre,skill,no,Divergent,Phantasmal
+Raise Spectre,skill,no,Phantasmal,Superior
+Raise Spectre,skill,no,Phantasmal,Anomalous
+Raise Spectre,skill,no,Phantasmal,Divergent
+Raise Zombie,skill,no,Superior,Anomalous
+Raise Zombie,skill,no,Superior,Divergent
+Raise Zombie,skill,no,Superior,Phantasmal
+Raise Zombie,skill,no,Anomalous,Superior
+Raise Zombie,skill,no,Anomalous,Divergent
+Raise Zombie,skill,no,Anomalous,Phantasmal
+Raise Zombie,skill,no,Divergent,Superior
+Raise Zombie,skill,no,Divergent,Anomalous
+Raise Zombie,skill,no,Divergent,Phantasmal
+Raise Zombie,skill,no,Phantasmal,Superior
+Raise Zombie,skill,no,Phantasmal,Anomalous
+Raise Zombie,skill,no,Phantasmal,Divergent
+Rallying Cry,skill,no,Superior,Anomalous
+Rallying Cry,skill,no,Superior,Divergent
+Rallying Cry,skill,no,Superior,Phantasmal
+Rallying Cry,skill,no,Anomalous,Superior
+Rallying Cry,skill,no,Anomalous,Divergent
+Rallying Cry,skill,no,Anomalous,Phantasmal
+Rallying Cry,skill,no,Divergent,Superior
+Rallying Cry,skill,no,Divergent,Anomalous
+Rallying Cry,skill,no,Divergent,Phantasmal
+Rallying Cry,skill,no,Phantasmal,Superior
+Rallying Cry,skill,no,Phantasmal,Anomalous
+Rallying Cry,skill,no,Phantasmal,Divergent
+Reap,skill,no,Superior,Anomalous
+Reap,skill,no,Superior,Divergent
+Reap,skill,no,Anomalous,Superior
+Reap,skill,no,Anomalous,Divergent
+Reap,skill,no,Divergent,Superior
+Reap,skill,no,Divergent,Anomalous
+Reave,skill,no,Superior,Anomalous
+Reave,skill,no,Superior,Divergent
+Reave,skill,no,Superior,Phantasmal
+Reave,skill,no,Anomalous,Superior
+Reave,skill,no,Anomalous,Divergent
+Reave,skill,no,Anomalous,Phantasmal
+Reave,skill,no,Divergent,Superior
+Reave,skill,no,Divergent,Anomalous
+Reave,skill,no,Divergent,Phantasmal
+Reave,skill,no,Phantasmal,Superior
+Reave,skill,no,Phantasmal,Anomalous
+Reave,skill,no,Phantasmal,Divergent
+Reckoning,skill,no,Superior,Anomalous
+Reckoning,skill,no,Superior,Divergent
+Reckoning,skill,no,Superior,Phantasmal
+Reckoning,skill,no,Anomalous,Superior
+Reckoning,skill,no,Anomalous,Divergent
+Reckoning,skill,no,Anomalous,Phantasmal
+Reckoning,skill,no,Divergent,Superior
+Reckoning,skill,no,Divergent,Anomalous
+Reckoning,skill,no,Divergent,Phantasmal
+Reckoning,skill,no,Phantasmal,Superior
+Reckoning,skill,no,Phantasmal,Anomalous
+Reckoning,skill,no,Phantasmal,Divergent
+Rejuvenation Totem,skill,no,Superior,Anomalous
+Rejuvenation Totem,skill,no,Superior,Divergent
+Rejuvenation Totem,skill,no,Anomalous,Superior
+Rejuvenation Totem,skill,no,Anomalous,Divergent
+Rejuvenation Totem,skill,no,Divergent,Superior
+Rejuvenation Totem,skill,no,Divergent,Anomalous
+Righteous Fire,skill,no,Superior,Anomalous
+Righteous Fire,skill,no,Superior,Divergent
+Righteous Fire,skill,no,Anomalous,Superior
+Righteous Fire,skill,no,Anomalous,Divergent
+Righteous Fire,skill,no,Divergent,Superior
+Righteous Fire,skill,no,Divergent,Anomalous
+Riposte,skill,no,Superior,Anomalous
+Riposte,skill,no,Superior,Divergent
+Riposte,skill,no,Anomalous,Superior
+Riposte,skill,no,Anomalous,Divergent
+Riposte,skill,no,Divergent,Superior
+Riposte,skill,no,Divergent,Anomalous
+Rolling Magma,skill,no,Superior,Anomalous
+Rolling Magma,skill,no,Superior,Divergent
+Rolling Magma,skill,no,Superior,Phantasmal
+Rolling Magma,skill,no,Anomalous,Superior
+Rolling Magma,skill,no,Anomalous,Divergent
+Rolling Magma,skill,no,Anomalous,Phantasmal
+Rolling Magma,skill,no,Divergent,Superior
+Rolling Magma,skill,no,Divergent,Anomalous
+Rolling Magma,skill,no,Divergent,Phantasmal
+Rolling Magma,skill,no,Phantasmal,Superior
+Rolling Magma,skill,no,Phantasmal,Anomalous
+Rolling Magma,skill,no,Phantasmal,Divergent
+Ruthless Support,support,no,Superior,Anomalous
+Ruthless Support,support,no,Superior,Divergent
+Ruthless Support,support,no,Anomalous,Superior
+Ruthless Support,support,no,Anomalous,Divergent
+Ruthless Support,support,no,Divergent,Superior
+Ruthless Support,support,no,Divergent,Anomalous
+Scorching Ray,skill,no,Superior,Anomalous
+Scorching Ray,skill,no,Superior,Divergent
+Scorching Ray,skill,no,Anomalous,Superior
+Scorching Ray,skill,no,Anomalous,Divergent
+Scorching Ray,skill,no,Divergent,Superior
+Scorching Ray,skill,no,Divergent,Anomalous
+Scourge Arrow,skill,no,Superior,Anomalous
+Scourge Arrow,skill,no,Superior,Divergent
+Scourge Arrow,skill,no,Superior,Phantasmal
+Scourge Arrow,skill,no,Anomalous,Superior
+Scourge Arrow,skill,no,Anomalous,Divergent
+Scourge Arrow,skill,no,Anomalous,Phantasmal
+Scourge Arrow,skill,no,Divergent,Superior
+Scourge Arrow,skill,no,Divergent,Anomalous
+Scourge Arrow,skill,no,Divergent,Phantasmal
+Scourge Arrow,skill,no,Phantasmal,Superior
+Scourge Arrow,skill,no,Phantasmal,Anomalous
+Scourge Arrow,skill,no,Phantasmal,Divergent
+Searing Bond,skill,no,Superior,Anomalous
+Searing Bond,skill,no,Superior,Divergent
+Searing Bond,skill,no,Superior,Phantasmal
+Searing Bond,skill,no,Anomalous,Superior
+Searing Bond,skill,no,Anomalous,Divergent
+Searing Bond,skill,no,Anomalous,Phantasmal
+Searing Bond,skill,no,Divergent,Superior
+Searing Bond,skill,no,Divergent,Anomalous
+Searing Bond,skill,no,Divergent,Phantasmal
+Searing Bond,skill,no,Phantasmal,Superior
+Searing Bond,skill,no,Phantasmal,Anomalous
+Searing Bond,skill,no,Phantasmal,Divergent
+Second Wind Support,support,no,Superior,Anomalous
+Second Wind Support,support,no,Superior,Divergent
+Second Wind Support,support,no,Anomalous,Superior
+Second Wind Support,support,no,Anomalous,Divergent
+Second Wind Support,support,no,Divergent,Superior
+Second Wind Support,support,no,Divergent,Anomalous
+Seismic Cry,skill,no,Superior,Anomalous
+Seismic Cry,skill,no,Superior,Divergent
+Seismic Cry,skill,no,Superior,Phantasmal
+Seismic Cry,skill,no,Anomalous,Superior
+Seismic Cry,skill,no,Anomalous,Divergent
+Seismic Cry,skill,no,Anomalous,Phantasmal
+Seismic Cry,skill,no,Divergent,Superior
+Seismic Cry,skill,no,Divergent,Anomalous
+Seismic Cry,skill,no,Divergent,Phantasmal
+Seismic Cry,skill,no,Phantasmal,Superior
+Seismic Cry,skill,no,Phantasmal,Anomalous
+Seismic Cry,skill,no,Phantasmal,Divergent
+Seismic Trap,skill,no,Superior,Anomalous
+Seismic Trap,skill,no,Superior,Divergent
+Seismic Trap,skill,no,Superior,Phantasmal
+Seismic Trap,skill,no,Anomalous,Superior
+Seismic Trap,skill,no,Anomalous,Divergent
+Seismic Trap,skill,no,Anomalous,Phantasmal
+Seismic Trap,skill,no,Divergent,Superior
+Seismic Trap,skill,no,Divergent,Anomalous
+Seismic Trap,skill,no,Divergent,Phantasmal
+Seismic Trap,skill,no,Phantasmal,Superior
+Seismic Trap,skill,no,Phantasmal,Anomalous
+Seismic Trap,skill,no,Phantasmal,Divergent
+Shattering Steel,skill,no,Superior,Anomalous
+Shattering Steel,skill,no,Superior,Divergent
+Shattering Steel,skill,no,Superior,Phantasmal
+Shattering Steel,skill,no,Anomalous,Superior
+Shattering Steel,skill,no,Anomalous,Divergent
+Shattering Steel,skill,no,Anomalous,Phantasmal
+Shattering Steel,skill,no,Divergent,Superior
+Shattering Steel,skill,no,Divergent,Anomalous
+Shattering Steel,skill,no,Divergent,Phantasmal
+Shattering Steel,skill,no,Phantasmal,Superior
+Shattering Steel,skill,no,Phantasmal,Anomalous
+Shattering Steel,skill,no,Phantasmal,Divergent
+Shield Charge,skill,no,Superior,Anomalous
+Shield Charge,skill,no,Superior,Divergent
+Shield Charge,skill,no,Anomalous,Superior
+Shield Charge,skill,no,Anomalous,Divergent
+Shield Charge,skill,no,Divergent,Superior
+Shield Charge,skill,no,Divergent,Anomalous
+Shield Crush,skill,no,Superior,Anomalous
+Shield Crush,skill,no,Superior,Divergent
+Shield Crush,skill,no,Anomalous,Superior
+Shield Crush,skill,no,Anomalous,Divergent
+Shield Crush,skill,no,Divergent,Superior
+Shield Crush,skill,no,Divergent,Anomalous
+Shock Nova,skill,no,Superior,Anomalous
+Shock Nova,skill,no,Superior,Divergent
+Shock Nova,skill,no,Anomalous,Superior
+Shock Nova,skill,no,Anomalous,Divergent
+Shock Nova,skill,no,Divergent,Superior
+Shock Nova,skill,no,Divergent,Anomalous
+Shockwave Support,support,no,Superior,Anomalous
+Shockwave Support,support,no,Superior,Divergent
+Shockwave Support,support,no,Anomalous,Superior
+Shockwave Support,support,no,Anomalous,Divergent
+Shockwave Support,support,no,Divergent,Superior
+Shockwave Support,support,no,Divergent,Anomalous
+Shockwave Totem,skill,no,Superior,Anomalous
+Shockwave Totem,skill,no,Superior,Divergent
+Shockwave Totem,skill,no,Superior,Phantasmal
+Shockwave Totem,skill,no,Anomalous,Superior
+Shockwave Totem,skill,no,Anomalous,Divergent
+Shockwave Totem,skill,no,Anomalous,Phantasmal
+Shockwave Totem,skill,no,Divergent,Superior
+Shockwave Totem,skill,no,Divergent,Anomalous
+Shockwave Totem,skill,no,Divergent,Phantasmal
+Shockwave Totem,skill,no,Phantasmal,Superior
+Shockwave Totem,skill,no,Phantasmal,Anomalous
+Shockwave Totem,skill,no,Phantasmal,Divergent
+Shrapnel Ballista,skill,no,Superior,Anomalous
+Shrapnel Ballista,skill,no,Superior,Divergent
+Shrapnel Ballista,skill,no,Superior,Phantasmal
+Shrapnel Ballista,skill,no,Anomalous,Superior
+Shrapnel Ballista,skill,no,Anomalous,Divergent
+Shrapnel Ballista,skill,no,Anomalous,Phantasmal
+Shrapnel Ballista,skill,no,Divergent,Superior
+Shrapnel Ballista,skill,no,Divergent,Anomalous
+Shrapnel Ballista,skill,no,Divergent,Phantasmal
+Shrapnel Ballista,skill,no,Phantasmal,Superior
+Shrapnel Ballista,skill,no,Phantasmal,Anomalous
+Shrapnel Ballista,skill,no,Phantasmal,Divergent
+Siege Ballista,skill,no,Superior,Anomalous
+Siege Ballista,skill,no,Superior,Divergent
+Siege Ballista,skill,no,Superior,Phantasmal
+Siege Ballista,skill,no,Anomalous,Superior
+Siege Ballista,skill,no,Anomalous,Divergent
+Siege Ballista,skill,no,Anomalous,Phantasmal
+Siege Ballista,skill,no,Divergent,Superior
+Siege Ballista,skill,no,Divergent,Anomalous
+Siege Ballista,skill,no,Divergent,Phantasmal
+Siege Ballista,skill,no,Phantasmal,Superior
+Siege Ballista,skill,no,Phantasmal,Anomalous
+Siege Ballista,skill,no,Phantasmal,Divergent
+Sigil of Power,skill,no,Superior,Anomalous
+Sigil of Power,skill,no,Superior,Divergent
+Sigil of Power,skill,no,Superior,Phantasmal
+Sigil of Power,skill,no,Anomalous,Superior
+Sigil of Power,skill,no,Anomalous,Divergent
+Sigil of Power,skill,no,Anomalous,Phantasmal
+Sigil of Power,skill,no,Divergent,Superior
+Sigil of Power,skill,no,Divergent,Anomalous
+Sigil of Power,skill,no,Divergent,Phantasmal
+Sigil of Power,skill,no,Phantasmal,Superior
+Sigil of Power,skill,no,Phantasmal,Anomalous
+Sigil of Power,skill,no,Phantasmal,Divergent
+Siphoning Trap,skill,no,Superior,Anomalous
+Siphoning Trap,skill,no,Superior,Divergent
+Siphoning Trap,skill,no,Superior,Phantasmal
+Siphoning Trap,skill,no,Anomalous,Superior
+Siphoning Trap,skill,no,Anomalous,Divergent
+Siphoning Trap,skill,no,Anomalous,Phantasmal
+Siphoning Trap,skill,no,Divergent,Superior
+Siphoning Trap,skill,no,Divergent,Anomalous
+Siphoning Trap,skill,no,Divergent,Phantasmal
+Siphoning Trap,skill,no,Phantasmal,Superior
+Siphoning Trap,skill,no,Phantasmal,Anomalous
+Siphoning Trap,skill,no,Phantasmal,Divergent
+Slower Projectiles Support,support,no,Superior,Anomalous
+Slower Projectiles Support,support,no,Superior,Divergent
+Slower Projectiles Support,support,no,Anomalous,Superior
+Slower Projectiles Support,support,no,Anomalous,Divergent
+Slower Projectiles Support,support,no,Divergent,Superior
+Slower Projectiles Support,support,no,Divergent,Anomalous
+Smite,skill,no,Superior,Anomalous
+Smite,skill,no,Superior,Divergent
+Smite,skill,no,Superior,Phantasmal
+Smite,skill,no,Anomalous,Superior
+Smite,skill,no,Anomalous,Divergent
+Smite,skill,no,Anomalous,Phantasmal
+Smite,skill,no,Divergent,Superior
+Smite,skill,no,Divergent,Anomalous
+Smite,skill,no,Divergent,Phantasmal
+Smite,skill,no,Phantasmal,Superior
+Smite,skill,no,Phantasmal,Anomalous
+Smite,skill,no,Phantasmal,Divergent
+Smoke Mine,skill,no,Superior,Anomalous
+Smoke Mine,skill,no,Superior,Divergent
+Smoke Mine,skill,no,Anomalous,Superior
+Smoke Mine,skill,no,Anomalous,Divergent
+Smoke Mine,skill,no,Divergent,Superior
+Smoke Mine,skill,no,Divergent,Anomalous
+Snipe,skill,no,Superior,Anomalous
+Snipe,skill,no,Superior,Divergent
+Snipe,skill,no,Anomalous,Superior
+Snipe,skill,no,Anomalous,Divergent
+Snipe,skill,no,Divergent,Superior
+Snipe,skill,no,Divergent,Anomalous
+Sniper's Mark,skill,no,Superior,Anomalous
+Sniper's Mark,skill,no,Superior,Divergent
+Sniper's Mark,skill,no,Anomalous,Superior
+Sniper's Mark,skill,no,Anomalous,Divergent
+Sniper's Mark,skill,no,Divergent,Superior
+Sniper's Mark,skill,no,Divergent,Anomalous
+Soul Link,skill,no,Superior,Anomalous
+Soul Link,skill,no,Superior,Divergent
+Soul Link,skill,no,Anomalous,Superior
+Soul Link,skill,no,Anomalous,Divergent
+Soul Link,skill,no,Divergent,Superior
+Soul Link,skill,no,Divergent,Anomalous
+Soulrend,skill,no,Superior,Anomalous
+Soulrend,skill,no,Superior,Divergent
+Soulrend,skill,no,Superior,Phantasmal
+Soulrend,skill,no,Anomalous,Superior
+Soulrend,skill,no,Anomalous,Divergent
+Soulrend,skill,no,Anomalous,Phantasmal
+Soulrend,skill,no,Divergent,Superior
+Soulrend,skill,no,Divergent,Anomalous
+Soulrend,skill,no,Divergent,Phantasmal
+Soulrend,skill,no,Phantasmal,Superior
+Soulrend,skill,no,Phantasmal,Anomalous
+Soulrend,skill,no,Phantasmal,Divergent
+Spark,skill,no,Superior,Anomalous
+Spark,skill,no,Superior,Divergent
+Spark,skill,no,Superior,Phantasmal
+Spark,skill,no,Anomalous,Superior
+Spark,skill,no,Anomalous,Divergent
+Spark,skill,no,Anomalous,Phantasmal
+Spark,skill,no,Divergent,Superior
+Spark,skill,no,Divergent,Anomalous
+Spark,skill,no,Divergent,Phantasmal
+Spark,skill,no,Phantasmal,Superior
+Spark,skill,no,Phantasmal,Anomalous
+Spark,skill,no,Phantasmal,Divergent
+Spectral Helix,skill,no,Superior,Anomalous
+Spectral Helix,skill,no,Superior,Divergent
+Spectral Helix,skill,no,Anomalous,Superior
+Spectral Helix,skill,no,Anomalous,Divergent
+Spectral Helix,skill,no,Divergent,Superior
+Spectral Helix,skill,no,Divergent,Anomalous
+Spectral Shield Throw,skill,no,Superior,Anomalous
+Spectral Shield Throw,skill,no,Superior,Divergent
+Spectral Shield Throw,skill,no,Superior,Phantasmal
+Spectral Shield Throw,skill,no,Anomalous,Superior
+Spectral Shield Throw,skill,no,Anomalous,Divergent
+Spectral Shield Throw,skill,no,Anomalous,Phantasmal
+Spectral Shield Throw,skill,no,Divergent,Superior
+Spectral Shield Throw,skill,no,Divergent,Anomalous
+Spectral Shield Throw,skill,no,Divergent,Phantasmal
+Spectral Shield Throw,skill,no,Phantasmal,Superior
+Spectral Shield Throw,skill,no,Phantasmal,Anomalous
+Spectral Shield Throw,skill,no,Phantasmal,Divergent
+Spectral Throw,skill,no,Superior,Anomalous
+Spectral Throw,skill,no,Superior,Divergent
+Spectral Throw,skill,no,Anomalous,Superior
+Spectral Throw,skill,no,Anomalous,Divergent
+Spectral Throw,skill,no,Divergent,Superior
+Spectral Throw,skill,no,Divergent,Anomalous
+Spell Cascade Support,support,no,Superior,Anomalous
+Spell Cascade Support,support,no,Superior,Divergent
+Spell Cascade Support,support,no,Anomalous,Superior
+Spell Cascade Support,support,no,Anomalous,Divergent
+Spell Cascade Support,support,no,Divergent,Superior
+Spell Cascade Support,support,no,Divergent,Anomalous
+Spell Echo Support,support,no,Superior,Anomalous
+Spell Echo Support,support,no,Superior,Divergent
+Spell Echo Support,support,no,Anomalous,Superior
+Spell Echo Support,support,no,Anomalous,Divergent
+Spell Echo Support,support,no,Divergent,Superior
+Spell Echo Support,support,no,Divergent,Anomalous
+Spell Totem Support,support,no,Superior,Anomalous
+Spell Totem Support,support,no,Superior,Divergent
+Spell Totem Support,support,no,Anomalous,Superior
+Spell Totem Support,support,no,Anomalous,Divergent
+Spell Totem Support,support,no,Divergent,Superior
+Spell Totem Support,support,no,Divergent,Anomalous
+Spellslinger,skill,no,Superior,Anomalous
+Spellslinger,skill,no,Superior,Divergent
+Spellslinger,skill,no,Anomalous,Superior
+Spellslinger,skill,no,Anomalous,Divergent
+Spellslinger,skill,no,Divergent,Superior
+Spellslinger,skill,no,Divergent,Anomalous
+Spirit Offering,skill,no,Superior,Anomalous
+Spirit Offering,skill,no,Superior,Divergent
+Spirit Offering,skill,no,Anomalous,Superior
+Spirit Offering,skill,no,Anomalous,Divergent
+Spirit Offering,skill,no,Divergent,Superior
+Spirit Offering,skill,no,Divergent,Anomalous
+Split Arrow,skill,no,Superior,Anomalous
+Split Arrow,skill,no,Superior,Divergent
+Split Arrow,skill,no,Anomalous,Superior
+Split Arrow,skill,no,Anomalous,Divergent
+Split Arrow,skill,no,Divergent,Superior
+Split Arrow,skill,no,Divergent,Anomalous
+Splitting Steel,skill,no,Superior,Anomalous
+Splitting Steel,skill,no,Superior,Divergent
+Splitting Steel,skill,no,Superior,Phantasmal
+Splitting Steel,skill,no,Anomalous,Superior
+Splitting Steel,skill,no,Anomalous,Divergent
+Splitting Steel,skill,no,Anomalous,Phantasmal
+Splitting Steel,skill,no,Divergent,Superior
+Splitting Steel,skill,no,Divergent,Anomalous
+Splitting Steel,skill,no,Divergent,Phantasmal
+Splitting Steel,skill,no,Phantasmal,Superior
+Splitting Steel,skill,no,Phantasmal,Anomalous
+Splitting Steel,skill,no,Phantasmal,Divergent
+Static Strike,skill,no,Superior,Anomalous
+Static Strike,skill,no,Superior,Divergent
+Static Strike,skill,no,Superior,Phantasmal
+Static Strike,skill,no,Anomalous,Superior
+Static Strike,skill,no,Anomalous,Divergent
+Static Strike,skill,no,Anomalous,Phantasmal
+Static Strike,skill,no,Divergent,Superior
+Static Strike,skill,no,Divergent,Anomalous
+Static Strike,skill,no,Divergent,Phantasmal
+Static Strike,skill,no,Phantasmal,Superior
+Static Strike,skill,no,Phantasmal,Anomalous
+Static Strike,skill,no,Phantasmal,Divergent
+Steelskin,skill,no,Superior,Anomalous
+Steelskin,skill,no,Superior,Divergent
+Steelskin,skill,no,Anomalous,Superior
+Steelskin,skill,no,Anomalous,Divergent
+Steelskin,skill,no,Divergent,Superior
+Steelskin,skill,no,Divergent,Anomalous
+Storm Brand,skill,no,Superior,Anomalous
+Storm Brand,skill,no,Superior,Divergent
+Storm Brand,skill,no,Superior,Phantasmal
+Storm Brand,skill,no,Anomalous,Superior
+Storm Brand,skill,no,Anomalous,Divergent
+Storm Brand,skill,no,Anomalous,Phantasmal
+Storm Brand,skill,no,Divergent,Superior
+Storm Brand,skill,no,Divergent,Anomalous
+Storm Brand,skill,no,Divergent,Phantasmal
+Storm Brand,skill,no,Phantasmal,Superior
+Storm Brand,skill,no,Phantasmal,Anomalous
+Storm Brand,skill,no,Phantasmal,Divergent
+Storm Burst,skill,no,Superior,Anomalous
+Storm Burst,skill,no,Superior,Divergent
+Storm Burst,skill,no,Anomalous,Superior
+Storm Burst,skill,no,Anomalous,Divergent
+Storm Burst,skill,no,Divergent,Superior
+Storm Burst,skill,no,Divergent,Anomalous
+Storm Call,skill,no,Superior,Anomalous
+Storm Call,skill,no,Superior,Divergent
+Storm Call,skill,no,Superior,Phantasmal
+Storm Call,skill,no,Anomalous,Superior
+Storm Call,skill,no,Anomalous,Divergent
+Storm Call,skill,no,Anomalous,Phantasmal
+Storm Call,skill,no,Divergent,Superior
+Storm Call,skill,no,Divergent,Anomalous
+Storm Call,skill,no,Divergent,Phantasmal
+Storm Call,skill,no,Phantasmal,Superior
+Storm Call,skill,no,Phantasmal,Anomalous
+Storm Call,skill,no,Phantasmal,Divergent
+Storm Rain,skill,no,Superior,Anomalous
+Storm Rain,skill,no,Superior,Divergent
+Storm Rain,skill,no,Anomalous,Superior
+Storm Rain,skill,no,Anomalous,Divergent
+Storm Rain,skill,no,Divergent,Superior
+Storm Rain,skill,no,Divergent,Anomalous
+Stormbind,skill,no,Superior,Anomalous
+Stormbind,skill,no,Superior,Divergent
+Stormbind,skill,no,Superior,Phantasmal
+Stormbind,skill,no,Anomalous,Superior
+Stormbind,skill,no,Anomalous,Divergent
+Stormbind,skill,no,Anomalous,Phantasmal
+Stormbind,skill,no,Divergent,Superior
+Stormbind,skill,no,Divergent,Anomalous
+Stormbind,skill,no,Divergent,Phantasmal
+Stormbind,skill,no,Phantasmal,Superior
+Stormbind,skill,no,Phantasmal,Anomalous
+Stormbind,skill,no,Phantasmal,Divergent
+Stormblast Mine,skill,no,Superior,Anomalous
+Stormblast Mine,skill,no,Superior,Divergent
+Stormblast Mine,skill,no,Superior,Phantasmal
+Stormblast Mine,skill,no,Anomalous,Superior
+Stormblast Mine,skill,no,Anomalous,Divergent
+Stormblast Mine,skill,no,Anomalous,Phantasmal
+Stormblast Mine,skill,no,Divergent,Superior
+Stormblast Mine,skill,no,Divergent,Anomalous
+Stormblast Mine,skill,no,Divergent,Phantasmal
+Stormblast Mine,skill,no,Phantasmal,Superior
+Stormblast Mine,skill,no,Phantasmal,Anomalous
+Stormblast Mine,skill,no,Phantasmal,Divergent
+Stun Support,support,no,Superior,Anomalous
+Stun Support,support,no,Superior,Divergent
+Stun Support,support,no,Anomalous,Superior
+Stun Support,support,no,Anomalous,Divergent
+Stun Support,support,no,Divergent,Superior
+Stun Support,support,no,Divergent,Anomalous
+Summon Carrion Golem,skill,no,Superior,Anomalous
+Summon Carrion Golem,skill,no,Superior,Divergent
+Summon Carrion Golem,skill,no,Anomalous,Superior
+Summon Carrion Golem,skill,no,Anomalous,Divergent
+Summon Carrion Golem,skill,no,Divergent,Superior
+Summon Carrion Golem,skill,no,Divergent,Anomalous
+Summon Chaos Golem,skill,no,Superior,Anomalous
+Summon Chaos Golem,skill,no,Superior,Divergent
+Summon Chaos Golem,skill,no,Anomalous,Superior
+Summon Chaos Golem,skill,no,Anomalous,Divergent
+Summon Chaos Golem,skill,no,Divergent,Superior
+Summon Chaos Golem,skill,no,Divergent,Anomalous
+Summon Flame Golem,skill,no,Superior,Anomalous
+Summon Flame Golem,skill,no,Superior,Divergent
+Summon Flame Golem,skill,no,Anomalous,Superior
+Summon Flame Golem,skill,no,Anomalous,Divergent
+Summon Flame Golem,skill,no,Divergent,Superior
+Summon Flame Golem,skill,no,Divergent,Anomalous
+Summon Holy Relic,skill,no,Superior,Anomalous
+Summon Holy Relic,skill,no,Superior,Divergent
+Summon Holy Relic,skill,no,Anomalous,Superior
+Summon Holy Relic,skill,no,Anomalous,Divergent
+Summon Holy Relic,skill,no,Divergent,Superior
+Summon Holy Relic,skill,no,Divergent,Anomalous
+Summon Ice Golem,skill,no,Superior,Anomalous
+Summon Ice Golem,skill,no,Superior,Divergent
+Summon Ice Golem,skill,no,Anomalous,Superior
+Summon Ice Golem,skill,no,Anomalous,Divergent
+Summon Ice Golem,skill,no,Divergent,Superior
+Summon Ice Golem,skill,no,Divergent,Anomalous
+Summon Lightning Golem,skill,no,Superior,Anomalous
+Summon Lightning Golem,skill,no,Superior,Divergent
+Summon Lightning Golem,skill,no,Anomalous,Superior
+Summon Lightning Golem,skill,no,Anomalous,Divergent
+Summon Lightning Golem,skill,no,Divergent,Superior
+Summon Lightning Golem,skill,no,Divergent,Anomalous
+Summon Phantasm Support,support,no,Superior,Anomalous
+Summon Phantasm Support,support,no,Superior,Divergent
+Summon Phantasm Support,support,no,Anomalous,Superior
+Summon Phantasm Support,support,no,Anomalous,Divergent
+Summon Phantasm Support,support,no,Divergent,Superior
+Summon Phantasm Support,support,no,Divergent,Anomalous
+Summon Raging Spirit,skill,no,Superior,Anomalous
+Summon Raging Spirit,skill,no,Superior,Divergent
+Summon Raging Spirit,skill,no,Superior,Phantasmal
+Summon Raging Spirit,skill,no,Anomalous,Superior
+Summon Raging Spirit,skill,no,Anomalous,Divergent
+Summon Raging Spirit,skill,no,Anomalous,Phantasmal
+Summon Raging Spirit,skill,no,Divergent,Superior
+Summon Raging Spirit,skill,no,Divergent,Anomalous
+Summon Raging Spirit,skill,no,Divergent,Phantasmal
+Summon Raging Spirit,skill,no,Phantasmal,Superior
+Summon Raging Spirit,skill,no,Phantasmal,Anomalous
+Summon Raging Spirit,skill,no,Phantasmal,Divergent
+Summon Reaper,skill,no,Superior,Anomalous
+Summon Reaper,skill,no,Superior,Divergent
+Summon Reaper,skill,no,Anomalous,Superior
+Summon Reaper,skill,no,Anomalous,Divergent
+Summon Reaper,skill,no,Divergent,Superior
+Summon Reaper,skill,no,Divergent,Anomalous
+Summon Skeletons,skill,no,Superior,Anomalous
+Summon Skeletons,skill,no,Superior,Divergent
+Summon Skeletons,skill,no,Superior,Phantasmal
+Summon Skeletons,skill,no,Anomalous,Superior
+Summon Skeletons,skill,no,Anomalous,Divergent
+Summon Skeletons,skill,no,Anomalous,Phantasmal
+Summon Skeletons,skill,no,Divergent,Superior
+Summon Skeletons,skill,no,Divergent,Anomalous
+Summon Skeletons,skill,no,Divergent,Phantasmal
+Summon Skeletons,skill,no,Phantasmal,Superior
+Summon Skeletons,skill,no,Phantasmal,Anomalous
+Summon Skeletons,skill,no,Phantasmal,Divergent
+Summon Skitterbots,skill,no,Superior,Anomalous
+Summon Skitterbots,skill,no,Superior,Divergent
+Summon Skitterbots,skill,no,Anomalous,Superior
+Summon Skitterbots,skill,no,Anomalous,Divergent
+Summon Skitterbots,skill,no,Divergent,Superior
+Summon Skitterbots,skill,no,Divergent,Anomalous
+Summon Stone Golem,skill,no,Superior,Anomalous
+Summon Stone Golem,skill,no,Superior,Divergent
+Summon Stone Golem,skill,no,Anomalous,Superior
+Summon Stone Golem,skill,no,Anomalous,Divergent
+Summon Stone Golem,skill,no,Divergent,Superior
+Summon Stone Golem,skill,no,Divergent,Anomalous
+Sunder,skill,no,Superior,Anomalous
+Sunder,skill,no,Superior,Divergent
+Sunder,skill,no,Superior,Phantasmal
+Sunder,skill,no,Anomalous,Superior
+Sunder,skill,no,Anomalous,Divergent
+Sunder,skill,no,Anomalous,Phantasmal
+Sunder,skill,no,Divergent,Superior
+Sunder,skill,no,Divergent,Anomalous
+Sunder,skill,no,Divergent,Phantasmal
+Sunder,skill,no,Phantasmal,Superior
+Sunder,skill,no,Phantasmal,Anomalous
+Sunder,skill,no,Phantasmal,Divergent
+Sweep,skill,no,Superior,Anomalous
+Sweep,skill,no,Superior,Divergent
+Sweep,skill,no,Superior,Phantasmal
+Sweep,skill,no,Anomalous,Superior
+Sweep,skill,no,Anomalous,Divergent
+Sweep,skill,no,Anomalous,Phantasmal
+Sweep,skill,no,Divergent,Superior
+Sweep,skill,no,Divergent,Anomalous
+Sweep,skill,no,Divergent,Phantasmal
+Sweep,skill,no,Phantasmal,Superior
+Sweep,skill,no,Phantasmal,Anomalous
+Sweep,skill,no,Phantasmal,Divergent
+Swift Affliction Support,support,no,Superior,Anomalous
+Swift Affliction Support,support,no,Superior,Divergent
+Swift Affliction Support,support,no,Anomalous,Superior
+Swift Affliction Support,support,no,Anomalous,Divergent
+Swift Affliction Support,support,no,Divergent,Superior
+Swift Affliction Support,support,no,Divergent,Anomalous
+Swift Assembly Support,support,no,Superior,Anomalous
+Swift Assembly Support,support,no,Superior,Divergent
+Swift Assembly Support,support,no,Anomalous,Superior
+Swift Assembly Support,support,no,Anomalous,Divergent
+Swift Assembly Support,support,no,Divergent,Superior
+Swift Assembly Support,support,no,Divergent,Anomalous
+Swiftbrand Support,support,no,Superior,Anomalous
+Swiftbrand Support,support,no,Superior,Divergent
+Swiftbrand Support,support,no,Anomalous,Superior
+Swiftbrand Support,support,no,Anomalous,Divergent
+Swiftbrand Support,support,no,Divergent,Superior
+Swiftbrand Support,support,no,Divergent,Anomalous
+Tectonic Slam,skill,no,Superior,Anomalous
+Tectonic Slam,skill,no,Superior,Divergent
+Tectonic Slam,skill,no,Superior,Phantasmal
+Tectonic Slam,skill,no,Anomalous,Superior
+Tectonic Slam,skill,no,Anomalous,Divergent
+Tectonic Slam,skill,no,Anomalous,Phantasmal
+Tectonic Slam,skill,no,Divergent,Superior
+Tectonic Slam,skill,no,Divergent,Anomalous
+Tectonic Slam,skill,no,Divergent,Phantasmal
+Tectonic Slam,skill,no,Phantasmal,Superior
+Tectonic Slam,skill,no,Phantasmal,Anomalous
+Tectonic Slam,skill,no,Phantasmal,Divergent
+Tempest Shield,skill,no,Superior,Anomalous
+Tempest Shield,skill,no,Superior,Divergent
+Tempest Shield,skill,no,Anomalous,Superior
+Tempest Shield,skill,no,Anomalous,Divergent
+Tempest Shield,skill,no,Divergent,Superior
+Tempest Shield,skill,no,Divergent,Anomalous
+Temporal Chains,skill,no,Superior,Anomalous
+Temporal Chains,skill,no,Superior,Divergent
+Temporal Chains,skill,no,Anomalous,Superior
+Temporal Chains,skill,no,Anomalous,Divergent
+Temporal Chains,skill,no,Divergent,Superior
+Temporal Chains,skill,no,Divergent,Anomalous
+Temporal Rift,skill,no,Superior,Anomalous
+Temporal Rift,skill,no,Superior,Divergent
+Temporal Rift,skill,no,Anomalous,Superior
+Temporal Rift,skill,no,Anomalous,Divergent
+Temporal Rift,skill,no,Divergent,Superior
+Temporal Rift,skill,no,Divergent,Anomalous
+Tornado,skill,no,Superior,Anomalous
+Tornado,skill,no,Superior,Divergent
+Tornado,skill,no,Anomalous,Superior
+Tornado,skill,no,Anomalous,Divergent
+Tornado,skill,no,Divergent,Superior
+Tornado,skill,no,Divergent,Anomalous
+Tornado Shot,skill,no,Superior,Anomalous
+Tornado Shot,skill,no,Superior,Divergent
+Tornado Shot,skill,no,Anomalous,Superior
+Tornado Shot,skill,no,Anomalous,Divergent
+Tornado Shot,skill,no,Divergent,Superior
+Tornado Shot,skill,no,Divergent,Anomalous
+Toxic Rain,skill,no,Superior,Anomalous
+Toxic Rain,skill,no,Superior,Divergent
+Toxic Rain,skill,no,Superior,Phantasmal
+Toxic Rain,skill,no,Anomalous,Superior
+Toxic Rain,skill,no,Anomalous,Divergent
+Toxic Rain,skill,no,Anomalous,Phantasmal
+Toxic Rain,skill,no,Divergent,Superior
+Toxic Rain,skill,no,Divergent,Anomalous
+Toxic Rain,skill,no,Divergent,Phantasmal
+Toxic Rain,skill,no,Phantasmal,Superior
+Toxic Rain,skill,no,Phantasmal,Anomalous
+Toxic Rain,skill,no,Phantasmal,Divergent
+Trap Support,support,no,Superior,Anomalous
+Trap Support,support,no,Superior,Divergent
+Trap Support,support,no,Anomalous,Superior
+Trap Support,support,no,Anomalous,Divergent
+Trap Support,support,no,Divergent,Superior
+Trap Support,support,no,Divergent,Anomalous
+Trap and Mine Damage Support,support,no,Superior,Anomalous
+Trap and Mine Damage Support,support,no,Superior,Divergent
+Trap and Mine Damage Support,support,no,Anomalous,Superior
+Trap and Mine Damage Support,support,no,Anomalous,Divergent
+Trap and Mine Damage Support,support,no,Divergent,Superior
+Trap and Mine Damage Support,support,no,Divergent,Anomalous
+Trinity Support,support,no,Superior,Anomalous
+Trinity Support,support,no,Superior,Divergent
+Trinity Support,support,no,Anomalous,Superior
+Trinity Support,support,no,Anomalous,Divergent
+Trinity Support,support,no,Divergent,Superior
+Trinity Support,support,no,Divergent,Anomalous
+Unbound Ailments Support,support,no,Superior,Anomalous
+Unbound Ailments Support,support,no,Superior,Divergent
+Unbound Ailments Support,support,no,Anomalous,Superior
+Unbound Ailments Support,support,no,Anomalous,Divergent
+Unbound Ailments Support,support,no,Divergent,Superior
+Unbound Ailments Support,support,no,Divergent,Anomalous
+Unearth,skill,no,Superior,Anomalous
+Unearth,skill,no,Superior,Divergent
+Unearth,skill,no,Superior,Phantasmal
+Unearth,skill,no,Anomalous,Superior
+Unearth,skill,no,Anomalous,Divergent
+Unearth,skill,no,Anomalous,Phantasmal
+Unearth,skill,no,Divergent,Superior
+Unearth,skill,no,Divergent,Anomalous
+Unearth,skill,no,Divergent,Phantasmal
+Unearth,skill,no,Phantasmal,Superior
+Unearth,skill,no,Phantasmal,Anomalous
+Unearth,skill,no,Phantasmal,Divergent
+Unleash Support,support,no,Superior,Anomalous
+Unleash Support,support,no,Superior,Divergent
+Unleash Support,support,no,Anomalous,Superior
+Unleash Support,support,no,Anomalous,Divergent
+Unleash Support,support,no,Divergent,Superior
+Unleash Support,support,no,Divergent,Anomalous
+Urgent Orders Support,support,no,Superior,Anomalous
+Urgent Orders Support,support,no,Superior,Divergent
+Urgent Orders Support,support,no,Anomalous,Superior
+Urgent Orders Support,support,no,Anomalous,Divergent
+Urgent Orders Support,support,no,Divergent,Superior
+Urgent Orders Support,support,no,Divergent,Anomalous
+Vaal Absolution,skill,yes,Superior,Anomalous
+Vaal Absolution,skill,yes,Superior,Divergent
+Vaal Absolution,skill,yes,Anomalous,Superior
+Vaal Absolution,skill,yes,Anomalous,Divergent
+Vaal Absolution,skill,yes,Divergent,Superior
+Vaal Absolution,skill,yes,Divergent,Anomalous
+Vaal Ancestral Warchief,skill,yes,Superior,Anomalous
+Vaal Ancestral Warchief,skill,yes,Superior,Divergent
+Vaal Ancestral Warchief,skill,yes,Superior,Phantasmal
+Vaal Ancestral Warchief,skill,yes,Anomalous,Superior
+Vaal Ancestral Warchief,skill,yes,Anomalous,Divergent
+Vaal Ancestral Warchief,skill,yes,Anomalous,Phantasmal
+Vaal Ancestral Warchief,skill,yes,Divergent,Superior
+Vaal Ancestral Warchief,skill,yes,Divergent,Anomalous
+Vaal Ancestral Warchief,skill,yes,Divergent,Phantasmal
+Vaal Ancestral Warchief,skill,yes,Phantasmal,Superior
+Vaal Ancestral Warchief,skill,yes,Phantasmal,Anomalous
+Vaal Ancestral Warchief,skill,yes,Phantasmal,Divergent
+Vaal Animate Weapon,skill,yes,Superior,Anomalous
+Vaal Animate Weapon,skill,yes,Superior,Divergent
+Vaal Animate Weapon,skill,yes,Superior,Phantasmal
+Vaal Animate Weapon,skill,yes,Anomalous,Superior
+Vaal Animate Weapon,skill,yes,Anomalous,Divergent
+Vaal Animate Weapon,skill,yes,Anomalous,Phantasmal
+Vaal Animate Weapon,skill,yes,Divergent,Superior
+Vaal Animate Weapon,skill,yes,Divergent,Anomalous
+Vaal Animate Weapon,skill,yes,Divergent,Phantasmal
+Vaal Animate Weapon,skill,yes,Phantasmal,Superior
+Vaal Animate Weapon,skill,yes,Phantasmal,Anomalous
+Vaal Animate Weapon,skill,yes,Phantasmal,Divergent
+Vaal Arc,skill,yes,Superior,Anomalous
+Vaal Arc,skill,yes,Superior,Divergent
+Vaal Arc,skill,yes,Superior,Phantasmal
+Vaal Arc,skill,yes,Anomalous,Superior
+Vaal Arc,skill,yes,Anomalous,Divergent
+Vaal Arc,skill,yes,Anomalous,Phantasmal
+Vaal Arc,skill,yes,Divergent,Superior
+Vaal Arc,skill,yes,Divergent,Anomalous
+Vaal Arc,skill,yes,Divergent,Phantasmal
+Vaal Arc,skill,yes,Phantasmal,Superior
+Vaal Arc,skill,yes,Phantasmal,Anomalous
+Vaal Arc,skill,yes,Phantasmal,Divergent
+Vaal Arctic Armour,skill,yes,Superior,Anomalous
+Vaal Arctic Armour,skill,yes,Superior,Divergent
+Vaal Arctic Armour,skill,yes,Anomalous,Superior
+Vaal Arctic Armour,skill,yes,Anomalous,Divergent
+Vaal Arctic Armour,skill,yes,Divergent,Superior
+Vaal Arctic Armour,skill,yes,Divergent,Anomalous
+Vaal Blade Flurry,skill,yes,Superior,Anomalous
+Vaal Blade Flurry,skill,yes,Superior,Divergent
+Vaal Blade Flurry,skill,yes,Anomalous,Superior
+Vaal Blade Flurry,skill,yes,Anomalous,Divergent
+Vaal Blade Flurry,skill,yes,Divergent,Superior
+Vaal Blade Flurry,skill,yes,Divergent,Anomalous
+Vaal Blade Vortex,skill,yes,Superior,Anomalous
+Vaal Blade Vortex,skill,yes,Superior,Divergent
+Vaal Blade Vortex,skill,yes,Superior,Phantasmal
+Vaal Blade Vortex,skill,yes,Anomalous,Superior
+Vaal Blade Vortex,skill,yes,Anomalous,Divergent
+Vaal Blade Vortex,skill,yes,Anomalous,Phantasmal
+Vaal Blade Vortex,skill,yes,Divergent,Superior
+Vaal Blade Vortex,skill,yes,Divergent,Anomalous
+Vaal Blade Vortex,skill,yes,Divergent,Phantasmal
+Vaal Blade Vortex,skill,yes,Phantasmal,Superior
+Vaal Blade Vortex,skill,yes,Phantasmal,Anomalous
+Vaal Blade Vortex,skill,yes,Phantasmal,Divergent
+Vaal Blight,skill,yes,Superior,Anomalous
+Vaal Blight,skill,yes,Superior,Divergent
+Vaal Blight,skill,yes,Anomalous,Superior
+Vaal Blight,skill,yes,Anomalous,Divergent
+Vaal Blight,skill,yes,Divergent,Superior
+Vaal Blight,skill,yes,Divergent,Anomalous
+Vaal Burning Arrow,skill,yes,Superior,Anomalous
+Vaal Burning Arrow,skill,yes,Superior,Divergent
+Vaal Burning Arrow,skill,yes,Anomalous,Superior
+Vaal Burning Arrow,skill,yes,Anomalous,Divergent
+Vaal Burning Arrow,skill,yes,Divergent,Superior
+Vaal Burning Arrow,skill,yes,Divergent,Anomalous
+Vaal Caustic Arrow,skill,yes,Superior,Anomalous
+Vaal Caustic Arrow,skill,yes,Superior,Divergent
+Vaal Caustic Arrow,skill,yes,Anomalous,Superior
+Vaal Caustic Arrow,skill,yes,Anomalous,Divergent
+Vaal Caustic Arrow,skill,yes,Divergent,Superior
+Vaal Caustic Arrow,skill,yes,Divergent,Anomalous
+Vaal Clarity,skill,yes,Superior,Anomalous
+Vaal Clarity,skill,yes,Superior,Divergent
+Vaal Clarity,skill,yes,Anomalous,Superior
+Vaal Clarity,skill,yes,Anomalous,Divergent
+Vaal Clarity,skill,yes,Divergent,Superior
+Vaal Clarity,skill,yes,Divergent,Anomalous
+Vaal Cleave,skill,yes,Superior,Anomalous
+Vaal Cleave,skill,yes,Superior,Divergent
+Vaal Cleave,skill,yes,Superior,Phantasmal
+Vaal Cleave,skill,yes,Anomalous,Superior
+Vaal Cleave,skill,yes,Anomalous,Divergent
+Vaal Cleave,skill,yes,Anomalous,Phantasmal
+Vaal Cleave,skill,yes,Divergent,Superior
+Vaal Cleave,skill,yes,Divergent,Anomalous
+Vaal Cleave,skill,yes,Divergent,Phantasmal
+Vaal Cleave,skill,yes,Phantasmal,Superior
+Vaal Cleave,skill,yes,Phantasmal,Anomalous
+Vaal Cleave,skill,yes,Phantasmal,Divergent
+Vaal Cold Snap,skill,yes,Superior,Anomalous
+Vaal Cold Snap,skill,yes,Superior,Divergent
+Vaal Cold Snap,skill,yes,Anomalous,Superior
+Vaal Cold Snap,skill,yes,Anomalous,Divergent
+Vaal Cold Snap,skill,yes,Divergent,Superior
+Vaal Cold Snap,skill,yes,Divergent,Anomalous
+Vaal Cyclone,skill,yes,Superior,Anomalous
+Vaal Cyclone,skill,yes,Superior,Divergent
+Vaal Cyclone,skill,yes,Superior,Phantasmal
+Vaal Cyclone,skill,yes,Anomalous,Superior
+Vaal Cyclone,skill,yes,Anomalous,Divergent
+Vaal Cyclone,skill,yes,Anomalous,Phantasmal
+Vaal Cyclone,skill,yes,Divergent,Superior
+Vaal Cyclone,skill,yes,Divergent,Anomalous
+Vaal Cyclone,skill,yes,Divergent,Phantasmal
+Vaal Cyclone,skill,yes,Phantasmal,Superior
+Vaal Cyclone,skill,yes,Phantasmal,Anomalous
+Vaal Cyclone,skill,yes,Phantasmal,Divergent
+Vaal Detonate Dead,skill,yes,Superior,Anomalous
+Vaal Detonate Dead,skill,yes,Superior,Divergent
+Vaal Detonate Dead,skill,yes,Anomalous,Superior
+Vaal Detonate Dead,skill,yes,Anomalous,Divergent
+Vaal Detonate Dead,skill,yes,Divergent,Superior
+Vaal Detonate Dead,skill,yes,Divergent,Anomalous
+Vaal Discipline,skill,yes,Superior,Anomalous
+Vaal Discipline,skill,yes,Superior,Divergent
+Vaal Discipline,skill,yes,Anomalous,Superior
+Vaal Discipline,skill,yes,Anomalous,Divergent
+Vaal Discipline,skill,yes,Divergent,Superior
+Vaal Discipline,skill,yes,Divergent,Anomalous
+Vaal Domination,skill,yes,Superior,Anomalous
+Vaal Domination,skill,yes,Superior,Divergent
+Vaal Domination,skill,yes,Superior,Phantasmal
+Vaal Domination,skill,yes,Anomalous,Superior
+Vaal Domination,skill,yes,Anomalous,Divergent
+Vaal Domination,skill,yes,Anomalous,Phantasmal
+Vaal Domination,skill,yes,Divergent,Superior
+Vaal Domination,skill,yes,Divergent,Anomalous
+Vaal Domination,skill,yes,Divergent,Phantasmal
+Vaal Domination,skill,yes,Phantasmal,Superior
+Vaal Domination,skill,yes,Phantasmal,Anomalous
+Vaal Domination,skill,yes,Phantasmal,Divergent
+Vaal Double Strike,skill,yes,Superior,Anomalous
+Vaal Double Strike,skill,yes,Superior,Divergent
+Vaal Double Strike,skill,yes,Anomalous,Superior
+Vaal Double Strike,skill,yes,Anomalous,Divergent
+Vaal Double Strike,skill,yes,Divergent,Superior
+Vaal Double Strike,skill,yes,Divergent,Anomalous
+Vaal Earthquake,skill,yes,Superior,Anomalous
+Vaal Earthquake,skill,yes,Superior,Divergent
+Vaal Earthquake,skill,yes,Superior,Phantasmal
+Vaal Earthquake,skill,yes,Anomalous,Superior
+Vaal Earthquake,skill,yes,Anomalous,Divergent
+Vaal Earthquake,skill,yes,Anomalous,Phantasmal
+Vaal Earthquake,skill,yes,Divergent,Superior
+Vaal Earthquake,skill,yes,Divergent,Anomalous
+Vaal Earthquake,skill,yes,Divergent,Phantasmal
+Vaal Earthquake,skill,yes,Phantasmal,Superior
+Vaal Earthquake,skill,yes,Phantasmal,Anomalous
+Vaal Earthquake,skill,yes,Phantasmal,Divergent
+Vaal Fireball,skill,yes,Superior,Anomalous
+Vaal Fireball,skill,yes,Superior,Divergent
+Vaal Fireball,skill,yes,Superior,Phantasmal
+Vaal Fireball,skill,yes,Anomalous,Superior
+Vaal Fireball,skill,yes,Anomalous,Divergent
+Vaal Fireball,skill,yes,Anomalous,Phantasmal
+Vaal Fireball,skill,yes,Divergent,Superior
+Vaal Fireball,skill,yes,Divergent,Anomalous
+Vaal Fireball,skill,yes,Divergent,Phantasmal
+Vaal Fireball,skill,yes,Phantasmal,Superior
+Vaal Fireball,skill,yes,Phantasmal,Anomalous
+Vaal Fireball,skill,yes,Phantasmal,Divergent
+Vaal Firestorm,skill,yes,Superior,Anomalous
+Vaal Firestorm,skill,yes,Superior,Divergent
+Vaal Firestorm,skill,yes,Anomalous,Superior
+Vaal Firestorm,skill,yes,Anomalous,Divergent
+Vaal Firestorm,skill,yes,Divergent,Superior
+Vaal Firestorm,skill,yes,Divergent,Anomalous
+Vaal Flameblast,skill,yes,Superior,Anomalous
+Vaal Flameblast,skill,yes,Superior,Divergent
+Vaal Flameblast,skill,yes,Superior,Phantasmal
+Vaal Flameblast,skill,yes,Anomalous,Superior
+Vaal Flameblast,skill,yes,Anomalous,Divergent
+Vaal Flameblast,skill,yes,Anomalous,Phantasmal
+Vaal Flameblast,skill,yes,Divergent,Superior
+Vaal Flameblast,skill,yes,Divergent,Anomalous
+Vaal Flameblast,skill,yes,Divergent,Phantasmal
+Vaal Flameblast,skill,yes,Phantasmal,Superior
+Vaal Flameblast,skill,yes,Phantasmal,Anomalous
+Vaal Flameblast,skill,yes,Phantasmal,Divergent
+Vaal Flesh Offering,skill,yes,Superior,Anomalous
+Vaal Flesh Offering,skill,yes,Superior,Divergent
+Vaal Flesh Offering,skill,yes,Anomalous,Superior
+Vaal Flesh Offering,skill,yes,Anomalous,Divergent
+Vaal Flesh Offering,skill,yes,Divergent,Superior
+Vaal Flesh Offering,skill,yes,Divergent,Anomalous
+Vaal Flicker Strike,skill,yes,Superior,Anomalous
+Vaal Flicker Strike,skill,yes,Superior,Divergent
+Vaal Flicker Strike,skill,yes,Anomalous,Superior
+Vaal Flicker Strike,skill,yes,Anomalous,Divergent
+Vaal Flicker Strike,skill,yes,Divergent,Superior
+Vaal Flicker Strike,skill,yes,Divergent,Anomalous
+Vaal Glacial Hammer,skill,yes,Superior,Anomalous
+Vaal Glacial Hammer,skill,yes,Superior,Divergent
+Vaal Glacial Hammer,skill,yes,Anomalous,Superior
+Vaal Glacial Hammer,skill,yes,Anomalous,Divergent
+Vaal Glacial Hammer,skill,yes,Divergent,Superior
+Vaal Glacial Hammer,skill,yes,Divergent,Anomalous
+Vaal Grace,skill,yes,Superior,Anomalous
+Vaal Grace,skill,yes,Superior,Divergent
+Vaal Grace,skill,yes,Anomalous,Superior
+Vaal Grace,skill,yes,Anomalous,Divergent
+Vaal Grace,skill,yes,Divergent,Superior
+Vaal Grace,skill,yes,Divergent,Anomalous
+Vaal Ground Slam,skill,yes,Superior,Anomalous
+Vaal Ground Slam,skill,yes,Superior,Divergent
+Vaal Ground Slam,skill,yes,Anomalous,Superior
+Vaal Ground Slam,skill,yes,Anomalous,Divergent
+Vaal Ground Slam,skill,yes,Divergent,Superior
+Vaal Ground Slam,skill,yes,Divergent,Anomalous
+Vaal Haste,skill,yes,Superior,Anomalous
+Vaal Haste,skill,yes,Superior,Divergent
+Vaal Haste,skill,yes,Superior,Phantasmal
+Vaal Haste,skill,yes,Anomalous,Superior
+Vaal Haste,skill,yes,Anomalous,Divergent
+Vaal Haste,skill,yes,Anomalous,Phantasmal
+Vaal Haste,skill,yes,Divergent,Superior
+Vaal Haste,skill,yes,Divergent,Anomalous
+Vaal Haste,skill,yes,Divergent,Phantasmal
+Vaal Haste,skill,yes,Phantasmal,Superior
+Vaal Haste,skill,yes,Phantasmal,Anomalous
+Vaal Haste,skill,yes,Phantasmal,Divergent
+Vaal Ice Nova,skill,yes,Superior,Anomalous
+Vaal Ice Nova,skill,yes,Superior,Divergent
+Vaal Ice Nova,skill,yes,Superior,Phantasmal
+Vaal Ice Nova,skill,yes,Anomalous,Superior
+Vaal Ice Nova,skill,yes,Anomalous,Divergent
+Vaal Ice Nova,skill,yes,Anomalous,Phantasmal
+Vaal Ice Nova,skill,yes,Divergent,Superior
+Vaal Ice Nova,skill,yes,Divergent,Anomalous
+Vaal Ice Nova,skill,yes,Divergent,Phantasmal
+Vaal Ice Nova,skill,yes,Phantasmal,Superior
+Vaal Ice Nova,skill,yes,Phantasmal,Anomalous
+Vaal Ice Nova,skill,yes,Phantasmal,Divergent
+Vaal Ice Shot,skill,yes,Superior,Anomalous
+Vaal Ice Shot,skill,yes,Superior,Divergent
+Vaal Ice Shot,skill,yes,Anomalous,Superior
+Vaal Ice Shot,skill,yes,Anomalous,Divergent
+Vaal Ice Shot,skill,yes,Divergent,Superior
+Vaal Ice Shot,skill,yes,Divergent,Anomalous
+Vaal Immortal Call,skill,yes,Superior,Anomalous
+Vaal Immortal Call,skill,yes,Superior,Divergent
+Vaal Immortal Call,skill,yes,Anomalous,Superior
+Vaal Immortal Call,skill,yes,Anomalous,Divergent
+Vaal Immortal Call,skill,yes,Divergent,Superior
+Vaal Immortal Call,skill,yes,Divergent,Anomalous
+Vaal Impurity of Fire,skill,yes,Superior,Anomalous
+Vaal Impurity of Fire,skill,yes,Superior,Divergent
+Vaal Impurity of Fire,skill,yes,Anomalous,Superior
+Vaal Impurity of Fire,skill,yes,Anomalous,Divergent
+Vaal Impurity of Fire,skill,yes,Divergent,Superior
+Vaal Impurity of Fire,skill,yes,Divergent,Anomalous
+Vaal Impurity of Ice,skill,yes,Superior,Anomalous
+Vaal Impurity of Ice,skill,yes,Superior,Divergent
+Vaal Impurity of Ice,skill,yes,Anomalous,Superior
+Vaal Impurity of Ice,skill,yes,Anomalous,Divergent
+Vaal Impurity of Ice,skill,yes,Divergent,Superior
+Vaal Impurity of Ice,skill,yes,Divergent,Anomalous
+Vaal Impurity of Lightning,skill,yes,Superior,Anomalous
+Vaal Impurity of Lightning,skill,yes,Superior,Divergent
+Vaal Impurity of Lightning,skill,yes,Anomalous,Superior
+Vaal Impurity of Lightning,skill,yes,Anomalous,Divergent
+Vaal Impurity of Lightning,skill,yes,Divergent,Superior
+Vaal Impurity of Lightning,skill,yes,Divergent,Anomalous
+Vaal Lightning Arrow,skill,yes,Superior,Anomalous
+Vaal Lightning Arrow,skill,yes,Superior,Divergent
+Vaal Lightning Arrow,skill,yes,Superior,Phantasmal
+Vaal Lightning Arrow,skill,yes,Anomalous,Superior
+Vaal Lightning Arrow,skill,yes,Anomalous,Divergent
+Vaal Lightning Arrow,skill,yes,Anomalous,Phantasmal
+Vaal Lightning Arrow,skill,yes,Divergent,Superior
+Vaal Lightning Arrow,skill,yes,Divergent,Anomalous
+Vaal Lightning Arrow,skill,yes,Divergent,Phantasmal
+Vaal Lightning Arrow,skill,yes,Phantasmal,Superior
+Vaal Lightning Arrow,skill,yes,Phantasmal,Anomalous
+Vaal Lightning Arrow,skill,yes,Phantasmal,Divergent
+Vaal Lightning Strike,skill,yes,Superior,Anomalous
+Vaal Lightning Strike,skill,yes,Superior,Divergent
+Vaal Lightning Strike,skill,yes,Superior,Phantasmal
+Vaal Lightning Strike,skill,yes,Anomalous,Superior
+Vaal Lightning Strike,skill,yes,Anomalous,Divergent
+Vaal Lightning Strike,skill,yes,Anomalous,Phantasmal
+Vaal Lightning Strike,skill,yes,Divergent,Superior
+Vaal Lightning Strike,skill,yes,Divergent,Anomalous
+Vaal Lightning Strike,skill,yes,Divergent,Phantasmal
+Vaal Lightning Strike,skill,yes,Phantasmal,Superior
+Vaal Lightning Strike,skill,yes,Phantasmal,Anomalous
+Vaal Lightning Strike,skill,yes,Phantasmal,Divergent
+Vaal Lightning Trap,skill,yes,Superior,Anomalous
+Vaal Lightning Trap,skill,yes,Superior,Divergent
+Vaal Lightning Trap,skill,yes,Anomalous,Superior
+Vaal Lightning Trap,skill,yes,Anomalous,Divergent
+Vaal Lightning Trap,skill,yes,Divergent,Superior
+Vaal Lightning Trap,skill,yes,Divergent,Anomalous
+Vaal Lightning Warp,skill,yes,Superior,Anomalous
+Vaal Lightning Warp,skill,yes,Superior,Divergent
+Vaal Lightning Warp,skill,yes,Superior,Phantasmal
+Vaal Lightning Warp,skill,yes,Anomalous,Superior
+Vaal Lightning Warp,skill,yes,Anomalous,Divergent
+Vaal Lightning Warp,skill,yes,Anomalous,Phantasmal
+Vaal Lightning Warp,skill,yes,Divergent,Superior
+Vaal Lightning Warp,skill,yes,Divergent,Anomalous
+Vaal Lightning Warp,skill,yes,Divergent,Phantasmal
+Vaal Lightning Warp,skill,yes,Phantasmal,Superior
+Vaal Lightning Warp,skill,yes,Phantasmal,Anomalous
+Vaal Lightning Warp,skill,yes,Phantasmal,Divergent
+Vaal Molten Shell,skill,yes,Superior,Anomalous
+Vaal Molten Shell,skill,yes,Superior,Divergent
+Vaal Molten Shell,skill,yes,Anomalous,Superior
+Vaal Molten Shell,skill,yes,Anomalous,Divergent
+Vaal Molten Shell,skill,yes,Divergent,Superior
+Vaal Molten Shell,skill,yes,Divergent,Anomalous
+Vaal Molten Strike,skill,yes,Superior,Anomalous
+Vaal Molten Strike,skill,yes,Superior,Divergent
+Vaal Molten Strike,skill,yes,Superior,Phantasmal
+Vaal Molten Strike,skill,yes,Anomalous,Superior
+Vaal Molten Strike,skill,yes,Anomalous,Divergent
+Vaal Molten Strike,skill,yes,Anomalous,Phantasmal
+Vaal Molten Strike,skill,yes,Divergent,Superior
+Vaal Molten Strike,skill,yes,Divergent,Anomalous
+Vaal Molten Strike,skill,yes,Divergent,Phantasmal
+Vaal Molten Strike,skill,yes,Phantasmal,Superior
+Vaal Molten Strike,skill,yes,Phantasmal,Anomalous
+Vaal Molten Strike,skill,yes,Phantasmal,Divergent
+Vaal Power Siphon,skill,yes,Superior,Anomalous
+Vaal Power Siphon,skill,yes,Superior,Divergent
+Vaal Power Siphon,skill,yes,Anomalous,Superior
+Vaal Power Siphon,skill,yes,Anomalous,Divergent
+Vaal Power Siphon,skill,yes,Divergent,Superior
+Vaal Power Siphon,skill,yes,Divergent,Anomalous
+Vaal Rain of Arrows,skill,yes,Superior,Anomalous
+Vaal Rain of Arrows,skill,yes,Superior,Divergent
+Vaal Rain of Arrows,skill,yes,Superior,Phantasmal
+Vaal Rain of Arrows,skill,yes,Anomalous,Superior
+Vaal Rain of Arrows,skill,yes,Anomalous,Divergent
+Vaal Rain of Arrows,skill,yes,Anomalous,Phantasmal
+Vaal Rain of Arrows,skill,yes,Divergent,Superior
+Vaal Rain of Arrows,skill,yes,Divergent,Anomalous
+Vaal Rain of Arrows,skill,yes,Divergent,Phantasmal
+Vaal Rain of Arrows,skill,yes,Phantasmal,Superior
+Vaal Rain of Arrows,skill,yes,Phantasmal,Anomalous
+Vaal Rain of Arrows,skill,yes,Phantasmal,Divergent
+Vaal Reap,skill,yes,Superior,Anomalous
+Vaal Reap,skill,yes,Superior,Divergent
+Vaal Reap,skill,yes,Anomalous,Superior
+Vaal Reap,skill,yes,Anomalous,Divergent
+Vaal Reap,skill,yes,Divergent,Superior
+Vaal Reap,skill,yes,Divergent,Anomalous
+Vaal Reave,skill,yes,Superior,Anomalous
+Vaal Reave,skill,yes,Superior,Divergent
+Vaal Reave,skill,yes,Superior,Phantasmal
+Vaal Reave,skill,yes,Anomalous,Superior
+Vaal Reave,skill,yes,Anomalous,Divergent
+Vaal Reave,skill,yes,Anomalous,Phantasmal
+Vaal Reave,skill,yes,Divergent,Superior
+Vaal Reave,skill,yes,Divergent,Anomalous
+Vaal Reave,skill,yes,Divergent,Phantasmal
+Vaal Reave,skill,yes,Phantasmal,Superior
+Vaal Reave,skill,yes,Phantasmal,Anomalous
+Vaal Reave,skill,yes,Phantasmal,Divergent
+Vaal Rejuvenation Totem,skill,yes,Superior,Anomalous
+Vaal Rejuvenation Totem,skill,yes,Superior,Divergent
+Vaal Rejuvenation Totem,skill,yes,Anomalous,Superior
+Vaal Rejuvenation Totem,skill,yes,Anomalous,Divergent
+Vaal Rejuvenation Totem,skill,yes,Divergent,Superior
+Vaal Rejuvenation Totem,skill,yes,Divergent,Anomalous
+Vaal Righteous Fire,skill,yes,Superior,Anomalous
+Vaal Righteous Fire,skill,yes,Superior,Divergent
+Vaal Righteous Fire,skill,yes,Anomalous,Superior
+Vaal Righteous Fire,skill,yes,Anomalous,Divergent
+Vaal Righteous Fire,skill,yes,Divergent,Superior
+Vaal Righteous Fire,skill,yes,Divergent,Anomalous
+Vaal Smite,skill,yes,Superior,Anomalous
+Vaal Smite,skill,yes,Superior,Divergent
+Vaal Smite,skill,yes,Superior,Phantasmal
+Vaal Smite,skill,yes,Anomalous,Superior
+Vaal Smite,skill,yes,Anomalous,Divergent
+Vaal Smite,skill,yes,Anomalous,Phantasmal
+Vaal Smite,skill,yes,Divergent,Superior
+Vaal Smite,skill,yes,Divergent,Anomalous
+Vaal Smite,skill,yes,Divergent,Phantasmal
+Vaal Smite,skill,yes,Phantasmal,Superior
+Vaal Smite,skill,yes,Phantasmal,Anomalous
+Vaal Smite,skill,yes,Phantasmal,Divergent
+Vaal Spark,skill,yes,Superior,Anomalous
+Vaal Spark,skill,yes,Superior,Divergent
+Vaal Spark,skill,yes,Superior,Phantasmal
+Vaal Spark,skill,yes,Anomalous,Superior
+Vaal Spark,skill,yes,Anomalous,Divergent
+Vaal Spark,skill,yes,Anomalous,Phantasmal
+Vaal Spark,skill,yes,Divergent,Superior
+Vaal Spark,skill,yes,Divergent,Anomalous
+Vaal Spark,skill,yes,Divergent,Phantasmal
+Vaal Spark,skill,yes,Phantasmal,Superior
+Vaal Spark,skill,yes,Phantasmal,Anomalous
+Vaal Spark,skill,yes,Phantasmal,Divergent
+Vaal Spectral Throw,skill,yes,Superior,Anomalous
+Vaal Spectral Throw,skill,yes,Superior,Divergent
+Vaal Spectral Throw,skill,yes,Anomalous,Superior
+Vaal Spectral Throw,skill,yes,Anomalous,Divergent
+Vaal Spectral Throw,skill,yes,Divergent,Superior
+Vaal Spectral Throw,skill,yes,Divergent,Anomalous
+Vaal Split Arrow,skill,yes,Superior,Anomalous
+Vaal Split Arrow,skill,yes,Superior,Divergent
+Vaal Split Arrow,skill,yes,Anomalous,Superior
+Vaal Split Arrow,skill,yes,Anomalous,Divergent
+Vaal Split Arrow,skill,yes,Divergent,Superior
+Vaal Split Arrow,skill,yes,Divergent,Anomalous
+Vaal Storm Call,skill,yes,Superior,Anomalous
+Vaal Storm Call,skill,yes,Superior,Divergent
+Vaal Storm Call,skill,yes,Superior,Phantasmal
+Vaal Storm Call,skill,yes,Anomalous,Superior
+Vaal Storm Call,skill,yes,Anomalous,Divergent
+Vaal Storm Call,skill,yes,Anomalous,Phantasmal
+Vaal Storm Call,skill,yes,Divergent,Superior
+Vaal Storm Call,skill,yes,Divergent,Anomalous
+Vaal Storm Call,skill,yes,Divergent,Phantasmal
+Vaal Storm Call,skill,yes,Phantasmal,Superior
+Vaal Storm Call,skill,yes,Phantasmal,Anomalous
+Vaal Storm Call,skill,yes,Phantasmal,Divergent
+Vaal Summon Skeletons,skill,yes,Superior,Anomalous
+Vaal Summon Skeletons,skill,yes,Superior,Divergent
+Vaal Summon Skeletons,skill,yes,Superior,Phantasmal
+Vaal Summon Skeletons,skill,yes,Anomalous,Superior
+Vaal Summon Skeletons,skill,yes,Anomalous,Divergent
+Vaal Summon Skeletons,skill,yes,Anomalous,Phantasmal
+Vaal Summon Skeletons,skill,yes,Divergent,Superior
+Vaal Summon Skeletons,skill,yes,Divergent,Anomalous
+Vaal Summon Skeletons,skill,yes,Divergent,Phantasmal
+Vaal Summon Skeletons,skill,yes,Phantasmal,Superior
+Vaal Summon Skeletons,skill,yes,Phantasmal,Anomalous
+Vaal Summon Skeletons,skill,yes,Phantasmal,Divergent
+Vaal Venom Gyre,skill,yes,Superior,Anomalous
+Vaal Venom Gyre,skill,yes,Superior,Divergent
+Vaal Venom Gyre,skill,yes,Anomalous,Superior
+Vaal Venom Gyre,skill,yes,Anomalous,Divergent
+Vaal Venom Gyre,skill,yes,Divergent,Superior
+Vaal Venom Gyre,skill,yes,Divergent,Anomalous
+Vaal Volcanic Fissure,skill,yes,Superior,Anomalous
+Vaal Volcanic Fissure,skill,yes,Anomalous,Superior
+Vampiric Link,skill,no,Superior,Anomalous
+Vampiric Link,skill,no,Superior,Divergent
+Vampiric Link,skill,no,Anomalous,Superior
+Vampiric Link,skill,no,Anomalous,Divergent
+Vampiric Link,skill,no,Divergent,Superior
+Vampiric Link,skill,no,Divergent,Anomalous
+Vengeance,skill,no,Superior,Anomalous
+Vengeance,skill,no,Superior,Divergent
+Vengeance,skill,no,Superior,Phantasmal
+Vengeance,skill,no,Anomalous,Superior
+Vengeance,skill,no,Anomalous,Divergent
+Vengeance,skill,no,Anomalous,Phantasmal
+Vengeance,skill,no,Divergent,Superior
+Vengeance,skill,no,Divergent,Anomalous
+Vengeance,skill,no,Divergent,Phantasmal
+Vengeance,skill,no,Phantasmal,Superior
+Vengeance,skill,no,Phantasmal,Anomalous
+Vengeance,skill,no,Phantasmal,Divergent
+Venom Gyre,skill,no,Superior,Anomalous
+Venom Gyre,skill,no,Superior,Divergent
+Venom Gyre,skill,no,Anomalous,Superior
+Venom Gyre,skill,no,Anomalous,Divergent
+Venom Gyre,skill,no,Divergent,Superior
+Venom Gyre,skill,no,Divergent,Anomalous
+Vicious Projectiles Support,support,no,Superior,Anomalous
+Vicious Projectiles Support,support,no,Superior,Divergent
+Vicious Projectiles Support,support,no,Anomalous,Superior
+Vicious Projectiles Support,support,no,Anomalous,Divergent
+Vicious Projectiles Support,support,no,Divergent,Superior
+Vicious Projectiles Support,support,no,Divergent,Anomalous
+Vigilant Strike,skill,no,Superior,Anomalous
+Vigilant Strike,skill,no,Superior,Divergent
+Vigilant Strike,skill,no,Superior,Phantasmal
+Vigilant Strike,skill,no,Anomalous,Superior
+Vigilant Strike,skill,no,Anomalous,Divergent
+Vigilant Strike,skill,no,Anomalous,Phantasmal
+Vigilant Strike,skill,no,Divergent,Superior
+Vigilant Strike,skill,no,Divergent,Anomalous
+Vigilant Strike,skill,no,Divergent,Phantasmal
+Vigilant Strike,skill,no,Phantasmal,Superior
+Vigilant Strike,skill,no,Phantasmal,Anomalous
+Vigilant Strike,skill,no,Phantasmal,Divergent
+Vile Toxins Support,support,no,Superior,Anomalous
+Vile Toxins Support,support,no,Superior,Divergent
+Vile Toxins Support,support,no,Anomalous,Superior
+Vile Toxins Support,support,no,Anomalous,Divergent
+Vile Toxins Support,support,no,Divergent,Superior
+Vile Toxins Support,support,no,Divergent,Anomalous
+Viper Strike,skill,no,Superior,Anomalous
+Viper Strike,skill,no,Superior,Divergent
+Viper Strike,skill,no,Superior,Phantasmal
+Viper Strike,skill,no,Anomalous,Superior
+Viper Strike,skill,no,Anomalous,Divergent
+Viper Strike,skill,no,Anomalous,Phantasmal
+Viper Strike,skill,no,Divergent,Superior
+Viper Strike,skill,no,Divergent,Anomalous
+Viper Strike,skill,no,Divergent,Phantasmal
+Viper Strike,skill,no,Phantasmal,Superior
+Viper Strike,skill,no,Phantasmal,Anomalous
+Viper Strike,skill,no,Phantasmal,Divergent
+Vitality,skill,no,Superior,Anomalous
+Vitality,skill,no,Superior,Divergent
+Vitality,skill,no,Anomalous,Superior
+Vitality,skill,no,Anomalous,Divergent
+Vitality,skill,no,Divergent,Superior
+Vitality,skill,no,Divergent,Anomalous
+Void Manipulation Support,support,no,Superior,Anomalous
+Void Manipulation Support,support,no,Superior,Divergent
+Void Manipulation Support,support,no,Anomalous,Superior
+Void Manipulation Support,support,no,Anomalous,Divergent
+Void Manipulation Support,support,no,Divergent,Superior
+Void Manipulation Support,support,no,Divergent,Anomalous
+Void Sphere,skill,no,Superior,Anomalous
+Void Sphere,skill,no,Superior,Divergent
+Void Sphere,skill,no,Superior,Phantasmal
+Void Sphere,skill,no,Anomalous,Superior
+Void Sphere,skill,no,Anomalous,Divergent
+Void Sphere,skill,no,Anomalous,Phantasmal
+Void Sphere,skill,no,Divergent,Superior
+Void Sphere,skill,no,Divergent,Anomalous
+Void Sphere,skill,no,Divergent,Phantasmal
+Void Sphere,skill,no,Phantasmal,Superior
+Void Sphere,skill,no,Phantasmal,Anomalous
+Void Sphere,skill,no,Phantasmal,Divergent
+Volatile Dead,skill,no,Superior,Anomalous
+Volatile Dead,skill,no,Superior,Divergent
+Volatile Dead,skill,no,Anomalous,Superior
+Volatile Dead,skill,no,Anomalous,Divergent
+Volatile Dead,skill,no,Divergent,Superior
+Volatile Dead,skill,no,Divergent,Anomalous
+Volcanic Fissure,skill,no,Superior,Anomalous
+Volcanic Fissure,skill,no,Anomalous,Superior
+Volley Support,support,no,Superior,Anomalous
+Volley Support,support,no,Superior,Divergent
+Volley Support,support,no,Anomalous,Superior
+Volley Support,support,no,Anomalous,Divergent
+Volley Support,support,no,Divergent,Superior
+Volley Support,support,no,Divergent,Anomalous
+Voltaxic Burst,skill,no,Superior,Anomalous
+Voltaxic Burst,skill,no,Superior,Divergent
+Voltaxic Burst,skill,no,Anomalous,Superior
+Voltaxic Burst,skill,no,Anomalous,Divergent
+Voltaxic Burst,skill,no,Divergent,Superior
+Voltaxic Burst,skill,no,Divergent,Anomalous
+Vortex,skill,no,Superior,Anomalous
+Vortex,skill,no,Superior,Divergent
+Vortex,skill,no,Superior,Phantasmal
+Vortex,skill,no,Anomalous,Superior
+Vortex,skill,no,Anomalous,Divergent
+Vortex,skill,no,Anomalous,Phantasmal
+Vortex,skill,no,Divergent,Superior
+Vortex,skill,no,Divergent,Anomalous
+Vortex,skill,no,Divergent,Phantasmal
+Vortex,skill,no,Phantasmal,Superior
+Vortex,skill,no,Phantasmal,Anomalous
+Vortex,skill,no,Phantasmal,Divergent
+Vulnerability,skill,no,Superior,Anomalous
+Vulnerability,skill,no,Superior,Divergent
+Vulnerability,skill,no,Anomalous,Superior
+Vulnerability,skill,no,Anomalous,Divergent
+Vulnerability,skill,no,Divergent,Superior
+Vulnerability,skill,no,Divergent,Anomalous
+War Banner,skill,no,Superior,Anomalous
+War Banner,skill,no,Superior,Divergent
+War Banner,skill,no,Anomalous,Superior
+War Banner,skill,no,Anomalous,Divergent
+War Banner,skill,no,Divergent,Superior
+War Banner,skill,no,Divergent,Anomalous
+Warlord's Mark,skill,no,Superior,Anomalous
+Warlord's Mark,skill,no,Superior,Divergent
+Warlord's Mark,skill,no,Anomalous,Superior
+Warlord's Mark,skill,no,Anomalous,Divergent
+Warlord's Mark,skill,no,Divergent,Superior
+Warlord's Mark,skill,no,Divergent,Anomalous
+Wave of Conviction,skill,no,Superior,Anomalous
+Wave of Conviction,skill,no,Superior,Divergent
+Wave of Conviction,skill,no,Superior,Phantasmal
+Wave of Conviction,skill,no,Anomalous,Superior
+Wave of Conviction,skill,no,Anomalous,Divergent
+Wave of Conviction,skill,no,Anomalous,Phantasmal
+Wave of Conviction,skill,no,Divergent,Superior
+Wave of Conviction,skill,no,Divergent,Anomalous
+Wave of Conviction,skill,no,Divergent,Phantasmal
+Wave of Conviction,skill,no,Phantasmal,Superior
+Wave of Conviction,skill,no,Phantasmal,Anomalous
+Wave of Conviction,skill,no,Phantasmal,Divergent
+Whirling Blades,skill,no,Superior,Anomalous
+Whirling Blades,skill,no,Superior,Divergent
+Whirling Blades,skill,no,Anomalous,Superior
+Whirling Blades,skill,no,Anomalous,Divergent
+Whirling Blades,skill,no,Divergent,Superior
+Whirling Blades,skill,no,Divergent,Anomalous
+Wild Strike,skill,no,Superior,Anomalous
+Wild Strike,skill,no,Superior,Divergent
+Wild Strike,skill,no,Superior,Phantasmal
+Wild Strike,skill,no,Anomalous,Superior
+Wild Strike,skill,no,Anomalous,Divergent
+Wild Strike,skill,no,Anomalous,Phantasmal
+Wild Strike,skill,no,Divergent,Superior
+Wild Strike,skill,no,Divergent,Anomalous
+Wild Strike,skill,no,Divergent,Phantasmal
+Wild Strike,skill,no,Phantasmal,Superior
+Wild Strike,skill,no,Phantasmal,Anomalous
+Wild Strike,skill,no,Phantasmal,Divergent
+Winter Orb,skill,no,Superior,Anomalous
+Winter Orb,skill,no,Superior,Divergent
+Winter Orb,skill,no,Superior,Phantasmal
+Winter Orb,skill,no,Anomalous,Superior
+Winter Orb,skill,no,Anomalous,Divergent
+Winter Orb,skill,no,Anomalous,Phantasmal
+Winter Orb,skill,no,Divergent,Superior
+Winter Orb,skill,no,Divergent,Anomalous
+Winter Orb,skill,no,Divergent,Phantasmal
+Winter Orb,skill,no,Phantasmal,Superior
+Winter Orb,skill,no,Phantasmal,Anomalous
+Winter Orb,skill,no,Phantasmal,Divergent
+Wintertide Brand,skill,no,Superior,Anomalous
+Wintertide Brand,skill,no,Superior,Divergent
+Wintertide Brand,skill,no,Anomalous,Superior
+Wintertide Brand,skill,no,Anomalous,Divergent
+Wintertide Brand,skill,no,Divergent,Superior
+Wintertide Brand,skill,no,Divergent,Anomalous
+Wither,skill,no,Superior,Anomalous
+Wither,skill,no,Superior,Divergent
+Wither,skill,no,Anomalous,Superior
+Wither,skill,no,Anomalous,Divergent
+Wither,skill,no,Divergent,Superior
+Wither,skill,no,Divergent,Anomalous
+Withering Step,skill,no,Superior,Anomalous
+Withering Step,skill,no,Superior,Divergent
+Withering Step,skill,no,Anomalous,Superior
+Withering Step,skill,no,Anomalous,Divergent
+Withering Step,skill,no,Divergent,Superior
+Withering Step,skill,no,Divergent,Anomalous
+Withering Touch Support,support,no,Superior,Anomalous
+Withering Touch Support,support,no,Superior,Divergent
+Withering Touch Support,support,no,Anomalous,Superior
+Withering Touch Support,support,no,Anomalous,Divergent
+Withering Touch Support,support,no,Divergent,Superior
+Withering Touch Support,support,no,Divergent,Anomalous
+Wrath,skill,no,Superior,Anomalous
+Wrath,skill,no,Anomalous,Superior
+Zealotry,skill,no,Superior,Anomalous
+Zealotry,skill,no,Superior,Divergent
+Zealotry,skill,no,Anomalous,Superior
+Zealotry,skill,no,Anomalous,Divergent
+Zealotry,skill,no,Divergent,Superior
+Zealotry,skill,no,Divergent,Anomalous

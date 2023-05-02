@@ -1,0 +1,1546 @@
+gem_name,vaal_gem,quality_type,weight
+Zealotry,no,Superior,50
+Zealotry,no,Anomalous,100
+Zealotry,no,Divergent,5
+Wrath,no,Superior,50
+Wrath,no,Anomalous,100
+Withering Touch Support,no,Superior,50
+Withering Touch Support,no,Anomalous,100
+Withering Touch Support,no,Divergent,50
+Withering Step,no,Superior,50
+Withering Step,no,Anomalous,100
+Withering Step,no,Divergent,20
+Wither,no,Superior,50
+Wither,no,Anomalous,100
+Wither,no,Divergent,20
+Wintertide Brand,no,Superior,50
+Wintertide Brand,no,Anomalous,100
+Wintertide Brand,no,Divergent,100
+Winter Orb,no,Superior,50
+Winter Orb,no,Anomalous,100
+Winter Orb,no,Divergent,100
+Winter Orb,no,Phantasmal,100
+Wild Strike,no,Superior,50
+Wild Strike,no,Anomalous,50
+Wild Strike,no,Divergent,50
+Wild Strike,no,Phantasmal,50
+Whirling Blades,no,Superior,50
+Whirling Blades,no,Anomalous,100
+Whirling Blades,no,Divergent,20
+Wave of Conviction,no,Superior,50
+Wave of Conviction,no,Anomalous,100
+Wave of Conviction,no,Divergent,100
+Wave of Conviction,no,Phantasmal,20
+Warlord's Mark,no,Superior,50
+Warlord's Mark,no,Anomalous,100
+Warlord's Mark,no,Divergent,100
+War Banner,no,Superior,50
+War Banner,no,Anomalous,10
+War Banner,no,Divergent,100
+Vulnerability,no,Superior,50
+Vulnerability,no,Anomalous,100
+Vulnerability,no,Divergent,100
+Vortex,no,Superior,50
+Vortex,no,Anomalous,100
+Vortex,no,Divergent,50
+Vortex,no,Phantasmal,100
+Voltaxic Burst,no,Superior,100
+Voltaxic Burst,no,Anomalous,50
+Voltaxic Burst,no,Divergent,50
+Volley Support,no,Superior,50
+Volley Support,no,Anomalous,100
+Volley Support,no,Divergent,100
+Volcanic Fissure,no,Superior,50
+Volcanic Fissure,no,Anomalous,100
+Volatile Dead,no,Superior,50
+Volatile Dead,no,Anomalous,100
+Volatile Dead,no,Divergent,20
+Void Sphere,no,Superior,50
+Void Sphere,no,Anomalous,50
+Void Sphere,no,Divergent,20
+Void Sphere,no,Phantasmal,100
+Void Manipulation Support,no,Superior,50
+Void Manipulation Support,no,Anomalous,100
+Void Manipulation Support,no,Divergent,10
+Vitality,no,Superior,50
+Vitality,no,Anomalous,10
+Vitality,no,Divergent,100
+Viper Strike,no,Superior,50
+Viper Strike,no,Anomalous,100
+Viper Strike,no,Divergent,100
+Viper Strike,no,Phantasmal,10
+Vile Toxins Support,no,Superior,50
+Vile Toxins Support,no,Anomalous,100
+Vile Toxins Support,no,Divergent,100
+Vigilant Strike,no,Superior,50
+Vigilant Strike,no,Anomalous,100
+Vigilant Strike,no,Divergent,50
+Vigilant Strike,no,Phantasmal,100
+Vicious Projectiles Support,no,Superior,50
+Vicious Projectiles Support,no,Anomalous,100
+Vicious Projectiles Support,no,Divergent,100
+Venom Gyre,no,Superior,50
+Venom Gyre,no,Anomalous,100
+Venom Gyre,no,Divergent,10
+Vengeance,no,Superior,50
+Vengeance,no,Anomalous,50
+Vengeance,no,Divergent,100
+Vengeance,no,Phantasmal,20
+Vampiric Link,no,Superior,100
+Vampiric Link,no,Anomalous,50
+Vampiric Link,no,Divergent,50
+Vaal Volcanic Fissure,yes,Superior,50
+Vaal Volcanic Fissure,yes,Anomalous,100
+Vaal Venom Gyre,yes,Superior,50
+Vaal Venom Gyre,yes,Anomalous,100
+Vaal Venom Gyre,yes,Divergent,10
+Vaal Summon Skeletons,yes,Superior,50
+Vaal Summon Skeletons,yes,Anomalous,50
+Vaal Summon Skeletons,yes,Divergent,50
+Vaal Summon Skeletons,yes,Phantasmal,50
+Vaal Storm Call,yes,Superior,50
+Vaal Storm Call,yes,Anomalous,100
+Vaal Storm Call,yes,Divergent,100
+Vaal Storm Call,yes,Phantasmal,20
+Vaal Split Arrow,yes,Superior,50
+Vaal Split Arrow,yes,Anomalous,20
+Vaal Split Arrow,yes,Divergent,100
+Vaal Spectral Throw,yes,Superior,50
+Vaal Spectral Throw,yes,Anomalous,100
+Vaal Spectral Throw,yes,Divergent,20
+Vaal Spark,yes,Superior,50
+Vaal Spark,yes,Anomalous,100
+Vaal Spark,yes,Divergent,100
+Vaal Spark,yes,Phantasmal,100
+Vaal Smite,yes,Superior,50
+Vaal Smite,yes,Anomalous,100
+Vaal Smite,yes,Divergent,100
+Vaal Smite,yes,Phantasmal,20
+Vaal Righteous Fire,yes,Superior,50
+Vaal Righteous Fire,yes,Anomalous,100
+Vaal Righteous Fire,yes,Divergent,100
+Vaal Rejuvenation Totem,yes,Superior,50
+Vaal Rejuvenation Totem,yes,Anomalous,100
+Vaal Rejuvenation Totem,yes,Divergent,100
+Vaal Reave,yes,Superior,50
+Vaal Reave,yes,Anomalous,20
+Vaal Reave,yes,Divergent,100
+Vaal Reave,yes,Phantasmal,10
+Vaal Reap,yes,Superior,100
+Vaal Reap,yes,Anomalous,50
+Vaal Reap,yes,Divergent,50
+Vaal Rain of Arrows,yes,Superior,50
+Vaal Rain of Arrows,yes,Anomalous,50
+Vaal Rain of Arrows,yes,Divergent,20
+Vaal Rain of Arrows,yes,Phantasmal,100
+Vaal Power Siphon,yes,Superior,50
+Vaal Power Siphon,yes,Anomalous,20
+Vaal Power Siphon,yes,Divergent,20
+Vaal Molten Strike,yes,Superior,50
+Vaal Molten Strike,yes,Anomalous,100
+Vaal Molten Strike,yes,Divergent,20
+Vaal Molten Strike,yes,Phantasmal,100
+Vaal Molten Shell,yes,Superior,50
+Vaal Molten Shell,yes,Anomalous,50
+Vaal Molten Shell,yes,Divergent,50
+Vaal Lightning Warp,yes,Superior,50
+Vaal Lightning Warp,yes,Anomalous,100
+Vaal Lightning Warp,yes,Divergent,100
+Vaal Lightning Warp,yes,Phantasmal,100
+Vaal Lightning Trap,yes,Superior,50
+Vaal Lightning Trap,yes,Anomalous,100
+Vaal Lightning Trap,yes,Divergent,10
+Vaal Lightning Strike,yes,Superior,50
+Vaal Lightning Strike,yes,Anomalous,100
+Vaal Lightning Strike,yes,Divergent,100
+Vaal Lightning Strike,yes,Phantasmal,100
+Vaal Lightning Arrow,yes,Superior,50
+Vaal Lightning Arrow,yes,Anomalous,100
+Vaal Lightning Arrow,yes,Divergent,100
+Vaal Lightning Arrow,yes,Phantasmal,10
+Vaal Impurity of Lightning,yes,Superior,50
+Vaal Impurity of Lightning,yes,Anomalous,100
+Vaal Impurity of Lightning,yes,Divergent,10
+Vaal Impurity of Ice,yes,Superior,50
+Vaal Impurity of Ice,yes,Anomalous,100
+Vaal Impurity of Ice,yes,Divergent,10
+Vaal Impurity of Fire,yes,Superior,50
+Vaal Impurity of Fire,yes,Anomalous,100
+Vaal Impurity of Fire,yes,Divergent,10
+Vaal Immortal Call,yes,Superior,50
+Vaal Immortal Call,yes,Anomalous,100
+Vaal Immortal Call,yes,Divergent,10
+Vaal Ice Shot,yes,Superior,50
+Vaal Ice Shot,yes,Anomalous,100
+Vaal Ice Shot,yes,Divergent,100
+Vaal Ice Nova,yes,Superior,50
+Vaal Ice Nova,yes,Anomalous,100
+Vaal Ice Nova,yes,Divergent,100
+Vaal Ice Nova,yes,Phantasmal,100
+Vaal Haste,yes,Superior,50
+Vaal Haste,yes,Anomalous,100
+Vaal Haste,yes,Divergent,100
+Vaal Haste,yes,Phantasmal,10
+Vaal Ground Slam,yes,Superior,50
+Vaal Ground Slam,yes,Anomalous,100
+Vaal Ground Slam,yes,Divergent,50
+Vaal Grace,yes,Superior,50
+Vaal Grace,yes,Anomalous,20
+Vaal Grace,yes,Divergent,100
+Vaal Glacial Hammer,yes,Superior,50
+Vaal Glacial Hammer,yes,Anomalous,100
+Vaal Glacial Hammer,yes,Divergent,100
+Vaal Flicker Strike,yes,Superior,50
+Vaal Flicker Strike,yes,Anomalous,100
+Vaal Flicker Strike,yes,Divergent,100
+Vaal Flesh Offering,yes,Superior,50
+Vaal Flesh Offering,yes,Anomalous,20
+Vaal Flesh Offering,yes,Divergent,100
+Vaal Flameblast,yes,Superior,50
+Vaal Flameblast,yes,Anomalous,10
+Vaal Flameblast,yes,Divergent,20
+Vaal Flameblast,yes,Phantasmal,50
+Vaal Firestorm,yes,Superior,100
+Vaal Firestorm,yes,Anomalous,50
+Vaal Firestorm,yes,Divergent,20
+Vaal Fireball,yes,Superior,50
+Vaal Fireball,yes,Anomalous,100
+Vaal Fireball,yes,Divergent,40
+Vaal Fireball,yes,Phantasmal,10
+Vaal Earthquake,yes,Superior,50
+Vaal Earthquake,yes,Anomalous,100
+Vaal Earthquake,yes,Divergent,100
+Vaal Earthquake,yes,Phantasmal,5
+Vaal Double Strike,yes,Superior,50
+Vaal Double Strike,yes,Anomalous,100
+Vaal Double Strike,yes,Divergent,100
+Vaal Domination,yes,Superior,50
+Vaal Domination,yes,Anomalous,100
+Vaal Domination,yes,Divergent,50
+Vaal Domination,yes,Phantasmal,10
+Vaal Discipline,yes,Superior,50
+Vaal Discipline,yes,Anomalous,100
+Vaal Discipline,yes,Divergent,20
+Vaal Detonate Dead,yes,Superior,50
+Vaal Detonate Dead,yes,Anomalous,10
+Vaal Detonate Dead,yes,Divergent,20
+Vaal Cyclone,yes,Superior,50
+Vaal Cyclone,yes,Anomalous,100
+Vaal Cyclone,yes,Divergent,100
+Vaal Cyclone,yes,Phantasmal,100
+Vaal Cold Snap,yes,Superior,50
+Vaal Cold Snap,yes,Anomalous,100
+Vaal Cold Snap,yes,Divergent,100
+Vaal Cleave,yes,Superior,50
+Vaal Cleave,yes,Anomalous,20
+Vaal Cleave,yes,Divergent,50
+Vaal Cleave,yes,Phantasmal,50
+Vaal Clarity,yes,Superior,50
+Vaal Clarity,yes,Anomalous,100
+Vaal Clarity,yes,Divergent,100
+Vaal Caustic Arrow,yes,Superior,50
+Vaal Caustic Arrow,yes,Anomalous,100
+Vaal Caustic Arrow,yes,Divergent,100
+Vaal Burning Arrow,yes,Superior,50
+Vaal Burning Arrow,yes,Anomalous,100
+Vaal Burning Arrow,yes,Divergent,100
+Vaal Blight,yes,Superior,50
+Vaal Blight,yes,Anomalous,100
+Vaal Blight,yes,Divergent,100
+Vaal Blade Vortex,yes,Superior,50
+Vaal Blade Vortex,yes,Anomalous,10
+Vaal Blade Vortex,yes,Divergent,100
+Vaal Blade Vortex,yes,Phantasmal,100
+Vaal Blade Flurry,yes,Superior,50
+Vaal Blade Flurry,yes,Anomalous,100
+Vaal Blade Flurry,yes,Divergent,50
+Vaal Arctic Armour,yes,Superior,50
+Vaal Arctic Armour,yes,Anomalous,100
+Vaal Arctic Armour,yes,Divergent,10
+Vaal Arc,yes,Superior,50
+Vaal Arc,yes,Anomalous,100
+Vaal Arc,yes,Divergent,50
+Vaal Arc,yes,Phantasmal,20
+Vaal Animate Weapon,yes,Superior,50
+Vaal Animate Weapon,yes,Anomalous,100
+Vaal Animate Weapon,yes,Divergent,50
+Vaal Animate Weapon,yes,Phantasmal,20
+Vaal Ancestral Warchief,yes,Superior,50
+Vaal Ancestral Warchief,yes,Anomalous,100
+Vaal Ancestral Warchief,yes,Divergent,20
+Vaal Ancestral Warchief,yes,Phantasmal,100
+Vaal Absolution,yes,Superior,100
+Vaal Absolution,yes,Anomalous,50
+Vaal Absolution,yes,Divergent,50
+Urgent Orders Support,no,Superior,50
+Urgent Orders Support,no,Anomalous,100
+Urgent Orders Support,no,Divergent,5
+Unleash Support,no,Superior,50
+Unleash Support,no,Anomalous,50
+Unleash Support,no,Divergent,10
+Unearth,no,Superior,50
+Unearth,no,Anomalous,100
+Unearth,no,Divergent,100
+Unearth,no,Phantasmal,20
+Unbound Ailments Support,no,Superior,50
+Unbound Ailments Support,no,Anomalous,100
+Unbound Ailments Support,no,Divergent,100
+Trinity Support,no,Superior,100
+Trinity Support,no,Anomalous,50
+Trinity Support,no,Divergent,20
+Trap Support,no,Superior,50
+Trap Support,no,Anomalous,100
+Trap Support,no,Divergent,100
+Trap and Mine Damage Support,no,Superior,50
+Trap and Mine Damage Support,no,Anomalous,100
+Trap and Mine Damage Support,no,Divergent,10
+Toxic Rain,no,Superior,50
+Toxic Rain,no,Anomalous,100
+Toxic Rain,no,Divergent,100
+Toxic Rain,no,Phantasmal,20
+Tornado Shot,no,Superior,50
+Tornado Shot,no,Anomalous,20
+Tornado Shot,no,Divergent,100
+Tornado,no,Superior,100
+Tornado,no,Anomalous,50
+Tornado,no,Divergent,50
+Temporal Rift,no,Superior,100
+Temporal Rift,no,Anomalous,50
+Temporal Rift,no,Divergent,50
+Temporal Chains,no,Superior,50
+Temporal Chains,no,Anomalous,100
+Temporal Chains,no,Divergent,100
+Tempest Shield,no,Superior,50
+Tempest Shield,no,Anomalous,100
+Tempest Shield,no,Divergent,10
+Tectonic Slam,no,Superior,50
+Tectonic Slam,no,Anomalous,100
+Tectonic Slam,no,Divergent,20
+Tectonic Slam,no,Phantasmal,100
+Swiftbrand Support,no,Superior,50
+Swiftbrand Support,no,Anomalous,50
+Swiftbrand Support,no,Divergent,100
+Swift Assembly Support,no,Superior,100
+Swift Assembly Support,no,Anomalous,50
+Swift Assembly Support,no,Divergent,20
+Swift Affliction Support,no,Superior,50
+Swift Affliction Support,no,Anomalous,100
+Swift Affliction Support,no,Divergent,10
+Sweep,no,Superior,50
+Sweep,no,Anomalous,100
+Sweep,no,Divergent,100
+Sweep,no,Phantasmal,20
+Sunder,no,Superior,50
+Sunder,no,Anomalous,100
+Sunder,no,Divergent,100
+Sunder,no,Phantasmal,50
+Summon Stone Golem,no,Superior,50
+Summon Stone Golem,no,Anomalous,100
+Summon Stone Golem,no,Divergent,100
+Summon Skitterbots,no,Superior,50
+Summon Skitterbots,no,Anomalous,100
+Summon Skitterbots,no,Divergent,10
+Summon Skeletons,no,Superior,50
+Summon Skeletons,no,Anomalous,50
+Summon Skeletons,no,Divergent,50
+Summon Skeletons,no,Phantasmal,50
+Summon Reaper,no,Superior,50
+Summon Reaper,no,Anomalous,50
+Summon Reaper,no,Divergent,100
+Summon Raging Spirit,no,Superior,50
+Summon Raging Spirit,no,Anomalous,100
+Summon Raging Spirit,no,Divergent,50
+Summon Raging Spirit,no,Phantasmal,20
+Summon Phantasm Support,no,Superior,50
+Summon Phantasm Support,no,Anomalous,100
+Summon Phantasm Support,no,Divergent,100
+Summon Lightning Golem,no,Superior,50
+Summon Lightning Golem,no,Anomalous,100
+Summon Lightning Golem,no,Divergent,100
+Summon Ice Golem,no,Superior,50
+Summon Ice Golem,no,Anomalous,100
+Summon Ice Golem,no,Divergent,100
+Summon Holy Relic,no,Superior,50
+Summon Holy Relic,no,Anomalous,100
+Summon Holy Relic,no,Divergent,50
+Summon Flame Golem,no,Superior,50
+Summon Flame Golem,no,Anomalous,100
+Summon Flame Golem,no,Divergent,100
+Summon Chaos Golem,no,Superior,50
+Summon Chaos Golem,no,Anomalous,100
+Summon Chaos Golem,no,Divergent,100
+Summon Carrion Golem,no,Superior,50
+Summon Carrion Golem,no,Anomalous,100
+Summon Carrion Golem,no,Divergent,100
+Stun Support,no,Superior,50
+Stun Support,no,Anomalous,100
+Stun Support,no,Divergent,10
+Stormblast Mine,no,Superior,50
+Stormblast Mine,no,Anomalous,100
+Stormblast Mine,no,Divergent,100
+Stormblast Mine,no,Phantasmal,100
+Stormbind,no,Superior,50
+Stormbind,no,Anomalous,100
+Stormbind,no,Divergent,100
+Stormbind,no,Phantasmal,100
+Storm Rain,no,Superior,50
+Storm Rain,no,Anomalous,50
+Storm Rain,no,Divergent,50
+Storm Call,no,Superior,50
+Storm Call,no,Anomalous,100
+Storm Call,no,Divergent,100
+Storm Call,no,Phantasmal,20
+Storm Burst,no,Superior,50
+Storm Burst,no,Anomalous,100
+Storm Burst,no,Divergent,20
+Storm Brand,no,Superior,50
+Storm Brand,no,Anomalous,100
+Storm Brand,no,Divergent,100
+Storm Brand,no,Phantasmal,100
+Steelskin,no,Superior,50
+Steelskin,no,Anomalous,100
+Steelskin,no,Divergent,100
+Static Strike,no,Superior,50
+Static Strike,no,Anomalous,100
+Static Strike,no,Divergent,5
+Static Strike,no,Phantasmal,50
+Splitting Steel,no,Superior,50
+Splitting Steel,no,Anomalous,20
+Splitting Steel,no,Divergent,100
+Splitting Steel,no,Phantasmal,50
+Split Arrow,no,Superior,50
+Split Arrow,no,Anomalous,20
+Split Arrow,no,Divergent,100
+Spirit Offering,no,Superior,50
+Spirit Offering,no,Anomalous,100
+Spirit Offering,no,Divergent,100
+Spellslinger,no,Superior,50
+Spellslinger,no,Anomalous,100
+Spellslinger,no,Divergent,20
+Spell Totem Support,no,Superior,50
+Spell Totem Support,no,Anomalous,100
+Spell Totem Support,no,Divergent,100
+Spell Echo Support,no,Superior,50
+Spell Echo Support,no,Anomalous,100
+Spell Echo Support,no,Divergent,20
+Spell Cascade Support,no,Superior,50
+Spell Cascade Support,no,Anomalous,100
+Spell Cascade Support,no,Divergent,20
+Spectral Throw,no,Superior,50
+Spectral Throw,no,Anomalous,100
+Spectral Throw,no,Divergent,20
+Spectral Shield Throw,no,Superior,50
+Spectral Shield Throw,no,Anomalous,100
+Spectral Shield Throw,no,Divergent,100
+Spectral Shield Throw,no,Phantasmal,20
+Spectral Helix,no,Superior,100
+Spectral Helix,no,Anomalous,50
+Spectral Helix,no,Divergent,50
+Spark,no,Superior,50
+Spark,no,Anomalous,100
+Spark,no,Divergent,100
+Spark,no,Phantasmal,100
+Soulrend,no,Superior,50
+Soulrend,no,Anomalous,100
+Soulrend,no,Divergent,100
+Soulrend,no,Phantasmal,20
+Soul Link,no,Superior,100
+Soul Link,no,Anomalous,50
+Soul Link,no,Divergent,50
+Sniper's Mark,no,Superior,50
+Sniper's Mark,no,Anomalous,100
+Sniper's Mark,no,Divergent,100
+Snipe,no,Superior,100
+Snipe,no,Anomalous,50
+Snipe,no,Divergent,50
+Smoke Mine,no,Superior,50
+Smoke Mine,no,Anomalous,100
+Smoke Mine,no,Divergent,20
+Smite,no,Superior,50
+Smite,no,Anomalous,100
+Smite,no,Divergent,100
+Smite,no,Phantasmal,20
+Slower Projectiles Support,no,Superior,50
+Slower Projectiles Support,no,Anomalous,100
+Slower Projectiles Support,no,Divergent,20
+Siphoning Trap,no,Superior,50
+Siphoning Trap,no,Anomalous,100
+Siphoning Trap,no,Divergent,100
+Siphoning Trap,no,Phantasmal,10
+Sigil of Power,no,Superior,50
+Sigil of Power,no,Anomalous,20
+Sigil of Power,no,Divergent,100
+Sigil of Power,no,Phantasmal,50
+Siege Ballista,no,Superior,50
+Siege Ballista,no,Anomalous,100
+Siege Ballista,no,Divergent,100
+Siege Ballista,no,Phantasmal,100
+Shrapnel Ballista,no,Superior,50
+Shrapnel Ballista,no,Anomalous,5
+Shrapnel Ballista,no,Divergent,20
+Shrapnel Ballista,no,Phantasmal,100
+Shockwave Totem,no,Superior,50
+Shockwave Totem,no,Anomalous,100
+Shockwave Totem,no,Divergent,20
+Shockwave Totem,no,Phantasmal,100
+Shockwave Support,no,Superior,50
+Shockwave Support,no,Anomalous,100
+Shockwave Support,no,Divergent,100
+Shock Nova,no,Superior,50
+Shock Nova,no,Anomalous,50
+Shock Nova,no,Divergent,100
+Shield Crush,no,Superior,50
+Shield Crush,no,Anomalous,100
+Shield Crush,no,Divergent,20
+Shield Charge,no,Superior,50
+Shield Charge,no,Anomalous,100
+Shield Charge,no,Divergent,100
+Shattering Steel,no,Superior,50
+Shattering Steel,no,Anomalous,100
+Shattering Steel,no,Divergent,10
+Shattering Steel,no,Phantasmal,100
+Seismic Trap,no,Superior,50
+Seismic Trap,no,Anomalous,100
+Seismic Trap,no,Divergent,100
+Seismic Trap,no,Phantasmal,100
+Seismic Cry,no,Superior,50
+Seismic Cry,no,Anomalous,100
+Seismic Cry,no,Divergent,20
+Seismic Cry,no,Phantasmal,100
+Second Wind Support,no,Superior,50
+Second Wind Support,no,Anomalous,20
+Second Wind Support,no,Divergent,10
+Searing Bond,no,Superior,50
+Searing Bond,no,Anomalous,100
+Searing Bond,no,Divergent,100
+Searing Bond,no,Phantasmal,50
+Scourge Arrow,no,Superior,50
+Scourge Arrow,no,Anomalous,20
+Scourge Arrow,no,Divergent,100
+Scourge Arrow,no,Phantasmal,100
+Scorching Ray,no,Superior,50
+Scorching Ray,no,Anomalous,100
+Scorching Ray,no,Divergent,50
+Ruthless Support,no,Superior,50
+Ruthless Support,no,Anomalous,100
+Ruthless Support,no,Divergent,100
+Rolling Magma,no,Superior,50
+Rolling Magma,no,Anomalous,100
+Rolling Magma,no,Divergent,50
+Rolling Magma,no,Phantasmal,20
+Riposte,no,Superior,50
+Riposte,no,Anomalous,50
+Riposte,no,Divergent,20
+Righteous Fire,no,Superior,50
+Righteous Fire,no,Anomalous,100
+Righteous Fire,no,Divergent,100
+Rejuvenation Totem,no,Superior,50
+Rejuvenation Totem,no,Anomalous,100
+Rejuvenation Totem,no,Divergent,100
+Reckoning,no,Superior,50
+Reckoning,no,Anomalous,20
+Reckoning,no,Divergent,50
+Reckoning,no,Phantasmal,100
+Reave,no,Superior,50
+Reave,no,Anomalous,20
+Reave,no,Divergent,100
+Reave,no,Phantasmal,10
+Reap,no,Superior,100
+Reap,no,Anomalous,50
+Reap,no,Divergent,50
+Rallying Cry,no,Superior,50
+Rallying Cry,no,Anomalous,100
+Rallying Cry,no,Divergent,10
+Rallying Cry,no,Phantasmal,50
+Raise Zombie,no,Superior,50
+Raise Zombie,no,Anomalous,100
+Raise Zombie,no,Divergent,100
+Raise Zombie,no,Phantasmal,10
+Raise Spectre,no,Superior,50
+Raise Spectre,no,Anomalous,100
+Raise Spectre,no,Divergent,100
+Raise Spectre,no,Phantasmal,20
+Rain of Arrows,no,Superior,50
+Rain of Arrows,no,Anomalous,50
+Rain of Arrows,no,Divergent,20
+Rain of Arrows,no,Phantasmal,100
+Rage Vortex,no,Superior,50
+Rage Vortex,no,Anomalous,50
+Rage Vortex,no,Divergent,50
+Rage Support,no,Superior,50
+Rage Support,no,Anomalous,100
+Rage Support,no,Divergent,5
+Pyroclast Mine,no,Superior,50
+Pyroclast Mine,no,Anomalous,100
+Pyroclast Mine,no,Divergent,100
+Pyroclast Mine,no,Phantasmal,100
+Purity of Lightning,no,Superior,50
+Purity of Lightning,no,Anomalous,100
+Purity of Lightning,no,Divergent,10
+Purity of Ice,no,Superior,50
+Purity of Ice,no,Anomalous,100
+Purity of Ice,no,Divergent,10
+Purity of Fire,no,Superior,50
+Purity of Fire,no,Anomalous,100
+Purity of Fire,no,Divergent,10
+Purity of Elements,no,Superior,50
+Purity of Elements,no,Anomalous,100
+Purity of Elements,no,Divergent,5
+Purifying Flame,no,Superior,50
+Purifying Flame,no,Anomalous,20
+Purifying Flame,no,Divergent,100
+Purifying Flame,no,Phantasmal,20
+Punishment,no,Superior,50
+Punishment,no,Anomalous,100
+Punishment,no,Divergent,100
+Puncture,no,Superior,50
+Puncture,no,Anomalous,20
+Puncture,no,Divergent,20
+Puncture,no,Phantasmal,50
+Pulverise Support,no,Superior,50
+Pulverise Support,no,Anomalous,100
+Pulverise Support,no,Divergent,20
+Protective Link,no,Superior,100
+Protective Link,no,Anomalous,50
+Protective Link,no,Divergent,50
+Prismatic Burst Support,no,Superior,100
+Prismatic Burst Support,no,Anomalous,50
+Prismatic Burst Support,no,Divergent,50
+Prismatic Burst Support,no,Phantasmal,50
+Pride,no,Superior,50
+Pride,no,Anomalous,50
+Pride,no,Divergent,100
+Predator Support,no,Superior,50
+Predator Support,no,Divergent,100
+Predator Support,no,Anomalous,100
+Precision,no,Superior,50
+Precision,no,Anomalous,10
+Precision,no,Divergent,100
+Power Siphon,no,Superior,50
+Power Siphon,no,Anomalous,20
+Power Siphon,no,Divergent,20
+Power Charge On Critical Support,no,Superior,50
+Power Charge On Critical Support,no,Anomalous,100
+Power Charge On Critical Support,no,Divergent,10
+Poisonous Concoction,no,Superior,100
+Poisonous Concoction,no,Anomalous,50
+Poisonous Concoction,no,Divergent,50
+Point Blank Support,no,Superior,50
+Point Blank Support,no,Anomalous,100
+Point Blank Support,no,Divergent,5
+Poacher's Mark,no,Superior,50
+Poacher's Mark,no,Anomalous,100
+Poacher's Mark,no,Divergent,100
+Plague Bearer,no,Superior,50
+Plague Bearer,no,Anomalous,100
+Plague Bearer,no,Divergent,10
+Pinpoint Support,no,Superior,50
+Pinpoint Support,no,Anomalous,100
+Pinpoint Support,no,Divergent,100
+Pierce Support,no,Superior,50
+Pierce Support,no,Anomalous,100
+Pierce Support,no,Divergent,100
+Physical to Lightning Support,no,Superior,50
+Physical to Lightning Support,no,Anomalous,100
+Physical to Lightning Support,no,Divergent,20
+Phase Run,no,Superior,50
+Phase Run,no,Anomalous,100
+Phase Run,no,Divergent,50
+Petrified Blood,no,Superior,100
+Petrified Blood,no,Anomalous,50
+Petrified Blood,no,Divergent,50
+Pestilent Strike,no,Superior,50
+Pestilent Strike,no,Anomalous,100
+Pestilent Strike,no,Divergent,100
+Pestilent Strike,no,Phantasmal,100
+Perforate,no,Superior,50
+Perforate,no,Anomalous,100
+Perforate,no,Divergent,100
+Perforate,no,Phantasmal,10
+Penance Brand,no,Superior,50
+Penance Brand,no,Anomalous,100
+Penance Brand,no,Divergent,100
+Overcharge Support,no,Superior,100
+Overcharge Support,no,Anomalous,50
+Overcharge Support,no,Divergent,50
+Orb of Storms,no,Superior,50
+Orb of Storms,no,Anomalous,50
+Orb of Storms,no,Divergent,100
+Nightblade Support,no,Superior,50
+Nightblade Support,no,Anomalous,20
+Nightblade Support,no,Divergent,100
+Multistrike Support,no,Superior,50
+Multistrike Support,no,Anomalous,50
+Multistrike Support,no,Divergent,100
+Multiple Traps Support,no,Superior,50
+Multiple Traps Support,no,Anomalous,20
+Multiple Traps Support,no,Divergent,50
+Multiple Totems Support,no,Superior,50
+Multiple Totems Support,no,Anomalous,100
+Multiple Totems Support,no,Divergent,100
+Momentum Support,no,Superior,100
+Momentum Support,no,Anomalous,50
+Momentum Support,no,Divergent,50
+Molten Strike,no,Superior,50
+Molten Strike,no,Anomalous,100
+Molten Strike,no,Divergent,20
+Molten Strike,no,Phantasmal,100
+Molten Shell,no,Superior,50
+Molten Shell,no,Anomalous,50
+Molten Shell,no,Divergent,50
+Mirror Arrow,no,Superior,50
+Mirror Arrow,no,Anomalous,100
+Mirror Arrow,no,Divergent,100
+Mirror Arrow,no,Phantasmal,20
+Mirage Archer Support,no,Superior,50
+Mirage Archer Support,no,Anomalous,10
+Mirage Archer Support,no,Divergent,50
+Minion Speed Support,no,Superior,50
+Minion Speed Support,no,Anomalous,100
+Minion Speed Support,no,Divergent,20
+Minion Life Support,no,Superior,50
+Minion Life Support,no,Anomalous,20
+Minion Life Support,no,Divergent,100
+Minion Damage Support,no,Superior,50
+Minion Damage Support,no,Anomalous,100
+Minion Damage Support,no,Divergent,20
+Minefield Support,no,Superior,50
+Minefield Support,no,Anomalous,20
+Minefield Support,no,Divergent,5
+Melee Splash Support,no,Superior,50
+Melee Splash Support,no,Anomalous,100
+Melee Splash Support,no,Divergent,50
+Melee Physical Damage Support,no,Superior,50
+Melee Physical Damage Support,no,Anomalous,10
+Melee Physical Damage Support,no,Divergent,50
+Meat Shield Support,no,Superior,50
+Meat Shield Support,no,Anomalous,100
+Meat Shield Support,no,Divergent,20
+Mark On Hit Support,no,Superior,100
+Mark On Hit Support,no,Anomalous,50
+Mark On Hit Support,no,Divergent,50
+Manaforged Arrows Support,no,Superior,100
+Manaforged Arrows Support,no,Anomalous,50
+Manaforged Arrows Support,no,Divergent,10
+Manabond,no,Superior,100
+Manabond,no,Anomalous,50
+Manabond,no,Divergent,50
+Mana Leech Support,no,Superior,50
+Mana Leech Support,no,Anomalous,5
+Mana Leech Support,no,Divergent,20
+Malevolence,no,Superior,50
+Malevolence,no,Anomalous,5
+Malevolence,no,Divergent,100
+Maim Support,no,Superior,50
+Maim Support,no,Anomalous,100
+Maim Support,no,Divergent,100
+Lightning Warp,no,Superior,50
+Lightning Warp,no,Anomalous,100
+Lightning Warp,no,Divergent,100
+Lightning Warp,no,Phantasmal,100
+Lightning Trap,no,Superior,50
+Lightning Trap,no,Anomalous,100
+Lightning Trap,no,Divergent,10
+Lightning Tendrils,no,Superior,50
+Lightning Tendrils,no,Anomalous,100
+Lightning Tendrils,no,Divergent,100
+Lightning Tendrils,no,Phantasmal,50
+Lightning Strike,no,Superior,50
+Lightning Strike,no,Anomalous,100
+Lightning Strike,no,Divergent,100
+Lightning Strike,no,Phantasmal,100
+Lightning Spire Trap,no,Superior,50
+Lightning Spire Trap,no,Anomalous,100
+Lightning Spire Trap,no,Divergent,100
+Lightning Penetration Support,no,Superior,50
+Lightning Penetration Support,no,Anomalous,100
+Lightning Penetration Support,no,Divergent,100
+Lightning Conduit,no,Superior,50
+Lightning Conduit,no,Anomalous,50
+Lightning Conduit,no,Divergent,10
+Lightning Arrow,no,Superior,50
+Lightning Arrow,no,Anomalous,100
+Lightning Arrow,no,Divergent,100
+Lightning Arrow,no,Phantasmal,10
+Lifetap Support,no,Superior,100
+Lifetap Support,no,Anomalous,50
+Lifetap Support,no,Divergent,50
+Life Leech Support,no,Superior,50
+Life Leech Support,no,Anomalous,100
+Life Leech Support,no,Divergent,50
+Life Gain on Hit Support,no,Superior,50
+Life Gain on Hit Support,no,Anomalous,100
+Life Gain on Hit Support,no,Divergent,10
+Lesser Multiple Projectiles Support,no,Superior,50
+Lesser Multiple Projectiles Support,no,Anomalous,100
+Lesser Multiple Projectiles Support,no,Divergent,50
+Less Duration Support,no,Superior,50
+Less Duration Support,no,Anomalous,100
+Less Duration Support,no,Divergent,20
+Leap Slam,no,Superior,50
+Leap Slam,no,Anomalous,100
+Leap Slam,no,Divergent,100
+Leap Slam,no,Phantasmal,20
+Lancing Steel,no,Superior,50
+Lancing Steel,no,Anomalous,100
+Lancing Steel,no,Divergent,100
+Lancing Steel,no,Phantasmal,100
+Lacerate,no,Superior,50
+Lacerate,no,Anomalous,100
+Lacerate,no,Divergent,100
+Knockback Support,no,Superior,50
+Knockback Support,no,Anomalous,100
+Knockback Support,no,Divergent,100
+Kinetic Bolt,no,Superior,50
+Kinetic Bolt,no,Anomalous,5
+Kinetic Bolt,no,Divergent,50
+Kinetic Blast,no,Superior,50
+Kinetic Blast,no,Anomalous,10
+Kinetic Blast,no,Divergent,100
+Iron Will Support,no,Superior,50
+Iron Will Support,no,Anomalous,100
+Iron Will Support,no,Divergent,100
+Iron Grip Support,no,Superior,50
+Iron Grip Support,no,Anomalous,100
+Iron Grip Support,no,Divergent,100
+Intuitive Link,no,Superior,100
+Intuitive Link,no,Anomalous,50
+Intuitive Link,no,Divergent,50
+Intimidating Cry,no,Superior,50
+Intimidating Cry,no,Anomalous,100
+Intimidating Cry,no,Divergent,100
+Intimidating Cry,no,Phantasmal,100
+Intensify Support,no,Superior,50
+Intensify Support,no,Anomalous,100
+Intensify Support,no,Divergent,50
+Intensify Support,no,Phantasmal,50
+Inspiration Support,no,Superior,50
+Inspiration Support,no,Anomalous,100
+Inspiration Support,no,Divergent,100
+Innervate Support,no,Superior,50
+Innervate Support,no,Anomalous,100
+Innervate Support,no,Divergent,10
+Infused Channelling Support,no,Superior,50
+Infused Channelling Support,no,Anomalous,100
+Infused Channelling Support,no,Divergent,20
+Infernal Legion Support,no,Superior,50
+Infernal Legion Support,no,Anomalous,100
+Infernal Legion Support,no,Divergent,100
+Infernal Cry,no,Superior,50
+Infernal Cry,no,Anomalous,100
+Infernal Cry,no,Divergent,50
+Infernal Cry,no,Phantasmal,10
+Infernal Blow,no,Superior,50
+Infernal Blow,no,Anomalous,20
+Infernal Blow,no,Divergent,100
+Infernal Blow,no,Phantasmal,100
+Increased Duration Support,no,Superior,50
+Increased Duration Support,no,Anomalous,20
+Increased Duration Support,no,Divergent,50
+Increased Critical Strikes Support,no,Superior,50
+Increased Critical Strikes Support,no,Anomalous,100
+Increased Critical Strikes Support,no,Divergent,20
+Increased Critical Damage Support,no,Superior,50
+Increased Critical Damage Support,no,Anomalous,100
+Increased Critical Damage Support,no,Divergent,100
+Increased Area of Effect Support,no,Superior,100
+Increased Area of Effect Support,no,Anomalous,50
+Increased Area of Effect Support,no,Divergent,50
+Incinerate,no,Superior,50
+Incinerate,no,Anomalous,100
+Incinerate,no,Divergent,20
+Impending Doom Support,no,Anomalous,100
+Impending Doom Support,no,Superior,50
+Impending Doom Support,no,Divergent,20
+Impale Support,no,Superior,50
+Impale Support,no,Anomalous,100
+Impale Support,no,Divergent,20
+Immortal Call,no,Superior,50
+Immortal Call,no,Anomalous,100
+Immortal Call,no,Divergent,10
+Immolate Support,no,Superior,50
+Immolate Support,no,Anomalous,100
+Immolate Support,no,Divergent,100
+Ignite Proliferation Support,no,Superior,50
+Ignite Proliferation Support,no,Anomalous,100
+Ignite Proliferation Support,no,Divergent,100
+Icicle Mine,no,Superior,50
+Icicle Mine,no,Anomalous,100
+Icicle Mine,no,Divergent,100
+Ice Trap,no,Superior,50
+Ice Trap,no,Anomalous,100
+Ice Trap,no,Divergent,100
+Ice Spear,no,Superior,50
+Ice Spear,no,Anomalous,20
+Ice Spear,no,Divergent,100
+Ice Spear,no,Phantasmal,50
+Ice Shot,no,Superior,50
+Ice Shot,no,Anomalous,100
+Ice Shot,no,Divergent,100
+Ice Nova,no,Superior,50
+Ice Nova,no,Anomalous,100
+Ice Nova,no,Divergent,100
+Ice Nova,no,Phantasmal,100
+Ice Crash,no,Superior,50
+Ice Crash,no,Anomalous,100
+Ice Crash,no,Divergent,100
+Ice Crash,no,Phantasmal,50
+Ice Bite Support,no,Superior,50
+Ice Bite Support,no,Anomalous,100
+Ice Bite Support,no,Divergent,100
+Hypothermia Support,no,Superior,50
+Hypothermia Support,no,Anomalous,100
+Hypothermia Support,no,Divergent,100
+Hydrosphere,no,Superior,50
+Hydrosphere,no,Anomalous,100
+Hydrosphere,no,Divergent,100
+Holy Flame Totem,no,Superior,50
+Holy Flame Totem,no,Anomalous,20
+Holy Flame Totem,no,Divergent,100
+Holy Flame Totem,no,Phantasmal,100
+High-Impact Mine Support,no,Superior,50
+High-Impact Mine Support,no,Anomalous,50
+High-Impact Mine Support,no,Divergent,100
+Hextouch Support,no,Anomalous,100
+Hextouch Support,no,Superior,50
+Hextouch Support,no,Divergent,100
+Hexblast,no,Superior,50
+Hexblast,no,Anomalous,100
+Hexblast,no,Divergent,100
+Hexblast,no,Phantasmal,10
+Hex Bloom Support,no,Superior,100
+Hex Bloom Support,no,Anomalous,50
+Hex Bloom Support,no,Divergent,50
+Herald of Thunder,no,Superior,50
+Herald of Thunder,no,Anomalous,100
+Herald of Thunder,no,Divergent,20
+Herald of Purity,no,Superior,50
+Herald of Purity,no,Anomalous,100
+Herald of Purity,no,Divergent,50
+Herald of Ice,no,Superior,50
+Herald of Ice,no,Anomalous,100
+Herald of Ice,no,Divergent,100
+Herald of Ash,no,Superior,50
+Herald of Ash,no,Anomalous,100
+Herald of Ash,no,Divergent,100
+Herald of Agony,no,Superior,50
+Herald of Agony,no,Anomalous,50
+Herald of Agony,no,Divergent,100
+Heavy Strike,no,Superior,50
+Heavy Strike,no,Anomalous,50
+Heavy Strike,no,Divergent,10
+Hatred,no,Superior,50
+Hatred,no,Anomalous,100
+Hatred,no,Divergent,20
+Haste,no,Superior,50
+Haste,no,Anomalous,100
+Haste,no,Divergent,100
+Haste,no,Phantasmal,10
+Ground Slam,no,Superior,50
+Ground Slam,no,Anomalous,100
+Ground Slam,no,Divergent,50
+Greater Volley Support,no,Superior,50
+Greater Volley Support,no,Anomalous,100
+Greater Volley Support,no,Divergent,100
+Greater Multiple Projectiles Support,no,Superior,50
+Greater Multiple Projectiles Support,no,Anomalous,100
+Greater Multiple Projectiles Support,no,Divergent,50
+Grace,no,Superior,50
+Grace,no,Anomalous,20
+Grace,no,Divergent,100
+Glacial Hammer,no,Superior,50
+Glacial Hammer,no,Anomalous,100
+Glacial Hammer,no,Divergent,100
+Glacial Cascade,no,Superior,50
+Glacial Cascade,no,Anomalous,100
+Glacial Cascade,no,Divergent,20
+Generosity Support,no,Superior,50
+Generosity Support,no,Anomalous,10
+Generosity Support,no,Divergent,50
+General's Cry,no,Superior,50
+General's Cry,no,Anomalous,100
+General's Cry,no,Divergent,50
+Galvanic Field,no,Superior,50
+Galvanic Field,no,Anomalous,50
+Galvanic Field,no,Divergent,10
+Galvanic Field,no,Phantasmal,20
+Galvanic Arrow,no,Superior,50
+Galvanic Arrow,no,Anomalous,100
+Galvanic Arrow,no,Divergent,20
+Frozen Legion,no,Anomalous,50
+Frozen Legion,no,Divergent,50
+Frozen Legion,no,Superior,50
+Frostbolt,no,Superior,50
+Frostbolt,no,Anomalous,10
+Frostbolt,no,Divergent,100
+Frostbolt,no,Phantasmal,20
+Frostblink,no,Superior,50
+Frostblink,no,Anomalous,100
+Frostblink,no,Divergent,100
+Frostbite,no,Superior,50
+Frostbite,no,Anomalous,100
+Frostbite,no,Divergent,100
+Frost Wall,no,Superior,50
+Frost Wall,no,Anomalous,100
+Frost Wall,no,Divergent,100
+Frost Shield,no,Superior,50
+Frost Shield,no,Anomalous,100
+Frost Shield,no,Divergent,50
+Frost Shield,no,Phantasmal,20
+Frost Bomb,no,Superior,50
+Frost Bomb,no,Anomalous,100
+Frost Bomb,no,Divergent,100
+Frost Bomb,no,Phantasmal,50
+Frost Blades,no,Superior,50
+Frost Blades,no,Anomalous,20
+Frost Blades,no,Divergent,100
+Frenzy,no,Superior,50
+Frenzy,no,Anomalous,100
+Frenzy,no,Divergent,20
+Frenzy,no,Phantasmal,50
+Freezing Pulse,no,Superior,50
+Freezing Pulse,no,Anomalous,50
+Freezing Pulse,no,Divergent,20
+Fortify Support,no,Superior,100
+Fortify Support,no,Anomalous,50
+Fortify Support,no,Divergent,50
+Fork Support,no,Superior,50
+Fork Support,no,Anomalous,100
+Fork Support,no,Divergent,10
+Forbidden Rite,no,Superior,100
+Forbidden Rite,no,Anomalous,50
+Forbidden Rite,no,Divergent,50
+Focused Ballista Support,no,Superior,100
+Focused Ballista Support,no,Anomalous,50
+Focused Ballista Support,no,Divergent,50
+Flicker Strike,no,Superior,50
+Flicker Strike,no,Anomalous,100
+Flicker Strike,no,Divergent,100
+Flesh Offering,no,Superior,50
+Flesh Offering,no,Anomalous,20
+Flesh Offering,no,Divergent,100
+Flesh and Stone,no,Superior,50
+Flesh and Stone,no,Anomalous,100
+Flesh and Stone,no,Divergent,100
+Flammability,no,Superior,50
+Flammability,no,Anomalous,100
+Flammability,no,Divergent,100
+Flamethrower Trap,no,Superior,50
+Flamethrower Trap,no,Anomalous,100
+Flamethrower Trap,no,Divergent,100
+Flameblast,no,Superior,50
+Flameblast,no,Anomalous,10
+Flameblast,no,Divergent,20
+Flameblast,no,Phantasmal,50
+Flame Wall,no,Superior,50
+Flame Wall,no,Anomalous,100
+Flame Wall,no,Divergent,100
+Flame Wall,no,Phantasmal,10
+Flame Surge,no,Superior,50
+Flame Surge,no,Anomalous,10
+Flame Surge,no,Divergent,100
+Flame Link,no,Superior,100
+Flame Link,no,Anomalous,50
+Flame Link,no,Divergent,50
+Flame Dash,no,Superior,50
+Flame Dash,no,Anomalous,100
+Flame Dash,no,Divergent,50
+Fist of War Support,no,Superior,50
+Fist of War Support,no,Anomalous,100
+Fist of War Support,no,Divergent,50
+Firestorm,no,Superior,100
+Firestorm,no,Anomalous,50
+Firestorm,no,Divergent,20
+Fireball,no,Superior,50
+Fireball,no,Anomalous,100
+Fireball,no,Divergent,40
+Fireball,no,Phantasmal,10
+Fire Trap,no,Superior,50
+Fire Trap,no,Anomalous,100
+Fire Trap,no,Divergent,20
+Fire Penetration Support,no,Superior,50
+Fire Penetration Support,no,Anomalous,100
+Fire Penetration Support,no,Divergent,10
+Feeding Frenzy Support,no,Superior,50
+Feeding Frenzy Support,no,Anomalous,10
+Feeding Frenzy Support,no,Divergent,100
+Faster Projectiles Support,no,Superior,50
+Faster Projectiles Support,no,Anomalous,100
+Faster Projectiles Support,no,Divergent,100
+Faster Casting Support,no,Superior,50
+Faster Casting Support,no,Anomalous,5
+Faster Casting Support,no,Divergent,50
+Faster Attacks Support,no,Superior,50
+Faster Attacks Support,no,Anomalous,5
+Faster Attacks Support,no,Divergent,50
+Eye of Winter,no,Superior,100
+Eye of Winter,no,Anomalous,50
+Eye of Winter,no,Divergent,50
+Exsanguinate,no,Superior,100
+Exsanguinate,no,Anomalous,50
+Exsanguinate,no,Divergent,50
+Explosive Trap,no,Superior,50
+Explosive Trap,no,Anomalous,100
+Explosive Trap,no,Divergent,20
+Explosive Concoction,no,Superior,100
+Explosive Concoction,no,Anomalous,50
+Explosive Concoction,no,Divergent,50
+Explosive Arrow,no,Superior,50
+Explosive Arrow,no,Anomalous,100
+Explosive Arrow,no,Divergent,20
+Ethereal Knives,no,Superior,50
+Ethereal Knives,no,Anomalous,100
+Ethereal Knives,no,Divergent,20
+Eternal Blessing Support,no,Superior,100
+Eternal Blessing Support,no,Anomalous,50
+Eternal Blessing Support,no,Divergent,50
+Essence Drain,no,Superior,50
+Essence Drain,no,Anomalous,100
+Essence Drain,no,Divergent,20
+Ensnaring Arrow,no,Superior,50
+Ensnaring Arrow,no,Anomalous,100
+Ensnaring Arrow,no,Divergent,20
+Enlighten Support,no,Superior,50
+Enlighten Support,no,Anomalous,5
+Enhance Support,no,Superior,50
+Enhance Support,no,Anomalous,5
+Enfeeble,no,Superior,50
+Enfeeble,no,Anomalous,100
+Enfeeble,no,Divergent,100
+Energy Leech Support,no,Superior,50
+Energy Leech Support,no,Anomalous,100
+Energy Leech Support,no,Divergent,20
+Energy Blade,no,Superior,100
+Energy Blade,no,Anomalous,50
+Energy Blade,no,Divergent,50
+Enduring Cry,no,Superior,50
+Enduring Cry,no,Anomalous,100
+Enduring Cry,no,Divergent,20
+Endurance Charge on Melee Stun Support,no,Superior,50
+Endurance Charge on Melee Stun Support,no,Anomalous,20
+Endurance Charge on Melee Stun Support,no,Divergent,100
+Empower Support,no,Superior,50
+Empower Support,no,Anomalous,5
+Elemental Weakness,no,Superior,50
+Elemental Weakness,no,Anomalous,100
+Elemental Weakness,no,Divergent,100
+Elemental Proliferation Support,no,Superior,50
+Elemental Proliferation Support,no,Anomalous,100
+Elemental Proliferation Support,no,Divergent,20
+Elemental Penetration Support,no,Superior,50
+Elemental Penetration Support,no,Anomalous,100
+Elemental Hit,no,Superior,50
+Elemental Hit,no,Anomalous,100
+Elemental Hit,no,Divergent,100
+Elemental Focus Support,no,Superior,50
+Elemental Focus Support,no,Anomalous,100
+Elemental Focus Support,no,Divergent,20
+Elemental Damage with Attacks Support,no,Superior,50
+Elemental Damage with Attacks Support,no,Anomalous,100
+Elemental Damage with Attacks Support,no,Divergent,10
+Elemental Army Support,no,Superior,50
+Elemental Army Support,no,Anomalous,100
+Elemental Army Support,no,Divergent,20
+Efficacy Support,no,Superior,50
+Efficacy Support,no,Anomalous,100
+Efficacy Support,no,Divergent,100
+Earthshatter,no,Superior,50
+Earthshatter,no,Anomalous,20
+Earthshatter,no,Divergent,100
+Earthshatter,no,Phantasmal,100
+Earthquake,no,Superior,50
+Earthquake,no,Anomalous,100
+Earthquake,no,Divergent,100
+Earthquake,no,Phantasmal,5
+Earthbreaker Support,no,Superior,100
+Earthbreaker Support,no,Anomalous,100
+Earthbreaker Support,no,Divergent,20
+Dual Strike,no,Superior,50
+Dual Strike,no,Anomalous,100
+Dual Strike,no,Divergent,100
+Dual Strike,no,Phantasmal,20
+Dread Banner,no,Superior,50
+Dread Banner,no,Anomalous,10
+Dread Banner,no,Divergent,100
+Double Strike,no,Superior,50
+Double Strike,no,Anomalous,100
+Double Strike,no,Divergent,100
+Dominating Blow,no,Superior,50
+Dominating Blow,no,Anomalous,100
+Dominating Blow,no,Divergent,50
+Dominating Blow,no,Phantasmal,10
+Divine Ire,no,Superior,50
+Divine Ire,no,Anomalous,100
+Divine Ire,no,Divergent,20
+Divine Blessing Support,no,Superior,100
+Divine Blessing Support,no,Anomalous,50
+Divine Blessing Support,no,Divergent,50
+Discipline,no,Superior,50
+Discipline,no,Anomalous,100
+Discipline,no,Divergent,20
+Discharge,no,Superior,50
+Discharge,no,Anomalous,100
+Discharge,no,Divergent,5
+Discharge,no,Phantasmal,20
+Devouring Totem,no,Superior,50
+Devouring Totem,no,Anomalous,100
+Devouring Totem,no,Divergent,100
+Detonate Dead,no,Superior,50
+Detonate Dead,no,Anomalous,10
+Detonate Dead,no,Divergent,20
+Determination,no,Superior,50
+Determination,no,Anomalous,100
+Determination,no,Divergent,10
+Destructive Link,no,Superior,100
+Destructive Link,no,Anomalous,50
+Destructive Link,no,Divergent,50
+Despair,no,Superior,50
+Despair,no,Anomalous,100
+Despair,no,Divergent,100
+Desecrate,no,Superior,50
+Desecrate,no,Anomalous,100
+Desecrate,no,Divergent,100
+Desecrate,no,Phantasmal,10
+Defiance Banner,no,Superior,50
+Defiance Banner,no,Anomalous,10
+Defiance Banner,no,Divergent,100
+Decoy Totem,no,Superior,50
+Decoy Totem,no,Anomalous,100
+Decoy Totem,no,Divergent,100
+Decoy Totem,no,Phantasmal,10
+Decay Support,no,Superior,50
+Decay Support,no,Anomalous,100
+Decay Support,no,Divergent,20
+Deadly Ailments Support,no,Superior,50
+Deadly Ailments Support,no,Anomalous,100
+Deadly Ailments Support,no,Divergent,20
+Dash,no,Superior,50
+Dash,no,Anomalous,100
+Dash,no,Divergent,20
+Dark Pact,no,Superior,50
+Dark Pact,no,Anomalous,100
+Dark Pact,no,Divergent,50
+Damage on Full Life Support,no,Superior,50
+Damage on Full Life Support,no,Anomalous,20
+Damage on Full Life Support,no,Divergent,100
+Cyclone,no,Superior,50
+Cyclone,no,Anomalous,100
+Cyclone,no,Divergent,100
+Cyclone,no,Phantasmal,100
+Cursed Ground Support,no,Superior,100
+Cursed Ground Support,no,Anomalous,50
+Cursed Ground Support,no,Divergent,50
+Culling Strike Support,no,Superior,50
+Culling Strike Support,no,Anomalous,100
+Culling Strike Support,no,Divergent,50
+Cruelty Support,no,Superior,100
+Cruelty Support,no,Anomalous,50
+Cruelty Support,no,Divergent,50
+Critical Strike Affliction Support,no,Superior,50
+Critical Strike Affliction Support,no,Anomalous,100
+Critical Strike Affliction Support,no,Divergent,100
+Cremation,no,Superior,50
+Cremation,no,Anomalous,100
+Cremation,no,Divergent,50
+Cremation,no,Phantasmal,10
+Creeping Frost,no,Superior,50
+Creeping Frost,no,Anomalous,100
+Creeping Frost,no,Divergent,10
+Creeping Frost,no,Phantasmal,50
+Crackling Lance,no,Superior,50
+Crackling Lance,no,Anomalous,20
+Crackling Lance,no,Divergent,100
+Crackling Lance,no,Phantasmal,100
+Corrupting Fever,no,Superior,100
+Corrupting Fever,no,Anomalous,50
+Corrupting Fever,no,Divergent,50
+Convocation,no,Superior,50
+Convocation,no,Anomalous,100
+Convocation,no,Divergent,5
+Conversion Trap,no,Superior,50
+Conversion Trap,no,Anomalous,100
+Conversion Trap,no,Divergent,100
+Controlled Destruction Support,no,Superior,50
+Controlled Destruction Support,no,Anomalous,100
+Controlled Destruction Support,no,Divergent,100
+Contagion,no,Superior,50
+Contagion,no,Anomalous,100
+Contagion,no,Divergent,20
+Consecrated Path,no,Superior,50
+Consecrated Path,no,Anomalous,100
+Consecrated Path,no,Divergent,50
+Consecrated Path,no,Phantasmal,50
+Conductivity,no,Superior,50
+Conductivity,no,Anomalous,100
+Conductivity,no,Divergent,100
+Concentrated Effect Support,no,Superior,50
+Concentrated Effect Support,no,Anomalous,10
+Concentrated Effect Support,no,Divergent,50
+Combustion Support,no,Superior,50
+Combustion Support,no,Anomalous,100
+Combustion Support,no,Divergent,50
+Cold to Fire Support,no,Superior,50
+Cold to Fire Support,no,Anomalous,100
+Cold to Fire Support,no,Divergent,10
+Cold Snap,no,Superior,50
+Cold Snap,no,Anomalous,100
+Cold Snap,no,Divergent,100
+Cold Penetration Support,no,Superior,50
+Cold Penetration Support,no,Anomalous,100
+Cold Penetration Support,no,Divergent,100
+Cobra Lash,no,Superior,50
+Cobra Lash,no,Anomalous,100
+Cobra Lash,no,Divergent,100
+Cluster Traps Support,no,Superior,50
+Cluster Traps Support,no,Anomalous,100
+Cluster Traps Support,no,Divergent,100
+Close Combat Support,no,Superior,50
+Close Combat Support,no,Anomalous,100
+Close Combat Support,no,Divergent,100
+Cleave,no,Superior,50
+Cleave,no,Anomalous,20
+Cleave,no,Divergent,50
+Cleave,no,Phantasmal,50
+Clarity,no,Superior,50
+Clarity,no,Anomalous,100
+Clarity,no,Divergent,100
+Charged Traps Support,no,Superior,50
+Charged Traps Support,no,Anomalous,100
+Charged Traps Support,no,Divergent,100
+Charged Mines Support,no,Superior,50
+Charged Mines Support,no,Anomalous,100
+Charged Mines Support,no,Divergent,20
+Charged Dash,no,Superior,50
+Charged Dash,no,Anomalous,20
+Charged Dash,no,Divergent,100
+Chance to Poison Support,no,Superior,50
+Chance to Poison Support,no,Anomalous,20
+Chance to Poison Support,no,Divergent,100
+Chance to Bleed Support,no,Superior,50
+Chance to Bleed Support,no,Anomalous,100
+Chance to Bleed Support,no,Divergent,20
+Chain Support,no,Superior,100
+Chain Support,no,Anomalous,50
+Chain Support,no,Divergent,50
+Chain Hook,no,Superior,50
+Chain Hook,no,Anomalous,100
+Chain Hook,no,Divergent,50
+Caustic Arrow,no,Superior,50
+Caustic Arrow,no,Anomalous,100
+Caustic Arrow,no,Divergent,100
+Cast while Channelling Support,no,Superior,50
+Cast while Channelling Support,no,Anomalous,100
+Cast while Channelling Support,no,Divergent,100
+Cast when Stunned Support,no,Superior,50
+Cast when Stunned Support,no,Anomalous,100
+Cast when Stunned Support,no,Divergent,100
+Cast when Damage Taken Support,no,Superior,50
+Cast when Damage Taken Support,no,Anomalous,100
+Cast when Damage Taken Support,no,Divergent,20
+Cast on Melee Kill Support,no,Superior,50
+Cast on Melee Kill Support,no,Anomalous,100
+Cast on Melee Kill Support,no,Divergent,20
+Cast on Death Support,no,Superior,50
+Cast on Death Support,no,Anomalous,100
+Cast on Death Support,no,Divergent,100
+Cast On Critical Strike Support,no,Superior,50
+Cast On Critical Strike Support,no,Anomalous,50
+Cast On Critical Strike Support,no,Divergent,100
+Burning Damage Support,no,Superior,50
+Burning Damage Support,no,Anomalous,100
+Burning Damage Support,no,Divergent,100
+Burning Arrow,no,Superior,50
+Burning Arrow,no,Anomalous,100
+Burning Arrow,no,Divergent,100
+Brutality Support,no,Superior,50
+Brutality Support,no,Anomalous,100
+Brutality Support,no,Divergent,100
+Brand Recall,no,Superior,50
+Brand Recall,no,Anomalous,20
+Boneshatter,no,Superior,50
+Boneshatter,no,Anomalous,50
+Boneshatter,no,Divergent,10
+Bonechill Support,no,Superior,50
+Bonechill Support,no,Anomalous,100
+Bonechill Support,no,Divergent,100
+Bone Offering,no,Superior,50
+Bone Offering,no,Anomalous,20
+Bone Offering,no,Divergent,5
+Bodyswap,no,Superior,50
+Bodyswap,no,Anomalous,100
+Bodyswap,no,Divergent,100
+Bodyswap,no,Phantasmal,20
+Bloodthirst Support,no,Superior,100
+Bloodthirst Support,no,Anomalous,50
+Bloodthirst Support,no,Divergent,50
+Bloodlust Support,no,Superior,50
+Bloodlust Support,no,Anomalous,20
+Bloodlust Support,no,Divergent,5
+Blood Rage,no,Superior,50
+Blood Rage,no,Anomalous,5
+Blood Rage,no,Divergent,50
+Blood and Sand,no,Superior,50
+Blood and Sand,no,Anomalous,100
+Blood and Sand,no,Divergent,100
+Block Chance Reduction Support,no,Superior,50
+Block Chance Reduction Support,no,Anomalous,20
+Blink Arrow,no,Superior,50
+Blink Arrow,no,Anomalous,100
+Blink Arrow,no,Divergent,100
+Blink Arrow,no,Phantasmal,20
+Blind Support,no,Superior,50
+Blind Support,no,Anomalous,100
+Blind Support,no,Divergent,50
+Blight,no,Superior,50
+Blight,no,Anomalous,100
+Blight,no,Divergent,100
+Blazing Salvo,no,Superior,50
+Blazing Salvo,no,Anomalous,100
+Blazing Salvo,no,Divergent,20
+Blastchain Mine Support,no,Superior,50
+Blastchain Mine Support,no,Anomalous,50
+Blastchain Mine Support,no,Divergent,20
+Blast Rain,no,Superior,50
+Blast Rain,no,Anomalous,100
+Blast Rain,no,Divergent,100
+Blast Rain,no,Phantasmal,100
+Blasphemy Support,no,Superior,50
+Blasphemy Support,no,Anomalous,100
+Blasphemy Support,no,Divergent,10
+Bladestorm,no,Superior,50
+Bladestorm,no,Anomalous,100
+Bladestorm,no,Divergent,100
+Bladestorm,no,Phantasmal,20
+Bladefall,no,Superior,50
+Bladefall,no,Anomalous,100
+Bladefall,no,Divergent,100
+Blade Vortex,no,Superior,50
+Blade Vortex,no,Anomalous,10
+Blade Vortex,no,Divergent,100
+Blade Vortex,no,Phantasmal,100
+Blade Trap,no,Superior,100
+Blade Trap,no,Anomalous,50
+Blade Trap,no,Divergent,50
+Blade Flurry,no,Superior,50
+Blade Flurry,no,Anomalous,100
+Blade Flurry,no,Divergent,50
+Blade Blast,no,Superior,50
+Blade Blast,no,Anomalous,20
+Blade Blast,no,Divergent,10
+Blade Blast,no,Phantasmal,100
+Berserk,no,Superior,50
+Berserk,no,Anomalous,100
+Berserk,no,Divergent,20
+Behead Support,no,Superior,100
+Behead Support,no,Anomalous,50
+Behead Support,no,Divergent,50
+Bear Trap,no,Superior,50
+Bear Trap,no,Anomalous,100
+Bear Trap,no,Divergent,100
+Bear Trap,no,Phantasmal,20
+Battlemage's Cry,no,Superior,100
+Battlemage's Cry,no,Anomalous,50
+Battlemage's Cry,no,Divergent,50
+Barrage Support,no,Superior,50
+Barrage Support,no,Anomalous,10
+Barrage Support,no,Divergent,20
+Barrage,no,Superior,50
+Barrage,no,Anomalous,100
+Barrage,no,Divergent,100
+Barrage,no,Phantasmal,20
+Bane,no,Superior,50
+Bane,no,Anomalous,100
+Bane,no,Divergent,5
+Ballista Totem Support,no,Superior,50
+Ballista Totem Support,no,Anomalous,100
+Ballista Totem Support,no,Divergent,50
+Ballista Totem Support,no,Phantasmal,10
+Ball Lightning,no,Superior,50
+Ball Lightning,no,Anomalous,100
+Ball Lightning,no,Divergent,20
+Assassin's Mark,no,Superior,50
+Assassin's Mark,no,Anomalous,100
+Assassin's Mark,no,Divergent,100
+Artillery Ballista,no,Superior,50
+Artillery Ballista,no,Anomalous,100
+Artillery Ballista,no,Divergent,10
+Arrow Nova Support,no,Superior,50
+Arrow Nova Support,no,Anomalous,100
+Arrow Nova Support,no,Divergent,100
+Arrogance Support,no,Superior,100
+Arrogance Support,no,Anomalous,50
+Arrogance Support,no,Divergent,50
+Armageddon Brand,no,Superior,50
+Armageddon Brand,no,Anomalous,100
+Armageddon Brand,no,Divergent,20
+Arctic Armour,no,Superior,50
+Arctic Armour,no,Anomalous,100
+Arctic Armour,no,Divergent,10
+Archmage Support,no,Superior,50
+Archmage Support,no,Anomalous,20
+Archmage Support,no,Divergent,50
+Arcanist Brand,no,Superior,50
+Arcanist Brand,no,Anomalous,100
+Arcanist Brand,no,Divergent,100
+Arcanist Brand,no,Phantasmal,100
+Arcane Surge Support,no,Superior,50
+Arcane Surge Support,no,Anomalous,100
+Arcane Surge Support,no,Divergent,100
+Arcane Cloak,no,Superior,50
+Arcane Cloak,no,Anomalous,100
+Arcane Cloak,no,Divergent,20
+Arc,no,Superior,50
+Arc,no,Anomalous,100
+Arc,no,Divergent,50
+Arc,no,Phantasmal,20
+Animate Weapon,no,Superior,50
+Animate Weapon,no,Anomalous,100
+Animate Weapon,no,Divergent,50
+Animate Weapon,no,Phantasmal,20
+Animate Guardian,no,Superior,50
+Animate Guardian,no,Anomalous,100
+Animate Guardian,no,Divergent,100
+Anger,no,Superior,50
+Anger,no,Anomalous,100
+Anger,no,Divergent,5
+Ancestral Warchief,no,Superior,50
+Ancestral Warchief,no,Anomalous,100
+Ancestral Warchief,no,Divergent,20
+Ancestral Warchief,no,Phantasmal,100
+Ancestral Protector,no,Superior,50
+Ancestral Protector,no,Anomalous,100
+Ancestral Protector,no,Divergent,20
+Ancestral Protector,no,Phantasmal,100
+Ancestral Cry,no,Superior,50
+Ancestral Cry,no,Anomalous,100
+Ancestral Cry,no,Divergent,100
+Ancestral Call Support,no,Superior,50
+Ancestral Call Support,no,Anomalous,100
+Ancestral Call Support,no,Divergent,20
+Ambush,no,Superior,50
+Ambush,no,Anomalous,50
+Ambush,no,Divergent,20
+Alchemist's Mark,no,Superior,50
+Alchemist's Mark,no,Anomalous,50
+Alchemist's Mark,no,Divergent,20
+Advanced Traps Support,no,Superior,50
+Advanced Traps Support,no,Anomalous,100
+Advanced Traps Support,no,Divergent,100
+Additional Accuracy Support,no,Superior,50
+Additional Accuracy Support,no,Anomalous,100
+Additional Accuracy Support,no,Divergent,20
+Added Lightning Damage Support,no,Superior,50
+Added Lightning Damage Support,no,Anomalous,100
+Added Lightning Damage Support,no,Divergent,100
+Added Fire Damage Support,no,Superior,50
+Added Fire Damage Support,no,Anomalous,50
+Added Fire Damage Support,no,Divergent,100
+Added Cold Damage Support,no,Superior,50
+Added Cold Damage Support,no,Anomalous,100
+Added Cold Damage Support,no,Divergent,100
+Added Chaos Damage Support,no,Superior,50
+Added Chaos Damage Support,no,Anomalous,100
+Added Chaos Damage Support,no,Divergent,100
+Absolution,no,Superior,100
+Absolution,no,Anomalous,50
+Absolution,no,Divergent,50
